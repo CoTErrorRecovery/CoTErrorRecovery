@@ -1,4 +1,6 @@
-### Hi there 👋
+### Faithful and Unfaithful Error Recovery in Chain of Thought
+
+Code and data coming soon.
 
 <!--
 **CoTErrorRecovery/CoTErrorRecovery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
