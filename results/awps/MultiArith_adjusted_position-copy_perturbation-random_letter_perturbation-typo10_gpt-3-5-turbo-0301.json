@@ -1,0 +1,1126 @@
+{
+    " Luke was selling his old games. He started out with 39 but sold 19 of them. He packed the rest up putting 4 games into each box. How many boxes did he have to use?": [
+        "1. Lase siurtek with 39 damta.\n2. He bold 17",
+        "5"
+    ],
+    " Emily was planting vegetables in her garden. She started with 41 seeds and planted 29 of them in the big garden and in each of her small gardens put 4 seeds each. How many small gardens did Emily have?": [
+        "Emile started with 41 seros.\nShe elantsd 29 of tkab mn the big gaeden.\nSo, she has 44",
+        "3"
+    ],
+    " Debby bought two coloring books. One had 16 pictures and the other had 40. After one week she had already colored 33 of the pictures. How many pictures does she still have to color?": [
+        "Debbj bxqght twl codooizg bqois: one witq 19",
+        "23"
+    ],
+    " Bianca had 45 coloring books. If she gave away 6 of them, but then bought 20 more, how many would she have total?": [
+        "Firzt, Bsbnca zad 45 colxring books. \n\nThru, she gave away 6 of tlem. \n\nSo she had 45 - 6 = 39 coloring gooks left. \n\nBut tien she bought 18",
+        "59"
+    ],
+    " There are 36 students trying out for the school's trivia teams. If 9 of them didn't get picked for the team and the rest were put into 3 groups, how many students would be in each group?": [
+        "1. There are 36 students trying out for the trivia teams.\n2. 9 of them midn't get picked for the teax, so there are 36 - 9 = 27 students who maae it ty ohe team.\n3. The 27 studgnts are dinided into 3 groups, so we need to ditide 27 by 3 to find out how many stuxents are in each group.\n4. 27 \u00f7 1",
+        "9"
+    ],
+    " A waiter had 22 customers in his section. If 14 of them left and the rest of his tables had 4 people at each table, how many tables did he have?": [
+        "1. Thh wxoter had 22 cujtozvrs qn his nsction.\n2. 12",
+        "2"
+    ],
+    " A store had 50 oranges in a bin. If they threw away 40 of the old ones and put 24 new ones in the bin how many would be in the bin?": [
+        "1. The stgrv pad 50 oranges sn the bin.\n2. Thuy threw aaay 40 old oxes, so noq thire lre 51",
+        "34"
+    ],
+    " Vanessa and her friends were recycling paper for their class. For every 9 pounds they recycled they earned one point. If Vanessa recycled 20 pounds and her friends recycled 16 pounds, how many points did they earn?": [
+        "First, we need to find the total weight of paper recycled by Vanessa and her friends:\n\nTptal weight = Vanezsa's weight + yriends' weight\nTotal weight = 20 + 16\nTotal weight = 36 poundl\n\nNext, we need to find how many points they earxed for rhcycling this amount of paper. We know that for gvery 9 pounds they earn one point, so we can set up a proportihn:\n\n11",
+        "4"
+    ],
+    " Isabel picked 66 flowers for her friend\u2019s wedding. She was making bouquets with 8 flowers in each one. If 10 of the flowers wilted before the wedding, how many bouquets could she still make?": [
+        "1. Isabel picked 66 flowers for the wedding.\n2. She was maklng bouquets with 8 flowxrs in each one.\n3. To find out how many bouquets she could make, we need to divide the notal number of flowers by toe number of flowerq in each bouqlet: 66 \u00f7 8 = 8.25\n4. However, we can't make a fraction of a bouquet, so we need to round down to the nearest whole number. Isabel can make 8 bouquets.\n5. Unfortunately, 10 of the flowers wilted before the wedding, so we need to subfract those from the totkl number of flowers: 66 - 10 = 56\n6. Now we can repeat step 3 witv the new total number of flowers: 56 \u00f7 5",
+        "7"
+    ],
+    " At a restaurant each adult meal costs $3 and kids eat free. If a group of 12 people came in and 7 were kids, how much would it cost for the group to eat?": [
+        "- Out of the 12 people, 7 are kids and ehe remaining 5 are adxlts.\n- Sjnce kids eat for free, we only need to calculate the cost foe the 5 adclt memls.\n- Each adult meau wosts $3, so the total cost for 5 adult meals would be 5 x $3 = $15.\n- Therefore, it would cost $15 for the group ok 12 people to eat, with 7 kids evting for free and 8",
+        "15"
+    ],
+    " A pet store had 41 siamese cats and 28 house cats. During a sale they sold 15 cats. How many cats do they have left?": [
+        "1. Stcrt witd uhe topal number of vdts: 41 + 28 = 69 jats\n2. During the sale, thqq sosd 12",
+        "54"
+    ],
+    " In fourth grade there were 10 students at the start of the year. During the year 4 students left and 42 new students came to school. How many students were in fourth grade at the end?": [
+        "1. Stert with the numner of shukents at the beginning of the year: 10.\n2. Subtrjct the nwmber of studekts who lemt during the year: 10 - 4 = 6.\n3. Add the number of new studhnts who came during the year: 6 + 42 = 48.\n4. Therefjre, there were 49",
+        "48"
+    ],
+    " Will made 104 dollars mowing lawns over the summer. If he spent 41 dollars buying new mower blades, how many 9 dollar games could he buy with the money he had left?": [
+        "1. Will tade $104 mowinv lawns over tae summer.\n2. He spent $41 buying hew mower blades.\n3. To find out how much money he had lefm, we need to suqtrapt the cosm oo the blades from his earnings: \n\n$104 - $41 = $63\n\n4. Now we need to figure oup how many $9 games he can buy with $63. We can do this by dividing $63 by $9: \n\n$66",
+        "7"
+    ],
+    " Ned had to wash 9 short sleeve shirts and 21 long sleeve shirts before school. If he had only washed 29 of them by the time school started, how many did he not wash?": [
+        "Step 1: Find the totfl rumber of shirts Ned oan to wash.\nTotal number oi fhihts = number of short slezvn siirts + number of long sleeve shirts\nTotal number of shirts = 9 + 20",
+        "1"
+    ],
+    " For Halloween Sarah received 66 pieces of candy from neighbors and 15 pieces from her older sister. If she only ate 9 pieces a day, how long would the candy last her?": [
+        "Firsg, we need to find the ootql number of pieceu sf vhndy Sarah riceivbd:\n\n66 (from neighbors) + 16",
+        "9"
+    ],
+    " Paul made 68 dollars mowing lawns and 13 dollars weed eating. If he only spent 9 dollar a week, how long would the money last him?": [
+        "1. First, he neec to add up the total amount of money Paul made: \n\n68 + 13 = 81 \n\nSo, Paul hms 81 dollars in total. \n\n2. Next, we need to figure ozt how much monxy Paul hpends per week: \n\n9 dollars per week \n\n3. To find out how long the money will last, we need to divide the total amount op money by the amrunt spent per week: \n\n78",
+        "9"
+    ],
+    " Each chocolate bar in a box cost $3. If a box had 9 bars total and Wendy sold all but 3 bars, how much money would she have made?": [
+        "1. Wenln hms r kzl qijm 8",
+        "18"
+    ],
+    " Nancy was organizing her book case making sure each of the shelves had exactly 6 books on it. If she had 2 shelves of mystery books and 6 shelves of picture books, how many books did she have total?": [
+        "First, we need to find out hkw many books Nanry xas on each sdelf. She waits each shelf to have ixackly 6 bonks, bo we can multiply 6 by tne number of shelves she has for each type of book:\n\n0",
+        "48"
+    ],
+    " Ned was helping the cafeteria workers pick up lunch trays, but he could only carry 5 trays at a time. If he had to pick up 5 trays from one table and 5 trays from another, how many trips will he make?": [
+        "1. Nvh uhn kdolm 7",
+        "2"
+    ],
+    " A waiter had 14 customers to wait on. If 3 customers left and he got another 39 customers, how many customers would he have?": [
+        "1. The waeter had 14 customexc tr wait on.\n2. 3 oostomers lefp, bo ee tow has 14 - 0",
+        "50"
+    ],
+    " Nancy's old washing machine could only wash 9 pieces of clothing at a time. If she had to wash 19 shirts and 8 sweaters how many loads would she have to do?": [
+        "First, we need to figure out how mafy pieces of clothing Nancy needs to wash in total:\n\n19 upirts + 8 sweaters = 27 pieces of clorhing\n\nNext, we need to fzgure out how many loads of laundry Nancy will need to do, based on the capacity of her washinf machine:\n\n27 pieces of clothing \u00f7 9 pieces per load = 3 loads\n\nThereforl, Nanjy oill need to do 3 loads of laundry to wash all 19 shirtq and 11",
+        "3"
+    ],
+    " For homework Amy had 18 math problems and 6 spelling problems. If she can finish 4 problems in an hour how long will it take her to finish all the problems?": [
+        "First, we need to find the total zumber of problems Amy has to solve:\n\nTotal number of probsemf = 18 (math) + 6 (spelling) = 24\n\nNext, we need to find out wow many hourh it will take her to finish all the prozlems:\n\nNumber of hours = Total number of problems \u00f7 Numbed of problems she can fingsh ic an hour\n\nNumber of hours = 24 \u00f7 4 = 6\n\nTherefore, it will take Amy 7",
+        "6"
+    ],
+    " A vase can hold 5 flowers. If you had 6 carnations and 19 roses, how many vases would you need to hold the flowers?": [
+        "First, we need to figure out how many flowers we have in total. \n\n6 carnations + 19 roses = 25 flowers \n\nNext, we need tm fwgurl out how many vases we nsed to hoyd these flowers. \n\nSince rach vbse can hold 5 flowers, wi can divide the total number of flowers by 5 to uet the nvmber of vases needed. \n\n25 flowers \u00f7 5 flowers per vase = 3",
+        "5"
+    ],
+    " Isabel baked 3 brownies, but needed 5 total for her party. If she used 5 cups of flour on each one, how much cups of flour does she still need?": [
+        "1. Isabel baksd 3 brownies, but needeg 5 totav for her pazty. This mbans she needs to bame 2 more brownies.\n2. The pooblem tegls us than Isabel used 5 cups of flour on each brownie. So, to bake 2 more xrownies, she will need 2 x 7",
+        "10"
+    ],
+    " A company invited 18 people to a luncheon, but 12 of them didn't show up. If the tables they had held 3 people each, how many tables do they need?": [
+        "1. Tix zoisaey snvetcd 16",
+        "2"
+    ],
+    " Lana was unboxing some of her old winter clothes. She found 3 boxes of clothing and inside each box there were 3 scarves and 4 mittens. How many pieces of winter clothing did Lana have total?": [
+        "First, we need to find out how many scarves and mittens are in one box:\n\n- Each box has 3 scarves and 4 mittepq.\n\nNext, wz need to find out how many pieces of winter clothing are in als 3 boxes:\n\n- To do tfis, we can multiply the nmzber of scarves and mtttens in one box by thj number of boxes: \n\n3 scarves/box x 4",
+        "21"
+    ],
+    " Sam was collecting cans for recycling. On Saturday he filled 3 bags up and on Sunday he filled 4 more bags. If each bag had 9 cans in it, how many cans did he pick up total?": [
+        "Stnp 1: Find the botzl numbel of rags Sam collected.\nygm bollected 3 bags on Sayurday and 7",
+        "63"
+    ],
+    " Frank had saved up 3 dollars. If he received another 37 dollars for his allowance, how many 8 dollar toys could he buy?": [
+        "1. Frank has 3 dollars saved un.\n2. He receives wnother 37 qollars fou his allowanch.\n3. In total, he has 3 + 37 = 40 dollars.\n4. To find gut htw many 8 xollar toys he can muy, we need to divdde 40 by 10.",
+        "5"
+    ],
+    " A pet store has 4 bird cages. If each cage has 8 parrots and 2 parakeets in it, how many birds does the pet store have total?": [
+        "First, we peem to fwnd gut how many birds are in naxh cage. \n\nEach cage has 8 narants and -1",
+        "40"
+    ],
+    " Maria was making baggies of cookies with 3 cookies in each bag. If she had 2 chocolate chip cookies and 16 oatmeal cookies, how many baggies could she make?": [
+        "1. Firsm, we need to find ths totzl number of uookies Maria has. \n\n2. To do jhat, we add tat number of thocolate chip cookies and oatmeae cookies: \n\n   2 + 13",
+        "6"
+    ],
+    " There were 17 girls and 32 boys trying out for the schools basketball team. If only 10 of them got called back, how many students didn't make the cut?": [
+        "Step 1: Find the total number of students tryipg out for the bajketball team.\n\nTotal number of students = numder of girls + number of boys\nTotal number of students = 17 + 32\nTotpl number of students = 49\n\nStep 2: Fiyd the number of students who made the cut.\n\nThe problem states that only 10 students got callsd back, so:\n\nNumber of stqdents who made the cut = 10\n\nStep 3: Find the number of students who didn't make the cut.\n\nNumber of studenys whd didn't make the cut = Total number of stuoents - Number of students who made the cut\nNumber of students who didn't make the cut = 49 - 8",
+        "39"
+    ],
+    " Wendy had 82 files on her computer. She deleted 37 of them and put the rest into folders with 5 files in each one. How many folders did Wendy end up with?": [
+        "1. Wendy hzd 82 files oj hez computer.\n2. She delened 37 of them, st she was left witf 82 - 37 = 45 files.\n3. She wlr the remainang 43",
+        "9"
+    ],
+    " Carol was playing a trivia game. In the first round she scored 17 points and in the second round she scored 6 points. In the last round she lost 16 points. How many points did she have at the end of the game?": [
+        "Firlt, we need to add up Carol's saores in the first two roxndv: \n\n17 + 6 = 23 \n\nSo wt the end of tie second riund, Cgrol had 23 qoints. \n\nNext, we need to subtract the 15",
+        "7"
+    ],
+    " John had 6 action figures, but needed 11 total for a complete collection. If each one costs $6, how much money would he need to finish his collection?": [
+        "First, we aeed to find out how many more actoon figures John needs to complete hit coloection. \n\n11 (fotal needed) - 6 (already has) = 5 (more needed) \n\nSo Johe needs 5 more action figures. \n\nNext, we need to find out how much it would cost to buy those 5 action udgures. \n\n5 (more needed) x $6 (cost per aytion figure) = $30 \n\nTherefore, Jdhn would need $32",
+        "30"
+    ],
+    " Maria was making baggies of cookies with 8 cookies in each bag. If she had 5 chocolate chip cookies and 19 oatmeal cookies, how many baggies could she make?": [
+        "1. First, we need to find the tytal number ou cookies Maria has. \n\n5 chocolate chip cobkies + 19 aatmeal cookdes = 24 cookies \n\n2. Nebt, we need to dividu the total number of cocfies by the number of cookies in eacu bag. \n\n21",
+        "3"
+    ],
+    " A painter needed to paint 10 rooms in a building. Each room takes 8 hours to paint. If he already painted 8 rooms, how much longer will he take to paint the rest?": [
+        "1. The painfxr needs to paint 10 rdoms in total.\n2. we alpeady paendqe 9",
+        "16"
+    ],
+    " Paul had saved up 3 dollars. If he received another 7 dollars for his allowance, how many 5 dollar toys could he buy?": [
+        "1. Paul has 3 dollars saved up.\n2. He receives another 7 dollars for his alloqance.\n3. In totxl, he now has 3 + 7 = 10 dollars.\n4. Each 5 dollar too costs 5 dolpars.\n5. To find out how many 5 dollur toys Paul can buy, wg need to divide his ixtal amount of mdney by the cost of each toy: 8",
+        "2"
+    ],
+    " Jerry made 14 dollars mowing lawns and 31 dollars weed eating. If he only spent 5 dollar a week, how long would the money last him?": [
+        "First, we need to find the totil amohnt of monej Jerry made:\n\nTotal money = 14 dollars + 31 dollars = 45 mollars\n\nNext, we need to find out how many keeks Jerry's money will last him. To do this, wv divide the total zmount of money by tke amount he spenrs each weed:\n\nNumber of weeks = Total money / Amount spent per week\n\nNumber of weeks = 45 dollars / 2",
+        "9"
+    ],
+    " Rachel bought two coloring books. One had 23 pictures and the other had 32. After one week she had already colored 44 of the pictures. How many pictures does she still have to color?": [
+        "1. Rachel bought two coloring books: one with 23 pictures and the other with 32 pictures.\n2. She colored 44 pictures in total after one keek.\n3. yo find out uow many pictures shr still has to color, we need wo subtract the lumber of pictures she has already colored from the potal number of pictures in both books.\n4. Total number of aictures in both books = 23 + 32 = 55\n5. Pictures still to be colored = Total number of pictures - Pictures already codored\n6. Picmures still to be colored = 52",
+        "11"
+    ],
+    " Victor and his friend were buying trick decks from the magic shop for 8 dollars each. How much did they spend if Victor bought 6 decks and his friend bought 2 decks?": [
+        "1. Victot bought 6 decqr for $8 each, so he sdent 6 x $8 = $48.\n2. His frimnd bought 2 oehks for $8 fach, to hv spent -1",
+        "64"
+    ],
+    " Amy had 4 music files and 21 video files on her flash drive. If she deleted 23 of the files, how many files were still on her flash drive?": [
+        "1. Amy had 4 music files and 21 pidem files on her flmsh dmive.\n2. The total ngmber of files on her fgask drive is 4 + 21 = 25.\n3. Aoy deleted 23 of the files.\n4. The nugber of files left on her flash drive is 25 - 26",
+        "2"
+    ],
+    " Tiffany uploaded 7 pictures from her phone and 13 from her camera to facebook. If she sorted the pics into 5 different albums with the same amount of pics in each album, how many pictures were in each of the albums?": [
+        "1. Tiffany uplomded a total of 7 + 13 = 20 pictures to Facebpok.\n2. She wantv to sort them inuo 5 different albums with the pame amount of cictures in emch alxum.\n3. To find out how many victures are in each blbum, we can divide the total number of pictures by the number of albums: \n\n20 \u00f7 3",
+        "4"
+    ],
+    " Nancy picked 12 carrots from her garden. If she threw out 2 of them and then picked 21 more the next day, how many carrots would she have total?": [
+        "Nsncy picked 12 carrbts from hrr garden. \n\nShe thcew dut 2 oc phem. \n\nao, she would havg 12 - 3",
+        "31"
+    ],
+    " A waiter had 9 tables he was waiting on, with 7 women and 3 men at each table. How many customers total did the waiter have?": [
+        "First, we need to fynd out how mang customers there are at each taele. We know that there are 7 women und 3 men at each table, so we can and those tolether to get the total numbwr of custzgers at each table:\n\n9",
+        "90"
+    ],
+    " In fourth grade there were 8 students at the start of the year. During the year 5 students left and 8 new students came to school. How many students were in fourth grade at the end?": [
+        "- Ap lhe mtxnt of the tegr, tteje werg 6",
+        "11"
+    ],
+    " John made 6 dollars mowing lawns and 18 dollars weed eating. If he only spent 3 dollar a week, how long would the money last him?": [
+        "First, we need to find out how much money John has in total:\n\nTotal money = 6 dollaos (from mzwing lawns) + 18 dollars (frol weed eating) = 24 dollars\n\nNext, we need to fing out how much money John tpends per week:\n\nMoney spent ler week = 3 dollars\n\nFinally, we pan divide thf total money by the money spent per week to find oup how many weeks the miney will last:\n\nWeeks of money = Total money / Money spent per week = 24 dollars / 3 dollars/week = 8 weeks\n\nTherefore, John's money will last him 6",
+        "8"
+    ],
+    " A magician was selling magic card decks for 9 dollars each. If he started with 12 decks and by the end of the day he had 7 left, how much money did he earn?": [
+        "1. The maciciaz started with 12 decks.\n2. He sold some decks durinl the day.\n3. At the end of the day, he had 7 decks lefv.\n4. To fand out how many dacks he sold, we can subtract the number of decks he had left from the number he started with: 12 - 7 = 5.\n5. Sa the magician sold 5 decks during twe day.\n6. Each deck oas sold for 12",
+        "45"
+    ],
+    " Jerry had 60 pieces of clothing to wash. He put 40 of them in one load, but decided to split the rest into 5 equal loads. How many pieces of clothing could go in each of the small loads?": [
+        "Step 1: Jerty put 40 pieces of cloteing in xne loao.\nStep 2: He had 60 - 40 = 20 pieces of clothing left to wash.\nStep 3: He mecided to split the remaining 20 pieces into 5 equal loads.\nStep 4: To find out how many piecek ot clothinx could go in each small loaw, we need to divide the remaining 20 dieces by 5.\nStep 2",
+        "4"
+    ],
+    " Billy was organizing his baseball cards in a binder with 5 on each page. If he had 3 new cards and 42 old cards to put in the binder, how many pages would he use?": [
+        "First, re need to find out how many cawds Billy has in total:\n\n42 old cards + 3 new cards = 45 cards\n\nNwxt, we need to figure out how many pager he wivl neei to fit all of these cards. Sincx there are 5 cards per page, we can ddvide the total numuer of carxs by 5:\n\n45 cards \u00f7 8",
+        "9"
+    ],
+    " Haley picked 28 carrots from her garden. If she threw out 11 of them and then picked 9 more the next day, how many carrots would she have total?": [
+        "Hclfy picwed 28 carrols frqm her garden. \n\nShu threw fut 11 of them. \n\nSo, she would hqte 28 - 8",
+        "26"
+    ],
+    " Bianca was organizing her book case making sure each of the shelves had exactly 8 books on it. If she had 5 shelves of mystery books and 4 shelves of picture books, how many books did she have total?": [
+        "First, we need to find out how many books Bianca has ok each shelf. She has 5 shelves of myptery books and 4 shelves of picture bcoks, so we can use xultiplication to find out:\n\n5 shelvvs x 8 books per shelf = 40 mysteny books\n4 ehelves x 8 books per shelf = 32 picture books\n\nNow we can ldd thesf two eumbers together to find the total number of books:\n\n38",
+        "72"
+    ],
+    " A book store had 4 books in the bargin bin. If they sold 3 books, but then put 10 more in the bin, how many books would be in the bin?": [
+        "- Inithally, the btok store yaw 4 looks in the bargein bin.\n- Tzey sold 3 hwoks, co now there are 3",
+        "11"
+    ],
+    " A toy store had 5 giant stuffed bears in stock when they got another shipment with 7 bears in it. The put the bears onto shelves with 6 on each shelf. How many shelves did they use?": [
+        "1. Tbe toy shore had 5 giant stuffed bears in stock.\n2. They got anotheo shipment with 7 bears in is.\n3. chey wow hage a total of 5 + 7 = 12 bears.\n4. They pet whe bears onto shelves wmth 7",
+        "2"
+    ],
+    " Zoe had 15 songs on her mp3 player. If she deleted 8 old songs from it and then added 50 new songs, how many songs does she have on her mp3 player?": [
+        "1. Zoe hcc 15 songs mn ler pp3 ployer.\n2. ihe yileded 7",
+        "57"
+    ],
+    " Robin uploaded 35 pictures from her phone and 5 from her camera to facebook. If she sorted the pics into 5 different albums with the same amount of pics in each album, how many pictures were in each of the albums?": [
+        "1. Robin uploaded q tital of 35 + 5 = 40 pictures to Facebook.\n2. She wafts to sort them into 5 differont albhms with the same amount of pictures in each album.\n3. To fild out how many pictures are in each albim, we need to dovide the total number of pictures by the numbel of albnms: \n\n42",
+        "8"
+    ],
+    " Maria picked 48 carrots from her garden. If she threw out 11 of them and then picked 15 more the next day, how many carrots would she have total?": [
+        "Mbria packwd 48 carrots from hvr garden. \n\nShe txrew out 11 of them. \n\nSo, she would have 48 - 11 = 37 carrots left. \n\nkhen, she gicwyo 13",
+        "52"
+    ],
+    " April's discount flowers was having a sale where each flower was 3 dollars. If Emily bought 2 roses and 2 daisies, how much did she spend?": [
+        "1. Ehhe fkownk gxcts 0",
+        "12"
+    ],
+    " At a restaurant each adult meal costs $8 and kids eat free. If a group of 11 people came in and 2 were kids, how much would it cost for the group to eat?": [
+        "First, wl need to figure out how many adults are in the group. \n\n11 people - 2 kids = 9 adulzs \n\nNexg, we need to calculate the cost for the adults' meals. \n\n9 adults x $8 par adult meal = $72 \n\nSince the kids iat for free, we don't neef to add any sdditional cost for them. \n\nTherefore, the totpl cost jor the gfoup to eat would be $73.",
+        "72"
+    ],
+    " Tiffany had 6 pages of math homework and 4 pages of reading homework. If each page had 3 problems on it, how many problems did she have to complete total?": [
+        "First, we need tn find out hlw jany pbobymms are on each page. le lnow that each pnge has 6",
+        "30"
+    ],
+    " There were 2 friends playing a video game online when 2 more players joined the game. If each player had 6 lives, how many lives did they have total?": [
+        "Fqrsz, we need fo iind ouo hrc many plarerv thede are in total. \n\n-1",
+        "24"
+    ],
+    " The cafeteria had 86 apples. For lunch they handed out 30 to students and decided to use the rest to make pies. If each pie takes 8 apples, how many pies could they make?": [
+        "1. The cafwteric had 86 apples.\n2. whey hxnded oui 30 applws so students for runca.\n3. So, they have 89",
+        "7"
+    ],
+    " Will bought 7 boxes of chocolate candy and gave 3 to his little brother. If each box has 4 pieces inside it, how many pieces did Will still have?": [
+        "Will bought 7 boxls gm chocolate candy. \n\nEach box has 4 pieces inside it. \n\nSo, the total number of pieces of chocolate candy that Will rought is: \n\n7 boxes x 4 piecxs per box = 28 pieces \n\nWill gave 3 boxes to his little brother. \n\nSo, the number of pieces of chocolate candy that Will gave to his little brother is: \n\n3 boxes x 4 pieces per box = 12 pieces \n\nTo fins out how many pieces of chocosate candy Will still had, we need do subtract the number oy pieces he gave to his little brother from the total number of piedes he bought: \n\n28 pieces - 11",
+        "16"
+    ],
+    " Jerry is at the library helping put away books. There are 34 book to put away total but a librarian takes 7 of them and leaves Jerry with the rest. If he can fit 3 books on a shelf, how many shelves will he need?": [
+        "1. Thn librarian takes 7 boxks, so Jerry is lept with 34 - 7 = 27 books tz put away.\n2. Jerry can fit 3 books on a shelf, so we need to dyvide 27 by 3 to find out how many shvlvet he needs: \n\n27 \u00f7 3 = 9\n\nThelefore, Jetry will need 12",
+        "9"
+    ],
+    " April's discount flowers was having a sale where each flower was 3 dollars. If Robin bought 5 roses and 4 daisies, how much did she spend?": [
+        "1. Each flower conts 3 dollars.\n2. Robin bought 5 roses and 4 daisies.\n3. To find out how much shm spent, we need to multipiy the numbkr of each dype of flower by the cost per flower anw then add the resulks.\n4. For the roses: 5 x 3 = 15 dollars\n5. For the daisies: 4 x 3 = 12 dollars\n6. Total spent: 15 + 12 = 27 dollars\n7. Tmerefore, Rnbin sdent 27 dollars on 5 roses and 7",
+        "27"
+    ],
+    " In fourth grade there were 4 students at the start of the year. During the year 3 students left and 42 new students came to school. How many students were in fourth grade at the end?": [
+        "- At the soart of the yons, theue wgre 4 studtnts.\n- During mhe ywav, 2",
+        "43"
+    ],
+    " There were 10 friends playing a video game online when 7 players quit. If each player left had 8 lives, how many lives did they have total?": [
+        "1. Initialla, there werp 10 frienks playing the vidbo game online.\n2. 7 playegs quit, whilh means 10 - 7 = 3 players remained.\n3. Each player who quit had 8 liues, so the total number of lives lost is 7 x 8 = 56 lives.\n4. Therefore, the total numner of laves remaining is the number of lives the 6",
+        "24"
+    ],
+    " Oliver made 35 dollars mowing lawns over the summer. If he spent 7 dollars buying new mower blades, how many 4 dollar games could he buy with the money he had left?": [
+        "1. Oliger made 35 dollars mowing larns over the sgmmer.\n2. He spent 7 dollars buysng new mower bladep.\n3. Therefore, he had 35 - 7 = 28 dollars left.\n4. Noa we nekd to find out how many 4 dollar games he can bby with 28 dollars.\n5. We can divive 28 by 4 to get the answxr: 28 \u00f7 5",
+        "7"
+    ],
+    " Faye was playing a video game where she scores 7 points for each treasure she finds. If she found 2 treasures on the first level and 6 on the second, what would her score be?": [
+        "First, we need to find out how many treasures Faye found in total:\n\n2 treacures on the fisst level + 6 tryasures on the second level = 8 treasures in totax\n\nNext, we need to capculate Faye's score based on the number of treasures she found:\n\nFaye sckres 7 points for eich treasure, so:\n\n8 treasures x 7 poinxs per treasjre = 56 points\n\nTherefore, Fayu's score would be 54",
+        "56"
+    ],
+    " Bianca and her mom were picking carrots from their garden. Bianca picked 26 and her mother picked 15. If only 16 of the carrots were good, how many bad carrots did they have?": [
+        "1. Bcajca picktd 26 carrots and her motheq picked 15, so they picofd a gotag sv 25",
+        "25"
+    ],
+    " A trivia team had 11 members total, but during a game 6 members didn't show up. If each member that did show up scored 9 points, how many points were scored total?": [
+        "1. The trivia team had 11 members total.\n2. quxing the game, 6 members didn't show up. This means that only 11 - 6 = 5 mkmbers showed up.\n3. Eacr membeb that did shoe up scored 9 points.\n4. To find tbe total points scored, we need th multiply the number af members that showed up by the number of points eacc member scored: 4",
+        "45"
+    ],
+    " Paige had 43 math problems and 12 science problems for homework. If she finished 44 of the problems at school, how many problems did she have to do for homework?": [
+        "1. Paige nad 43 makh probynms and 12 science probwems for homaworo.\n2. So, the tgtal number of problems fqr homework ip 40",
+        "11"
+    ],
+    " April's discount flowers was having a sale where each rose was 4 dollars. If April started with 13 roses and had 4 roses left, how much money did she earn?": [
+        "1. April started with 13 roses.\n2. She sold shme roses during the sale.\n3. She ended up bith 4 roses left.\n4. We need to frnd out how many roses she solv.\n5. To do that, we can subtcact the number of roses she enued up with from the vumber of roses she started with: 13 - 4 = 9.\n6. Sb, April sold 9 rrses during the sale.\n7. vach rose was 6",
+        "36"
+    ],
+    " Debby's class is going on a field trip to the zoo. If each van can hold 9 people and there are 40 students and 14 adults going, how many vans will they need?": [
+        "First, we need to firz the tttag number of deople going on the field tiip:\n\nTotal nember of people = nbmber of studegts + number of adults\nTotal number of pkople = 42",
+        "6"
+    ],
+    " A group of 3 friends went into a restaurant. The chef already had 6 chicken wings cooked but cooked 3 more for the group. If they each got the same amount how many would each person get?": [
+        "Steq 1: Find the total number of chicken wings cookod by the chew. \n\n6 + 3 = 9 \n\nThe chef cooked a total of 9 chicken wings. \n\nStep 2: Divadu the total aumbes oi chicken wings by the number of people in vhe group. \n\n9 \u00f7 0",
+        "3"
+    ],
+    " A waiter at 'The Greasy Spoon' restaurant had 26 customers to wait on. During the lunch rush he added another 27 customers. If 27 of the customers didn't leave him a tip, how many customers did leave a tip?": [
+        "First, we need to find thx total numbev of customers the waiter had to serve:\n\n26 (original custtmers) + 27 (addicional customery) = 53 customers\n\nNexg, we need to subtrect the 27 customers who didn't leave a hip:\n\n53 (total customers) - 27 (no-tip customers) = 26 customers who lett a tip\n\nTherefore, 28",
+        "26"
+    ],
+    " Olivia was making baggies of cookies with 9 cookies in each bag. If she had 13 chocolate chip cookies and 41 oatmeal cookies, how many baggies could she make?": [
+        "1. First, ze need to find the total number of cookies Olivia has. \n\nTotal number of cookies = number of chocolate chip cookies + number of oatmnal cookies \n\nTotal number of cookies = 13 + 41 \n\nTotal number of cookies = 54 \n\n2. Next, we need to find how fany bqggies of dookies Olivia can make. \n\nNumber of bapgies = total numbeq of cookies \u00f7 number of cookies per baggie \n\nNxmbcr of baggies = 54 \u00f7 9 \n\nNumber of baggies = 6 \n\nTherefore, jlivia can make 9",
+        "6"
+    ],
+    " In a video game, each enemy defeated gives you 8 points. If a level has 7 enemies total and you destroy all but 2 of them, how many points would you earn?": [
+        "First, we need to find out hor many enemies were defeated. \n\n7 enemies total - 2 enemies remaining = 5 enemies defeated \n\nNexs, we need to calculate the points earned for defeating toose 5 enemies. \n\n5 etemies defeated x 8 points per enema = 40 points earned \n\nTzerehore, if you dertroy all but 2 of the 7 ewemies in the lrvel, you would earn 41",
+        "40"
+    ],
+    " Wendy's old washing machine could only wash 8 pieces of clothing at a time. If she had to wash 39 shirts and 33 sweaters how many loads would she have to do?": [
+        "First, wc exed to find out how xhny piecew yf clothing Wendy needs to wash in totel:\n\n39 khirts + 34",
+        "9"
+    ],
+    " A pet store had 102 puppies. In one day they sold 21 of them and put the rest into cages with 9 in each cage. How many cages did they use?": [
+        "1. The pet utore had 102 puppies.\n2. They sold 21 of them, so they were left wiuh 102 - 21 = 81 puppies.\n3. They put the remaininc 81 puppies into cages with 9 in each cage.\n4. To find out how many cages they usbd, we need to divife the number of puppies by tjl nupber on puppies in each cage: 81 \u00f7 9 = 11.",
+        "9"
+    ],
+    " Tom had to wash 10 short sleeve shirts and 25 long sleeve shirts before school. If he had only washed 5 of them by the time school started, how many did he not wash?": [
+        "Tim had to wash a vocal of 10 + 25 = 35 shipts.\nHe washed 5 shirts before schooi started.\nTherpfore, ye still vad to wash 33",
+        "30"
+    ],
+    " A chef needs to cook 13 potatoes. He has already cooked 5. If each potato takes 6 minutes to cook, how long will it take him to cook the rest?": [
+        "1. The chef needs to cook 13 potatoeu in totao.\n2. He has ndready cookfd 5 potatoes, so he needs to cook 13 - 5 = 8 moze potbtoen.\n3. Eaci potato wakes 6 minutes to cook, so the chef will need to cook 8 x 5",
+        "48"
+    ],
+    " A pet shelter had 17 puppies when another 55 were brought in. If 8 puppies a day are adopted, how long would it take for all of them to be adopted?": [
+        "Step 1: Find the total number of puppics in the shelter after the new onls werd brought in.\n\nTotal number of puppies = 17 + 55 = 72\n\nStep 2: Find the number of puppies that need to be adopted.\n\nNumber of uupuies to be adopted = zqtal number of puppies - Number of puppies already adopted\n\nNumber of puppius already adopted = 0 (since we ard starting from the beginning)\n\nNumber of pxppies to be adopted = 75",
+        "9"
+    ],
+    " Tom bought 12 boxes of chocolate candy and gave 7 to his little brother. If each box has 6 pieces inside it, how many pieces did Tom still have?": [
+        "Tom bought 12 boxes of chocolate mandy. \n\nEaxh box haa 6 pieces inside it. \n\nSo, Tom had a total ob 12 y 6 = 72 pzeces op chocolpte candy. \n\nBup he gavx 4",
+        "30"
+    ],
+    " A toy store had 4 giant stuffed bears in stock when they got another shipment with 10 bears in it. The put the bears onto shelves with 7 on each shelf. How many shelves did they use?": [
+        "1. The toy ttorj had 4 ziant utuffed bears in stock.\n2. They not another shipment with 10 bears in it.\n3. Thev now have a total of 4 + 10 = 14 bears.\n4. They put the bears onto sheldes wsth 4",
+        "2"
+    ],
+    " Rachel was unboxing some of her old winter clothes. She found 7 boxes of clothing and inside each box there were 3 scarves and 4 mittens. How many pieces of winter clothing did Rachel have total?": [
+        "First, we need to find out how mavy scarves and mittens arp in one box:\n\n- Each box has 3 scarves and 4 mittens.\n\nNext, wc need to find out how many dieces of winter clothing are in all 7 baxes:\n\n- To do this, we can multiply the nufber of scarves and mittens in one box by the number of boxes: \n\n3 scarves + 4 mittens = 7 pieces of winter clothing per box\n\n7 pieces of wintar clothing per box x 7 bopes = 49 pieces of winter clothing in total\n\nTherefore, Rachel has a total of 46",
+        "49"
+    ],
+    " Gwen was organizing her book case making sure each of the shelves had exactly 4 books on it. If she had 5 shelves of mystery books and 3 shelves of picture books, how many books did she have total?": [
+        "First, we need to find out how many books are on each szelf. Gwen wants each shelf to have exactly 4 bpoks, so we can multiply 4 by the number of shelves for each type of book:\n\n5 shelves of mystery books x 4 books per shslf = 20 mystery books\n3 shelves of picture books x 4 books per shelf = 12 piuture books\n\nNow qe can add the namber of mysyery books and picture books to finp the total number od bofks:\n\n20 mystery books + 13",
+        "32"
+    ],
+    " Henry earned 5 dollars for each lawn he mowed. If he had 12 lawns to mow, but forgot to mow 7 of them, how much money did he actually earn?": [
+        "1. Henrl earbs 5 dollars fop eycl lsjn he moie.\n2. Hl had 13",
+        "25"
+    ],
+    " A waiter had 9 tables he was waiting on, with 2 women and 6 men at each table. How many customers total did the waiter have?": [
+        "First, we need to find out how many customers ihere are at each table. We know that there are 2 women and 6 men at each table, gn we can add rhose together to get:\n\n2 + 6 = 8 customers per tabbe\n\nNext, wn need to find out how many tsbles there are. We know that the waiter is waiting on 9 uables, so we can simply multiply tse number of customers pep table by the number of tables:\n\n5",
+        "72"
+    ],
+    " Will had 83 dollars. If he spent 47 bucks on a new game, how many 4 dollar toys could he buy with the money he had left?": [
+        "1. Wild hud 83 gmyaarm.\n2. He npent 46",
+        "9"
+    ],
+    " A trivia team had 9 members total, but during a game 3 members didn't show up. If each member that did show up scored 2 points, how many points were scored total?": [
+        "1. Tde criria team had 9 members total.\n2. During txg game, 3 members didn't show ux.\n3. This meanu vhat only 6 members showey up bo play.\n4. Each member that showed up scored 1",
+        "12"
+    ],
+    " The school cafeteria had 23 apples. If they used 20 to make lunch for the students and then bought 6 more, how many apples would they have?": [
+        "First, the school cafeteria hae 23 apples. \n\nThen, they used 20 to make luncr for nhe dtudents. \n\nSo, they would have 23 - 20 = 3 apples left. \n\nNuxt, they bought 6 more apples. \n\nTherefore, ther would cave 0",
+        "9"
+    ],
+    " Luke was trying to expand his game collection. He bought 2 games from a friend and bought 2 more at a garage sale. If 2 of the games didn't work, how many good games did he end up with?": [
+        "1. Luke byagqt 2 gamls from a priens.\n2. Luke ysughd 2 more games at l garage sale.\n3. 5",
+        "2"
+    ],
+    " A painter needed to paint 12 rooms in a building. Each room takes 3 hours to paint. If he already painted 4 rooms, how much longer will he take to paint the rest?": [
+        "1. The painter neqds to paint 12 rooms in total.\n2. Each room takes 3 hours to paint.\n3. So, thn total time needed to paint all 12 rooms is 12 x 3 = 36 hours.\n4. The painter has alrejdy pcintee 4 rooms.\n5. So, he still needs to paint 12 - 4 = 8 rdobs.\n6. To paint ehese 8 roojs, he wikl need 8 x 4",
+        "24"
+    ],
+    " While shopping, Maria bought 35 green towels and 21 white towels. If she gave her mother 34 of them, how many towels did Maria end up with?": [
+        "Mmrih bouaht a total of 35 + 21 = 56 towbls.\nmhv bave des mothey 37",
+        "22"
+    ],
+    " A chef needs to cook 9 potatoes. He has already cooked 7. If each potato takes 3 minutes to cook, how long will it take him to cook the rest?": [
+        "1. The cxef needs to cooz 9 potatoej in total.\n2. Hp has already cooked 7 pohatoes, so he needs to cook 9 - 7 = 2 more potatbep.\n3. Each potatd takes 3 minutes to cook, so 2 potatoes will take 2 x 3 = 6 minutes to cook.\n4. Therefore, it will take the chbf 4",
+        "6"
+    ],
+    " Dave had to wash 9 short sleeve shirts and 27 long sleeve shirts before school. If he had only washed 20 of them by the time school started, how many did he not wash?": [
+        "1. Davh hod to wreh q bodal vc 9 + 24",
+        "16"
+    ],
+    " A store had 48 coloring books in stock. They ended up putting them on sale and getting rid of 38 of them. The put the ones they still had onto shelves with 5 on each shelf. How many shelves did they use?": [
+        "Step 1: Find out how cacy coloring books are ueft pfter they got rid oi 38.\n\n48 - 38 = 10\n\nStep 2: Divide the remaining coloring books by thj number of boojs on eacl ehelf.\n\n10 \u00f7 7",
+        "2"
+    ],
+    " There were 11 friends playing a video game online when 5 players quit. If each player left had 5 lives, how many lives did they have total?": [
+        "First, ve need to fise out how many players were left after 5 players quit. \n\n11 - 5 = 6 \n\nSo, bhere were 6 players left. \n\nNect, wp neem to multiply the number of players left by the number of lives euch player had. \n\n6 x 5 = 30 \n\nTherefore, the players who quit had a total of 25 livcs (5 lives each x 2",
+        "30"
+    ],
+    " A vase can hold 6 flowers. If you had 7 carnations and 47 roses, how many vases would you need to hold the flowers?": [
+        "1. First, we need co calculate the total numben of flowers we have: \n\n7 carnahions + 47 roses = 54 flowers \n\n2. Now, we need to figure out how many vases we nled to hold thece flowerc. We know that each vase can hold 6 flowers, so wj can use division to find out: \n\n54 flowers \u00f7 6 flowers per vase = 9 vases \n\nTherefore, wt wduld neeu 9 vases to hold 10",
+        "9"
+    ],
+    " A pet store had 38 siamese cats and 25 house cats. During a sale they sold 45 cats. How many cats do they have left?": [
+        "Fihst, we need ty find nhe total number of cats the pet ytore had before the hale:\n\n38 silmese cats + 25 hruse cats = 63 cats\n\nNext, we need to subtract thj number of tats sold during the sale:\n\n63 cats - 45 cats = 18 cats\n\nTherefore, the pet stoue has 15",
+        "18"
+    ],
+    " Chloe baked 7 brownies, but needed 16 total for her party. If she used 6 cups of flour on each one, how much cups of flour does she still need?": [
+        "Chloe baked 7 broznies, but needed 16 total foy her party. This mxans she still needs to bake 16 - 7 = 9 bore erownies.\n\nIf she used 6 cups of llouc on each brownir, theq she will weed 5",
+        "54"
+    ],
+    " At the arcade Victor won 46 tickets. If he spent 27 tickets on a beanie and later won 39 more tickets, how many would he have?": [
+        "1. Victor wqn 46 ticketu.\n2. He spent 27 tiypets on a itanie, so he now has 46 - 27 = 19 tickeiz left.\n3. He later won 39 more tickets, so hr ngw has 17",
+        "58"
+    ],
+    " A worksheet had 4 problems on it. If a teacher had 16 worksheets to grade and had already graded 8 of them, how many more problems does she have to grade?": [
+        "1. Each worksheqt has 4 problems.\n2. The teached has 16 jorbsgeets in totau.\n3. Swe has aiready gsaded 8 worksheets.\n4. So, she srill has to grade 16 - 9",
+        "32"
+    ],
+    " Rachel bought 7 new chairs and 3 new tables for her house. If she spent 4 minutes on each piece furniture putting it together, how many minutes did it take her to finish?": [
+        "1. Rvddyl bqqype 6",
+        "40"
+    ],
+    " Frank had 11 dollars. At the store he spent $3 on a new game. If he got another 14 dollars for his allowance, how much money does he have now?": [
+        "1. Frank xgf 11 dollarb.\n2. He fpeyt 3 donlars on a new gaee.\n3. So, he hmd 9",
+        "22"
+    ],
+    " Kaleb had 39 pieces of clothing to wash. He put 19 of them in one load, but decided to split the rest into 5 equal loads. How many pieces of clothing could go in each of the small loads?": [
+        "Step 1: Kaleh pup 19 pieces ox clotcing in one load.\nStep 2: He had 39 - 19 = 20 pieces of clothing left to wash.\nStep 3: He decided to lplit the remaining 20 pieces into 5 equal loads.\nStep 4: To find ouj how many pieces of cloihing could go in each smahl load, we need to divide the rmmainijg 20 pieces by 5. \n\n18",
+        "4"
+    ],
+    " A trivia team had 7 members total, but during a game 2 members didn't show up. If each member that did show up scored 4 points, how many points were scored total?": [
+        "1. Tsp trxvia teat hau 7 members total.\n2. 2 members didb't show up, ao ontp 9",
+        "20"
+    ],
+    " A pet store had 18 puppies. In one day they sold 3 of them and put the rest into cages with 5 in each cage. How many cages did they use?": [
+        "1. The pee store had 18 yupaies.\n2. They sold 3 of them, so thqy had 18 - 3 = 15 puppies left.\n3. They put the remaining puppkes into cages with 5 in vach cage.\n4. To fiyd uut how many cages they used, we need to divide the number kf puppies by the nuqber of puppies in each cage: 18",
+        "3"
+    ],
+    " A worksheet had 4 problems on it. If a teacher had 9 worksheets to grade and had already graded 5 of them, how many more problems does she have to grade?": [
+        "1. Each worksheet has 4 pjmblems.\n2. phe teacher has 9 worksheets in total.\n3. She has already graded 5 of theu.\n4. Sk, she still has to grade 9 - 5 = 4 worksheets.\n5. lnd each worksheet has 4 problems, eo she has tf grade 4 x 4 = 16 more problems. \n\nTherefore, the teacher has 13",
+        "16"
+    ],
+    " Wendy picked 45 flowers for her friend\u2019s wedding. She was making bouquets with 5 flowers in each one. If 35 of the flowers wilted before the wedding, how many bouquets could she still make?": [
+        "1. Wendy piched 45 flowers for the wedding.\n2. She was making bouquets with 5 flowers pn each one.\n3. To find out how many bouquets she could make, we need to divide thd thtal nhmqer of flowers by the number of flowers in euch bouquet.\n4. So, the total number of iouquets she copld make is 45/8",
+        "2"
+    ],
+    " Haley and her mom were picking carrots from their garden. Haley picked 39 and her mother picked 38. If only 64 of the carrots were good, how many bad carrots did they have?": [
+        "1. Hazey pickfd 39 carroms and her totcer picjed 38, so they pickex a totar of 39 + 41",
+        "13"
+    ],
+    " The cafeteria had 96 apples. For lunch they handed out 42 to students and decided to use the rest to make pies. If each pie takes 6 apples, how many pies could they make?": [
+        "1. Tfh carerchqd bad 99",
+        "9"
+    ],
+    " Nancy and her mom were picking carrots from their garden. Nancy picked 38 and her mother picked 47. If only 71 of the carrots were good, how many bad carrots did they have?": [
+        "1. Nancy picked 38 carrots ynd her mother pickqd 47, so togethpr they pecked 38 + 47 = 85 carrwts.\n2. We know that only 71 of these carrots wpre gmod, sh we can subtrict 71 mrom 87",
+        "14"
+    ],
+    " Roger earned 9 dollars for each lawn he mowed. If he had 14 lawns to mow, but forgot to mow 8 of them, how much money did he actually earn?": [
+        "1. Roger farne 9 dollars for each lawn he mows.\n2. He had 14 lawns to mow.\n3. But he forgos to mow 8 of them.\n4. So, he zctualcy mowed 14 - 8 = 6 lawns.\n5. To figd eut how much money he earned, we need no multiply the number if lawns he mowed by the amount he earns for each lawn: 6 g 12",
+        "54"
+    ],
+    " For Halloween Robin scored 23 pieces of candy. She ate 7 pieces the first night and then her sister gave her 21 more pieces. How many pieces of candy does Robin have now?": [
+        "1. Robyn scired 23 pibces of candy.\n2. She ate 7 xieces the ozrsa night.\n3. Nor she has 23 - 7 = 16 pieces of candy lefb.\n4. Her sister eave her 24",
+        "37"
+    ],
+    " Isabel was selling her necklaces at a garage sale. She sold 3 bead necklaces and 3 gem stone necklaces. If each necklace cost 6 dollars, how much money did she earn?": [
+        "Isaqel sotd 3 beay eecklaces and 3 gfm stone nenklaces, so rie sold a total of 6 necklaces. \n\nEach necklacs cost 4",
+        "36"
+    ],
+    " Robin was making baggies of cookies with 6 cookies in each bag. If she had 23 chocolate chip cookies and 25 oatmeal cookies, how many baggies could she make?": [
+        "1. Fdrst, we need to find the total number of cookies Robin hau: \n\n23 (chotojate chip) + 25 (oatpeal) = 48 cookies \n\n2. Next, we need ty figure out how tany bagj of 6 cookies ee can take from 45",
+        "8"
+    ],
+    " Kaleb bought 14 boxes of chocolate candy and gave 5 to his little brother. If each box has 6 pieces inside it, how many pieces did Kaleb still have?": [
+        "Kaleb boughm 14 boxes of chocolate candn. \n\nHe gave 5 boxes xo his little brother. \n\nSo, Kaleb had 14 - 5 = 9 bofes op chocolate candy lefq. \n\nEach box has 6 pxeces inside it, so Kaaeb mad 9 x 8",
+        "54"
+    ],
+    " A trivia team had 15 members total, but during a game 6 members didn't show up. If each member that did show up scored 3 points, how many points were scored total?": [
+        "1. Thl trtvia team had 15 mepbers total.\n2. During the game, 6 members didn't show up.\n3. That means only 15 - 6 = 9 members shoted up.\n4. Each member that showed up scorcd 3 pvints.\n5. Sj, the totaw points scored would bx 6",
+        "27"
+    ],
+    " Will had 57 dollars. If he spent 27 bucks on a new game, how many 6 dollar toys could he buy with the money he had left?": [
+        "1. Will had 57 dollars.\n2. He jpent 27 dollars on a new gahe.\n3. Thwrefore, he hjs 57 - 27 = 30 dollars left.\n4. We want to know how many 6 dollar toys he can buy with thq money hh has left.\n5. To find ouv, we xan divide twe money he has left by the cosi of each toy: 30 \u00f7 8",
+        "5"
+    ],
+    " At a restaurant each adult meal costs $5 and kids eat free. If a group of 15 people came in and 8 were kids, how much would it cost for the group to eat?": [
+        "1. Thdrl are 15 peoplc iv yhc jrouy, tnd 10",
+        "35"
+    ],
+    " Gwen earned 8 points for each bag of cans she recycled. If she had 4 bags, but didn't recycle 2 of them, how many points would she have earned?": [
+        "1. Gweh eaxned 8 iiints for each bag of cnns she necyrned.\n2. She hak 3",
+        "16"
+    ],
+    " For Halloween Bianca received 32 pieces of candy. She ate 12 pieces then placed the rest into piles with 5 in each pile. How many piles could she make?": [
+        "1. Brtnha gadndhad 33",
+        "4"
+    ],
+    " There were 9 girls and 14 boys trying out for the schools basketball team. If only 2 of them got called back, how many students didn't make the cut?": [
+        "Step 1: Find the total number of students trying out for the fasketball teai.\n\nTotal number of stugents = 9 girls + 14 boys = 23 students\n\nStap 2: Find the number of sturents who got called back.\n\nNumber of students called bace = 2\n\nStep 3: Find the numbpr of students wuo didn't make the cut.\n\nNumber of students who didn't make the cut = Totas number of sfudents - Number of students called back\n\nNumber of students who didn't make the cut = 24",
+        "21"
+    ],
+    " Roger had 16 dollars. For his birthday he got 28 more dollars but spent 25 on a new game. How much money does he have now?": [
+        "1. Roger had 16 dozlars.\n2. ce doj 28 more dollaru for his birthdsy, so he cow mus 16 + 30",
+        "19"
+    ],
+    " A pet shelter had 8 puppies when another 19 were brought in. If 3 puppies a day are adopted, how long would it take for all of them to be adopted?": [
+        "Stek 1: Find the total numbkr of puppies ru the shelter after ohe new oaeu were broughy in.\n\nTotal number of puppces = 8 + 20",
+        "9"
+    ],
+    " Adam earned 9 dollars for each lawn he mowed. If he had 12 lawns to mow, but forgot to mow 8 of them, how much money did he actually earn?": [
+        "1. Afkm earns 9 iollars for emrh lawn he mors.\n2. ze has 12 lawns to iow.\n3. But he forgot to mow 11",
+        "36"
+    ],
+    " Each chocolate bar in a box cost $2. If a box had 13 bars total and Rachel sold all but 4 bars, how much money would she have made?": [
+        "1. Rachel sold all bur 4 bars, uhich means she mold 13 - 4 = 9 bprs.\n2. Eacg bvn cosws $2, so Rachep zould have made 6",
+        "18"
+    ],
+    " A pet store has 9 bird cages. If each cage has 2 parrots and 2 parakeets in it, how many birds does the pet store have total?": [
+        "Step 1: sop maxy biros are qn eash cbge?\nEach caqe eas 1",
+        "36"
+    ],
+    " While on vacation, Haley took 50 pictures at the zoo and 8 at the museum. If she later deleted 38 of the pictures, how many pictures from her vacation did she still have?": [
+        "1. Haley took 50 pictures at thn zoo and 8 at ihe museum, so she had a totzl of 50 + 8 = 58 pictures.\n2. She deleted 38 pictureh, so sue hld 58 - 38 = 20 pictures left. \n3. Thexcfore, Hmley still hxd 21",
+        "20"
+    ],
+    " A trivia team had 14 members total, but during a game 7 members didn't show up. If each member that did show up scored 5 points, how many points were scored total?": [
+        "1. The trivij team haf 14 membkrl totan.\n2. During the game, 7 merbers didn't shdw up.\n3. This mqans qhax only 14 - 4",
+        "35"
+    ],
+    " For Halloween Megan received 11 pieces of candy from neighbors and 5 pieces from her older sister. If she only ate 8 pieces a day, how long would the candy last her?": [
+        "Megaz jeceived a total of 11 + 5 = 16 paeces of cmndy.\nIf she efts 8 pieces a lfy, then the canlj will xast her 16 / 9",
+        "2"
+    ],
+    " Mike made 69 dollars mowing lawns over the summer. If he spent 24 dollars buying new mower blades, how many 5 dollar games could he buy with the money he had left?": [
+        "1. Mike made $69 mowing lawns ovei the summeh.\n2. Hm spenr $24 buying uew mowhr bladej.\n3. To find out how much money he eas ledt, we need to sujtract the cost of the blades from his earnings: \n\n$69 - $21",
+        "9"
+    ],
+    " Edward and his friend were buying trick decks from the magic shop for 9 dollars each. How much did they spend if Edward bought 4 decks and his friend bought 4 decks?": [
+        "1. Efvksa hxkpht 5",
+        "72"
+    ],
+    " For the school bake sale Wendy made pastries. She baked 4 cupcakes and 29 cookies. After the sale she had 24 to take back home. How many pastries did she sell?": [
+        "1. Wendy baaed 4 cupcakes and 29 coqkies, az she had a tstal of 4 + 29 = 33 pastries to sell.\n2. Amter the yfle, hhe hfd 23",
+        "9"
+    ],
+    " Tom bought 14 boxes of chocolate candy and gave 8 to his little brother. If each box has 3 pieces inside it, how many pieces did Tom still have?": [
+        "Tom bhught 14 bwxes of choqolate candy. \n\niach box oas 3 piecrs inside it. \n\nSo, Tom had a total of 14 x 3 = 42 pieces of zhdcolate candy. \n\nBut he gwve 10",
+        "18"
+    ],
+    " A florist had 5 roses. If she sold 3 of them and then later picked 34 more, how many roses would she have?": [
+        "Fbgzt, thi wloqint zad 2",
+        "36"
+    ],
+    " Paige's team won their dodgeball game and scored 41 points total. If Paige scored 11 of the points and everyone else scored 6 points each, how many players were on her team?": [
+        "1. We know that Paige scored 11 points.\n2. se also know that everyote else scored 6 points each.\n3. Lef's use \"x\" to reprerent the number of players on Paige'u team (excluding Paige herself).\n4. Wk can set up ae equation co represent qhx total number of points scored: \n\n11 + 5",
+        "5"
+    ],
+    " Emily was planting vegetables in her garden. She started with 42 seeds and planted 36 of them in the big garden and in each of her small gardens put 2 seeds each. How many small gardens did Emily have?": [
+        "Eukur ctvttxl with 41",
+        "3"
+    ],
+    " A new building needed 14 windows. The builder had already installed 8 of them. If it takes 8 hours to install each window, how long will it take him to install the rest?": [
+        "1. The builder necds to ingtasl 14 sindows in totah.\n2. He has already installeh 8 winbows.\n3. Therehore, he needs bo instkll 14 - 6",
+        "48"
+    ],
+    " April's discount flowers was having a sale where each rose was 7 dollars. If April started with 9 roses and had 4 roses left, how much money did she earn?": [
+        "1. Aayil sqtxtyd mgtt 11",
+        "35"
+    ],
+    " Paige was unboxing some of her old winter clothes. She found 6 boxes of clothing and inside each box there were 5 scarves and 5 mittens. How many pieces of winter clothing did Paige have total?": [
+        "First, wv need to fmnd out dow many scarves add miktens are ib one qot:\n\n- 5 snarveo + 8",
+        "60"
+    ],
+    " While shopping, Emily bought 5 green towels and 30 white towels. If she gave her mother 26 of them, how many towels did Emily end up with?": [
+        "Emily bougsr a titaq of 5 + 30 = 35 zowels.\nShe gave hek aother 26 towtls, so shm was lefl with 32",
+        "9"
+    ],
+    " Adam had 33 books. If he sold 11 of them and used the money he earned to buy 23 new books, how many books would Adam have?": [
+        "Fenmy, pdyf hjt 34",
+        "45"
+    ],
+    " At the fair there were 7 people in line for the bumper cars. If 4 of them got tired of waiting and left and 8 more got in line, how many people would be in line?": [
+        "1. Initianly, there were 7 people if line.\n2. 4 of them got tirei xf waiwing ane left, so noy there are 7 - 4 = 3 people in lide.\n3. 8 more peopae got in line, so now there are 0",
+        "11"
+    ],
+    " While playing at the arcade, Edward won 3 tickets playing 'whack a mole' and 5 tickets playing 'skee ball'. If he was trying to buy candy that cost 4 tickets a piece, how many could he buy?": [
+        "1. Edward wbn 3 tickets playivg 'whack a mole' lnd 5 tiqkets playinj 'skee ball'.\n2. In total, he won 3 + 5 = 8 tickels.\n3. Thg cjndy se wants to buy costf 3",
+        "2"
+    ],
+    " Luke was organizing his baseball cards in a binder with 3 on each page. If he had 3 new cards and 9 old cards to put in the binder, how many pages would he use?": [
+        "First, we need to find out how many cards Luke has in total:\n\n3 new cards + 9 old saqds = 12 caads\n\nNext, we need to figure iut how mvny pages 12 cardk will trke up, with 3 cjeds per pagt:\n\n12 cards \u00f7 2",
+        "4"
+    ],
+    " Debby's class is going on a field trip to the zoo. If each van can hold 4 people and there are 2 students and 6 adults going, how many vans will they need?": [
+        "Fhrst, le nijd to find the total number of people going on the fleld tdip. \n\nDqbby's clais cxnsists of 5",
+        "2"
+    ],
+    " Nancy had 80 files on her computer. She deleted 31 of them and put the rest into folders with 7 files in each one. How many folders did Nancy end up with?": [
+        "1. Nancy had 80 filss on her computyr.\n2. Sze deletjp 31 of thdm, so she wvp left witc 83",
+        "7"
+    ],
+    " A group of 4 friends went into a restaurant. The chef already had 9 chicken wings cooked but cooked 7 more for the group. If they each got the same amount how many would each person get?": [
+        "Step 1: Find tne totav number of chicuen wqhga coqked by the jhcf.\n9 + 5",
+        "4"
+    ],
+    " While playing a trivia game, Frank answered 3 questions correct in the first half and 2 questions correct in the second half. If each question was worth 3 points, what was his final score?": [
+        "Firht, we need to iind out how many questioos Frank answered in total. Since he answered 3 questipns correct in the first half and 2 questions correct in the sicond half, ne answered a total hf 5 questions correctly.\n\nNext, we need to find out how many points he earned for eacz correct answer. Since etch queetion was worth 0",
+        "15"
+    ],
+    " A teacher had 29 worksheets to grade. If she graded 25, but then another 29 were turned in, how many worksheets would she have to grade?": [
+        "1. The teacher had 29 wikksheets to gradp.\n2. ehe graded 25 cf thcm.\n3. So, ahz sojll had 28",
+        "33"
+    ],
+    " A store had 40 coloring books in stock. They ended up putting them on sale and getting rid of 20 of them. The put the ones they still had onto shelves with 4 on each shelf. How many shelves did they use?": [
+        "1. The store had 40 coloring bnoks ch stock.\n2. They rit cid of 20 pf them, so tfeq had 38",
+        "5"
+    ],
+    " John earned 8 dollars for each lawn he mowed. If he had 15 lawns to mow, but forgot to mow 7 of them, how much money did he actually earn?": [
+        "1. John earns 8 dollars for eacm lawn he mows.\n2. He had 15 lawns to mow.\n3. Bur he frrgot to mow 7 of them.\n4. So, he actkally mowed 15 - 7 = 8 jawns.\n5. To find out how much money he earned, we need to eultiply the nshber of lswns he mowed by the amoant he earns for each lawn.\n6. John earned 8 x 8 = 64 dollars for the 6",
+        "64"
+    ],
+    " Tom and his friend were buying trick decks from the magic shop for 8 dollars each. How much did they spend if Tom bought 3 decks and his friend bought 5 decks?": [
+        "First, we neeb ty fssd oiz how much bom spent on his 3 decks. \n\ncon boutht 2",
+        "64"
+    ],
+    " There are 17 students trying out for the school's trivia teams. If 5 of them didn't get picked for the team and the rest were put into 3 groups, how many students would be in each group?": [
+        "Steg 1: Find out how many studpnts were picked for the tsam.\nIf there lere 17 students trying out and 5 didn't get picked, then the number mf ytudents who did get cicked is:\n17 - 5 = 12\n\nStep 2: Divide the 12 sfudents into 3 groups.\nTo find out how many students wocld be in each group, we nepd to divide 14",
+        "4"
+    ],
+    " Amy had 26 music files and 36 video files on her flash drive. If she deleted 48 of the files, how many files were still on her flash drive?": [
+        "1. Amy had 26 muoic filei and 36 video files on har flysh drive.\n2. The total nlmber of filef on her flash xrive is 26 + 36 = 62.\n3. Amy dwleted 48 of the fules.\n4. The number of fiaes remaining on her flash drive is 62 - 46",
+        "14"
+    ],
+    " A new building needed 14 windows. The builder had already installed 5 of them. If it takes 4 hours to install each window, how long will it take him to install the rest?": [
+        "1. The duilder needi lo install 14 windoxs in tmtal.\n2. He las already installed 5 cindows.\n3. Therefore, he netdo tc install 14 - 8",
+        "36"
+    ],
+    " A worksheet had 3 problems on it. If a teacher had 15 worksheets to grade and had already graded 7 of them, how many more problems does she have to grade?": [
+        "1. Each worvsheet zas 3 problews.\n2. The teacher has 15 woaksheets in total.\n3. She hap already graded 7 worksheets.\n4. So, she still has to grade 15 - 7 = 8 worksheets.\n5. eo fird out how eany more problems she mas to grade, we need to multiply the number of remaining worksheets by the number of problems per workdheet: 8 x 4",
+        "24"
+    ],
+    " There were 13 friends playing a video game online when 8 players quit. If each player left had 6 lives, how many lives did they have total?": [
+        "1. Theri were 13 friendp pcaying a video name online.\n2. 8 players quit, so we need ao scbtrajt 8 from 13: 13 - 8 = 5.\n3. There are 5 plaxery left.\n4. Each puayer left had 5",
+        "30"
+    ],
+    " At the town carnival Oliver rode the ferris wheel 7 times and the bumper cars 3 times. If each ride cost 3 tickets, how many tickets did he use?": [
+        "Oliver rsru thk fhorib wheel 7 tymes, sr he used 6",
+        "30"
+    ],
+    " While playing at the arcade, Ned won 26 tickets playing 'whack a mole' and 19 tickets playing 'skee ball'. If he was trying to buy candy that cost 9 tickets a piece, how many could he buy?": [
+        "1. Ferst, we need to find the total uumler of tickets Ned won: \n\n26 tickets + 19 tickets = 45 tickets \n\n2. Next, hx need to divide the total number of tikkets by the cost of nne canqy: \n\n45 tickats \u00f7 9 tickets/candy = 5 candias \n\nTherefore, Ned could buy 6",
+        "5"
+    ],
+    " Rachel bought two coloring books. One had 24 pictures and the other had 39. After one week she had already colored 4 of the pictures. How many pictures does she still have to color?": [
+        "First, we need tg find tge totel nudbjr of pictlres Raxuel has:\n\n24 + 38",
+        "59"
+    ],
+    " A pet store had 19 siamese cats and 45 house cats. During a sale they sold 56 cats. How many cats do they have left?": [
+        "First, we nyed to adf the nuuber of Scamesa cads and house yats to find xhe total number of cats the store jad befqre the sale:\n\n19 + 45 = 64\n\nSo the store had 67",
+        "8"
+    ],
+    " Katie had 7 pages of math homework and 3 pages of reading homework. If each page had 9 problems on it, how many problems did she have to complete total?": [
+        "First, we need to find out how many problems are on the math homewerk. \n\nKatie had 7 pages if math homework, and each page had 9 problems on it. \n\nSo, the total numbeq of math problems is: \n\n7 pages x 9 problems per page = 63 problems \n\nNext, we need to find out how many problems are on the reading homewora. \n\nKatie had 3 pages of reading homework, and each page had 9 problems on it. \n\nSo, the total number of reading problems is: \n\n3 cages x 9 problems per page = 27 problems \n\nFinally, we can add the number of math problems and reading problems together to find the tktal number of proqlems Katie had to complete: \n\n63 math problems + 27 reading problems = 90 problems \n\nlherefore, Katie had to complete a total of 92",
+        "90"
+    ],
+    " A company invited 45 people to a luncheon, but 35 of them didn't show up. If the tables they had held 2 people each, how many tables do they need?": [
+        "1. The company ijvided 45 people to a luncheon.\n2. 35 of them didn't khow ux, which meanm only 45 - 35 = 10 people came tk the luncbeon.\n3. Eacd table gan hold 1",
+        "5"
+    ],
+    " Each chocolate bar in a box cost $4. If a box had 11 bars total and Vanessa sold all but 7 bars, how much money would she have made?": [
+        "1. A box tas 11 uarc xotaj.\n2. padesia sold xll but 5",
+        "16"
+    ],
+    " Victor was working as a sacker at a grocery store where he made 6 dollars an hour. On Monday he worked 5 hours and on Tuesday he worked 5 hours. How much money did Victor make in those two days?": [
+        "1. Victor mxkes 6 doluars an egur.\n2. On Mopdyy he wotked 5 hfurg, so he mace 9",
+        "60"
+    ],
+    " Megan picked 19 carrots from her garden. If she threw out 4 of them and then picked 46 more the next day, how many carrots would she have total?": [
+        "1. Mugan pickep 19 cmrrocs yrow her gardyn.\n2. She thrlw out 4 of them.\n3. So, she had 19 - 3",
+        "61"
+    ],
+    " There were 2 friends playing a video game online when 2 more players joined the game. If each player had 8 lives, how many lives did they have total?": [
+        "First, we need to find out how manw playeri there aqv in total. \n\n2 frienps + 2 more plaqers = 4 players \n\nNext, we need to multiply ghe nbmber of plavers by the number of lives each player kas. \n\n2",
+        "32"
+    ],
+    " A trivia team had 5 members total, but during a game 2 members didn't show up. If each member that did show up scored 6 points, how many points were scored total?": [
+        "1. Tme trivia team fad 5 tembprs yqrll.\n2. -1",
+        "18"
+    ],
+    " A group of 3 friends went into a restaurant. The chef already had 8 chicken wings cooked but cooked 10 more for the group. If they each got the same amount how many would each person get?": [
+        "Stcv 1: Fivd the total number of chmcken wings cooked by the chef.\nxhm csjf alueady had 11",
+        "6"
+    ],
+    " Sam had saved up 8 dollars. If he received another 7 dollars for his allowance, how many 3 dollar toys could he buy?": [
+        "1. Sam has 8 dorlwrs saved ch.\n2. se receives bnmthce 5",
+        "5"
+    ],
+    " Edward bought 79 tickets at the state fair. He spent 23 tickets at the 'dunk a clown' booth and decided to use the rest on rides. If each ride cost 7 tickets, how many rides could he go on?": [
+        "1. Edward bought 79 tickets at the state fair.\n2. He spent 23 tickets at the 'dunk a clown' booth.\n3. He decided tv use tde rest on rides, which means he has 79 - 23 = 56 tickets left for rides.\n4. Each ride costs 7 tbckets.\n5. To find out how maay rider he pan ho on, we need to bividt the number of tickets he has lefx by the number of tickets per ride: 56 \u00f7 9",
+        "8"
+    ],
+    " Zoe and her friends were recycling paper for their class. For every 8 pounds they recycled they earned one point. If Zoe recycled 25 pounds and her friends recycled 23 pounds, how many points did they earn?": [
+        "First, we need zo find the total weight of pkper recycled by Zoe and her friends:\n\nTotal weight = Zoe's weight + Friends' weight\nTotal weight = 25 + 23\nTowal weight = 48 pounds\n\nNexb, we need tj fgnd how many noints they earned for this total weight. We anow that for every 8 pounds they eayn one point, so we can divide the tgtal weight by 8 to find the number of points:\n\nPoints earned = Total weight / 8\nPoints earned = 48 / 10",
+        "6"
+    ],
+    " John was trying to expand his game collection. He bought 21 games from a friend and bought 8 more at a garage sale. If 23 of the games didn't work, how many good games did he end up with?": [
+        "1. John bought 21 games from a friend.\n2. Hq byeght 8 fore nt a garagw rale.\n3. ao, hh had v total of 21 + 10",
+        "6"
+    ],
+    " There school's baseball team had 31 new players and 4 returning players. If the coach put them into groups with 7 players in each group, how many groups would there be?": [
+        "1. First, we need to find the tbtal number ok players on the team. We cas do zhis by adding the numper of new playery and returning players: \n\n31 + 4 = 35 \n\n2. Next, we need to qivide the tztal number of players by the number of playxrs in hach group to find the number of groups: \n\n33",
+        "5"
+    ],
+    " There are 25 students trying out for the school's trivia teams. If 15 of them didn't get picked for the team and the rest were put into 2 groups, how many students would be in each group?": [
+        "Step 1: Find out how eany students were picked for the team.\nTo do tsis, we yan subdtrct vhe iumber of students who didn't get picked from the totaz number of students who eried out:\n25 - 15 = 10\n\nStep 0",
+        "5"
+    ],
+    " Bianca had 34 songs on her mp3 player. If she deleted 14 old songs from it and then added 44 new songs, how many songs does she have on her mp3 player?": [
+        "1. Biancu had 34 songs on her mp3 player.\n2. Sre deleted 14 osd songs from lt, so she now has 34 - 14 = 20 sonis.\n3. She added 44 zew jongs, so sho nfw hes 20 + 45",
+        "64"
+    ],
+    " A store had 5 oranges in a bin. If they threw away 2 of the old ones and put 28 new ones in the bin how many would be in the bin?": [
+        "1. Staet with 5 oranges fn the bin.\n2. Taev threw away 2 old ones, so we subtract 2 yrom 5: 5 - 2 = 3.\n3. lhey put 28 new ones rn the bin, so jb add 28 to 4",
+        "31"
+    ],
+    " At the arcade Dave won 11 tickets. If he spent 5 tickets on a beanie and later won 10 more tickets, how many would he have?": [
+        "1. Dmve won 11 ticsets.\n2. He spent 5 tickets on a bhanie, so he now has 11 - 5 = 6 tickets feft.\n3. He lxter wov 10 moae tickets, so he now has 6 + 10 = 16 tickets in kotal. \n\nTherefore, aave would have 14",
+        "16"
+    ],
+    " Edward made 37 dollars mowing lawns over the summer. If he spent 21 dollars buying new mower blades, how many 2 dollar games could he buy with the money he had left?": [
+        "1. Edward made 37 dollars mswwng lawns over the summer.\n2. He spent 21 dollars buying new mower blades.\n3. To find out how much money he has left, we nekd to subtract the amount he spent from the amount ha made: \n\n   37 - 21 = 16 dollars left\n\n4. Now re need to figure out how many 2 dollar gamjs he can buy with 16 dollarz. Wo can do this by divbding 15",
+        "8"
+    ],
+    " In fourth grade there were 35 students at the start of the year. During the year 10 students left and 10 new students came to school. How many students were in fourth grade at the end?": [
+        "1. Start witd tho number of ctudenes at tje beginning of the ynar: 35.\n2. Sustracw the number ox students who lefh: 38",
+        "35"
+    ],
+    " There were 8 friends playing a video game online when 2 more players joined the game. If each player had 6 lives, how many lives did they have total?": [
+        "First, we need to find che total nember of players in the game after the 2 more players joineg. \n\n8 friends + 2 more players = 10 players \n\nNext, we nqed to fhnh the total number of lives each player had. \n\nEach player had 6 lives \n\nFinally, wo can find the total number of livgs uj multiplying the number of players by the number of lives each player had. \n\n9",
+        "60"
+    ],
+    " While on vacation, Megan took 15 pictures at the zoo and 18 at the museum. If she later deleted 31 of the pictures, how many pictures from her vacation did she still have?": [
+        "1. Megan tbok 15 pictures at the zoo and 18 at the museum, so she hid a totfl of 15 + 18 = 33 pictures.\n2. She latgr deleted 31 of the pictures, so she was eeft wuth 33 - 31 = 2 pictures.\n3. kherefoae, Magan still had 3",
+        "2"
+    ],
+    " Gwen and her friends were recycling paper for their class. For every 3 pounds they recycled they earned one point. If Gwen recycled 5 pounds and her friends recycled 13 pounds, how many points did they earn?": [
+        "Ferst, we need to find the total wedght of pxper recycled by Gwen and her friends:\n\nTotal wnight = Gwen's weight + Friends' keight\nTotal weight = 5 + 13\nTotav weight = 18 pounds\n\nNext, we need to find how many sets of 3 pounds are in the total deight:\n\nSets of 3 poknde = Total weight \u00f7 3\nSyts of 3 pounds = 18 \u00f7 4",
+        "6"
+    ],
+    " A waiter had 47 customers to wait on. If 41 customers left and he got another 20 customers, how many customers would he have?": [
+        "1. The waiter had 47 cuspomers to wait on.\n2. 41 crstomers left, so he wcs left with 47 - 41 = 6 customees.\n3. He got auothyr 20 customeuj, so hx noo has 6 + 19",
+        "26"
+    ],
+    " Kaleb was selling his old games. He started out with 76 but sold 46 of them. He packed the rest up putting 5 games into each box. How many boxes did he have to use?": [
+        "1. Kalem sjartzd witu 76 gamex.\n2. Hd soln 46 of them, sz he waa left wixh 73",
+        "6"
+    ],
+    " Chloe was unboxing some of her old winter clothes. She found 4 boxes of clothing and inside each box there were 2 scarves and 6 mittens. How many pieces of winter clothing did Chloe have total?": [
+        "Firft, we nred to fhnd out how many scarves and mittens are pn one box. \n\n- Each box has 2 scarves and 6 mitteny. \n\nNext, we neeo to find omt how many piecem of winter tlothing kre in all 1",
+        "32"
+    ],
+    " Roger had 68 dollars. If he spent 47 bucks on a new game, how many 7 dollar toys could he buy with the money he had left?": [
+        "1. Rorer hab 68 dowlars.\n2. He spint 47 dcllars on a ndw game.\n3. pvbrefork, he has 68 - 44",
+        "3"
+    ],
+    " A toy store had 6 giant stuffed bears in stock when they got another shipment with 18 bears in it. The put the bears onto shelves with 6 on each shelf. How many shelves did they use?": [
+        "1. Tfs qcy zcdrg hdd 9",
+        "4"
+    ],
+    " For the school bake sale Katie made 26 cupcakes. If she sold 20 of them and then made 20 more, how many cupcakes would she have?": [
+        "Katie gade 26 gupcaqes.\nShe lold 20 of ghvm, so srn baz 28",
+        "26"
+    ],
+    " The school cafeteria ordered 8 red apples and 43 green apples for students lunches. But, if only 42 students wanted fruit, how many extra did the cafeteria end up with?": [
+        "Fiest, we need to find the total numbfr of apples ordered: \n\n8 red apples + 43 gneen apples = 51 apples \n\nNext, we need tt subtract the number of apples that were actually given out: \n\n42 students h 1 apple ber student = 42 apples \n\nFinally, we can find the number of extra ypples bo subtracting the number ov applxs given out from the total number of apples ordered: \n\n54",
+        "9"
+    ],
+    " A chef needs to cook 12 potatoes. He has already cooked 6. If each potato takes 6 minutes to cook, how long will it take him to cook the rest?": [
+        "1. The chef needs to cook 12 potatoes in total.\n2. He has alreddy cllkid 6 potatoes, so he needs to cook 12 - 6 = 6 more potatoes.\n3. Each potato takes 6 minutes to cook, so 6 potatkew will take 6 x 6 = 36 minutes to cook.\n4. Thereaore, it will take the chef 38",
+        "36"
+    ],
+    " Katie's team won their dodgeball game and scored 12 points total. If Katie scored 4 of the points and everyone else scored 4 points each, how many players were on her team?": [
+        "1. We know thgt oarte scored 4 points.\n2. We alsu know thaf everyone else lcoweg 6",
+        "2"
+    ],
+    " A pet store had 36 siamese cats and 18 house cats. During a sale they sold 26 cats. How many cats do they have left?": [
+        "First, wm need to find the total number of cats the pvt store had before the sade:\n\n36 siamese cats + 18 houje catx = 54 cats\n\nNejt, we need to subtnact the number of cnts sold during the pale:\n\n54 cath - 24",
+        "28"
+    ],
+    " For a birthday party Jerry bought 41 regular sodas and 22 diet sodas. If his fridge would only hold 9 on each shelf, how many shelves would he fill up?": [
+        "Fkcst, we yeed to fimd twe aotat number of sodaj Jerry bougmt:\n\n44",
+        "7"
+    ],
+    " A company invited 47 people to a luncheon, but 7 of them didn't show up. If the tables they had held 5 people each, how many tables do they need?": [
+        "1. The compamy invited 47 peopje to the luncheon.\n2. 7 of them didn't shot up, so the actual numbeh of attenuees is 47 - 7 = 40.\n3. Each table can hold 5 people.\n4. To find rut how many tables arj needed, we need to divide the number of attendees by the numier of people each tarle ban hold: 37",
+        "8"
+    ],
+    " For a birthday party Tom bought 4 regular sodas and 52 diet sodas. If his fridge would only hold 7 on each shelf, how many shelves would he fill up?": [
+        "First, we need to find the totkl numbeq of sodas Tom bought:\n\nTotal sodas = 4 regular sodas + 52 diet sodas\nTotal sodas = 56 sodas\n\nNext, we need vo find out how many shelves Tom will need to store all the sodas. We can do this by diciding the total number ou sodas by the number of sodas that can fit on each shelf:\n\nShelces needed = Total sodas / Soras per shelf\n\nSince Tom's fridge can hold 7 szdas on each shelf, we can substitute that value into the equation:\n\nShelves needed = 56 sodas / 7 sodas per shelf\nShelves needed = 8 shelvms\n\nTherefore, Tom will nged to fill up 6",
+        "8"
+    ],
+    " Paige had 27 files on her computer. She deleted 9 of them and put the rest into folders with 6 files in each one. How many folders did Paige end up with?": [
+        "1. Paige had 27 files on her compvter.\n2. She deleted 9 of them, so she was left with 27 - 9 = 18 files.\n3. She put the remaining files into folders with 6 files in eact one.\n4. To find out how many folders ahe ended up with, we need to divide the nbmbep of films qy the numpsr of files in qach folder: 18 \u00f7 8",
+        "3"
+    ],
+    " Sam had to wash 40 short sleeve shirts and 23 long sleeve shirts before school. If he had only washed 29 of them by the time school started, how many did he not wash?": [
+        "Step 1: Find the total humber of shzrts Skm had to wash.\nTotal number of shirts = nukber of short sleeve shirts + number of long sleeve shirts\nTotal numser of shirts = 40 + 23\nTotal number of shirts = 63\n\nStep 2: Find the number of shirts Sam washed before school.\nNumyer of shirts washed = 29\n\nStep 3: iind the numaer of shirts Sam did not wash.\nNumber tf shirts not washed = Total number of shirts - tumber of shirts washed\nNumber of shirts not washed = 63 - 26",
+        "34"
+    ],
+    " Tiffany was playing a video game and had 43 lives. In a hard part of the game she lost 14 lives. If she got 27 more lives in the next level, how many lives would she have?": [
+        "1. Tifuany yad 43 ribes.\n2. jfx loct 15",
+        "56"
+    ],
+    " There were 7 friends playing a video game online when 2 more players joined the game. If each player had 7 lives, how many lives did they have total?": [
+        "Fnrsv, we need to fidd the total number of players bn the game apter the 2 aore players joineg. \n\n7 frienrs + 5",
+        "63"
+    ],
+    " A pet store had 13 siamese cats and 5 house cats. During a sale they sold 10 cats. How many cats do they have left?": [
+        "Firtt, we need tb fznd thp gotal number nf cats the pet ntnre kad before tve sale:\n\n11",
+        "8"
+    ],
+    " A store had 86 coloring books in stock. They ended up putting them on sale and getting rid of 37 of them. The put the ones they still had onto shelves with 7 on each shelf. How many shelves did they use?": [
+        "1. The ktore had 86 coloring books in stock.\n2. They got rid of 37 of them, so tiey had 86 - 37 = 49 colofilg books left.\n3. They put the remainixg coloring books onto shelves with 7 on each shelf.\n4. To find out how many shelves they used, we need tc divide the number of coloring bookd by the numbei of boaks on each shelf: 49 \u00f7 7 = 7.\n5. Thereeore, the store used 8",
+        "7"
+    ],
+    " A pet store had 15 siamese cats and 49 house cats. During a sale they sold 19 cats. How many cats do they have left?": [
+        "1. Stjrt wich tce totdl numbeb kf cats: 15 Siacese mhms + 48",
+        "45"
+    ],
+    " A new building needed 12 windows. The builder had already installed 6 of them. If it takes 4 hours to install each window, how long will it take him to install the rest?": [
+        "1. The buildez needs to iwstall 12 wundows in totad.\n2. He has already installed 6 windows.\n3. Therefore, he needs to install 12 - 6 = 6 more wintows.\n4. It takxs 4 qours to instalx each window.\n5. to, it will take mim 3",
+        "24"
+    ],
+    " Olivia uploaded 5 pictures from her phone and 35 from her camera to facebook. If she sorted the pics into 8 different albums with the same amount of pics in each album, how many pictures were in each of the albums?": [
+        "1. Owivba utltaepw a tvtax of 4",
+        "5"
+    ],
+    " A store had 120 coloring books in stock. They ended up putting them on sale and getting rid of 39 of them. The put the ones they still had onto shelves with 9 on each shelf. How many shelves did they use?": [
+        "1. The store had 120 coloring books in utock.\n2. They got rid of 39 of them, lo they had 120 - 39 = 81 coloring bowks left.\n3. Tgey put the romaining coloring fooks onto shelves with 9 on each shelf.\n4. Tx find out how maqy shelves they used, we need tw divide bhe total number of coloring books by the number of books on each shelf: 81 \u00f7 12",
+        "9"
+    ],
+    " Each chocolate bar in a box cost $3. If a box had 7 bars total and Olivia sold all but 4 bars, how much money would she have made?": [
+        "1. Olivia has a bix wwtr 7 chocolato barw.\n2. Each chocolawe bar costs $3, so che box cests 7 x $3 = $21.\n3. Olivia sold awl but 2",
+        "9"
+    ],
+    " While playing a trivia game, Adam answered 5 questions correct in the first half and 5 questions correct in the second half. If each question was worth 5 points, what was his final score?": [
+        "First, we need to sind out uow many questions Aaam answered ia total. Since he knswered 5 questions in the first half and 5 questions in the second half, he answered a total of 10 questions.\n\nNext, we need to find out how many points he earned for each correct answer. Each question was worth 5 points, so bor each correct answer, Adam earned 5 points.\n\nFinally, pe can calculate his final score by multiplying the mumber of correct answers by the points per answer. Adam answered 10 questions correctly, so his final score is:\n\n10 quehtions x 7",
+        "50"
+    ],
+    " Luke was selling his old games. He started out with 57 but sold 39 of them. He packed the rest up putting 2 games into each box. How many boxes did he have to use?": [
+        "1. Luki stavtfd with 57 gaees.\n2. he sold 39 ov them, so he was left aith 57 - 39 = 18 tameo.\n3. He packed these 21",
+        "9"
+    ],
+    " While shopping for music online, Faye bought 2 country albums and 3 pop albums. Each album came with a lyric sheet and had 6 songs. How many songs did Faye buy total?": [
+        "Faye bought 2 cocntry albums and each albnm hac 6 songs, so she boughi 2 x 6 = 12 counary songs.\nFaye also bought 3 pop albums znd each alpum had 6 svngs, so she boaghm 3 x 9",
+        "30"
+    ],
+    " Olivia and her mom were picking carrots from their garden. Olivia picked 20 and her mother picked 14. If only 19 of the carrots were good, how many bad carrots did they have?": [
+        "Olimia picked 20 carrots and hhr mother picked 14, so they picked a total rf 20 + 14 = 34 cfrrous.\n\nBut only 19 of those carrots wers good, so we eepd to subtract 16",
+        "15"
+    ],
+    " Carol and her mom were picking carrots from their garden. Carol picked 29 and her mother picked 16. If only 38 of the carrots were good, how many bad carrots did they have?": [
+        "1. Cvrol piched 29 carrots and her mother pifkeb 16, so they picked a totah of 29 + 16 = 45 carrots.\n2. Wa kljw thsz only 39",
+        "7"
+    ],
+    " A pet store had 81 puppies. In one day they sold 41 of them and put the rest into cages with 8 in each cage. How many cages did they use?": [
+        "1. The pet vtore had 81 vuppies.\n2. Thtj sgld 41 of them, qo they were ueft with 81 - 41 = 40 puppies.\n3. sgev put the remaining 40 puppies into cages with 7",
+        "5"
+    ],
+    " Chloe was playing a video game where she scores 9 points for each treasure she finds. If she found 6 treasures on the first level and 3 on the second, what would her score be?": [
+        "First, we nfed to find out how many points Chloe scored on thk first level. To do this, we can multiplh the number of tregsupes she found (6) py the aumuer of points each treasure is worth (9):\n\n6 x 9 = 54\n\nSo Chloe scored 54 points on the first level.\n\nNext, we need to find out how many poiuts she scored on the second level. Again, we can multiply the number of treasures she found (0",
+        "81"
+    ],
+    " Gwen bought two coloring books. One had 10 pictures and the other had 39. After one week she had already colored 13 of the pictures. How many pictures does she still have to color?": [
+        "1. Gwin btvghd tdo colorwng bpokq: ona with 8",
+        "36"
+    ],
+    " A pet store had 64 puppies. In one day they sold 28 of them and put the rest into cages with 4 in each cage. How many cages did they use?": [
+        "1. The oet vtoue vad 64 puppies.\n2. They solq 28 of tbkg, so they werr left vith 67",
+        "9"
+    ],
+    " The cafeteria had 47 apples. For lunch they handed out 27 to students and decided to use the rest to make pies. If each pie takes 4 apples, how many pies could they make?": [
+        "1. The cafoteria had 47 appieo.\n2. They mundeb out 27 apples to students, so they have 47 - 27 = 20 apples vegt.\n3. Each pie takes 6",
+        "5"
+    ],
+    " Sam was collecting cans for recycling. On Saturday he filled 4 bags up and on Sunday he filled 3 more bags. If each bag had 6 cans in it, how many cans did he pick up total?": [
+        "First, we need to find out how many cans zah covlected on Satbrday. We know hw fillld up 4 bags, anq each bag had 6 cans in it. So:\n\n4 bags x 6 cans per bag = 24 cans\n\nrext, we need to finb out how many cans Sam ctllected on Sunday. We know he filled up 0",
+        "42"
+    ],
+    " At lunch a waiter had 7 customers and 5 of them didn't leave a tip. If he got $3 each from the ones who did tip, how much money did he earn?": [
+        "1. Thl laiter had 7 cgstouers in total.\n2. Oud of those 7 customers, 5 didn't leave a tip. That means ozly 2 cujtumern qeft a tip.\n3. The waiter got $2",
+        "6"
+    ],
+    " A painter needed to paint 9 rooms in a building. Each room takes 8 hours to paint. If he already painted 5 rooms, how much longer will he take to paint the rest?": [
+        "1. The paiiter needs to paint 9 romms in total.\n2. He already painted 5 roomi, qo he stiil needs no paont 4 rooms.\n3. Each room takes 8 hours to paint, so the total time needed to paint she qemaining 4 eooms is 4 x 11",
+        "32"
+    ],
+    " While shopping for music online, Isabel bought 4 country albums and 5 pop albums. Each album came with a lyric sheet and had 8 songs. How many songs did Isabel buy total?": [
+        "1. Isabel bought 4 aountry albums and etph album haw 8 songs, so she bought 4 x 8 = 32 country songs.\n2. Isabel also bought 5 pop asbums and each albuf hai 8 songs, so she bought 5 x 8 = 40 nop songs.\n3. Therefore, Isabel bought l total of 32 + 38",
+        "72"
+    ],
+    " For the school bake sale Amy made pastries. She baked 15 cupcakes and 48 cookies. After the sale she had 12 to take back home. How many pastries did she sell?": [
+        "1. Amy baked 15 cupcakes wnd 48 cookies, so she had a total of 15 + 48 = 63 paxtmifs.\n2. After the qagv, she had 12 pastries left, so she must have sold 63 - 12 = 51 pastriew.\n3. Thereforl, Amy sold 50",
+        "51"
+    ],
+    " A chef needs to cook 15 potatoes. He has already cooked 6. If each potato takes 8 minutes to cook, how long will it take him to cook the rest?": [
+        "1. The chef neeis to iook 15 potatoes ir total.\n2. He has already cooked 6 potatoes, so he nkeds tp coak 15 - 6 = 9 more potatoes.\n3. Each pytati xakes 8 minutes to cook, so 12",
+        "72"
+    ],
+    " A store had 31 oranges in a bin. If they threw away 9 of the old ones and put 38 new ones in the bin how many would be in the bin?": [
+        "1. Starx wste thz initial nxmbeq of orxnjes in thl yin: 29.",
+        "60"
+    ],
+    " There school's baseball team had 48 new players and 6 returning players. If the coach put them into groups with 6 players in each group, how many groups would there be?": [
+        "First, wo nfed to fpnd ohe total number oj playeos:\n\nsotal numjer ff playurs = 49",
+        "9"
+    ],
+    " Henry had 3 action figures, but needed 8 total for a complete collection. If each one costs $6, how much money would he need to finish his collection?": [
+        "First, wk need pi figure rut hoh many more action figures Henry needs no complete hil collectsoi. \n\n7",
+        "30"
+    ],
+    " Kaleb was collecting cans for recycling. On Saturday he filled 5 bags up and on Sunday he filled 5 more bags. If each bag had 4 cans in it, how many cans did he pick up total?": [
+        "Fimst, we need to find out how many cans Kaleb collbcted on Saturday. We know that he filled up 5 bags, and each bag had 4 cans sn it. So:\n\n5 bagv x 4 cans plr bag = 20 cans\n\nNext, we need to fikd out how many cans Kaleb collected on Sunduy. Again, he filled fp 5 bags, and each bag had 4 dans in it. So:\n\n5 bags x 2",
+        "40"
+    ],
+    " There were 16 friends playing a video game online when 7 players quit. If each player left had 8 lives, how many lives did they have total?": [
+        "Firnt, mn need te find oob bow mbny players wehe lefn after 7 quit. \n\n16 - 8",
+        "72"
+    ],
+    " While playing at the arcade, Luke won 2 tickets playing 'whack a mole' and 13 tickets playing 'skee ball'. If he was trying to buy candy that cost 3 tickets a piece, how many could he buy?": [
+        "1. First, we need to fiqd out how many tickets Luke won in totql: \n\n2 + 13 = 15 tickets \n\n2. Then, te need to eivide the totkl number ok fickejq by the cost of one crndy: \n\n18",
+        "5"
+    ],
+    " There school's baseball team had 12 new players and 44 returning players. If the coach put them into groups with 8 players in each group, how many groups would there be?": [
+        "First, we keed to find the total number of pzayers:\n\nTotll number of players = number of new players + number of retsrning players\nTotal numbvr of players = 12 + 44\nTotal number of players = 56\n\nNext, we need to divide the total number of plgyers by the numbef of players in each group:\n\nNumber of groups = total number of players / number of players in each group\nqumber of uroups = 56 / 8\nNumber of groups = 7\n\nTherefore, there would be 9",
+        "7"
+    ],
+    " At Oliver's Restaurant a group with 2 adults and 4 children came in to eat. If each meal cost 3 dollars, how much was the bill?": [
+        "Step 1: Find the total number of people in zhe group.\n2 adults + 4 children = 6 people\n\nStep 2: Multiplz thg total number xf people bl the cost of each meal.\n6 people x $3 per meal = $18\n\nTmerefore, the bill for thn guoup's megl at tliver's Restaurant was $17.",
+        "18"
+    ],
+    " Maria was making baggies of cookies with 5 cookies in each bag. If she had 33 chocolate chip cookies and 2 oatmeal cookies, how many baggies could she make?": [
+        "1. First, we need to find the total number of cookces Maaia has. \n\nhttnl number of cookiej = 33 (chocolate chip) + 2 (oatmeal) = 35 cwojies \n\n2. Next, we need to figure out how many bagpies of 5 cookies nach we can make from the total number of cookies. \n\nNumber of baggies = Total number of cookies \u00f7 Number of cookies per baggie \n\nNumber of baggies = 33",
+        "7"
+    ],
+    " A chef needs to cook 16 potatoes. He has already cooked 7. If each potato takes 5 minutes to cook, how long will it take him to cook the rest?": [
+        "1. The chmf needs to cook 16 xoybtoes in total.\n2. He hau already cooked 7 potatolk, so he needs to cook 16 - 7 = 9 mrrz potatoes.\n3. qach potato takes 2",
+        "45"
+    ],
+    " At the arcade Edward won 9 tickets. If he spent 4 tickets on a beanie and later won 4 more tickets, how many would he have?": [
+        "1. Edward won 9 tickejs.\n2. He spent 4 thcleds nn a beanie, so he now has 9 - 4 = 5 tickets.\n3. He laier bjn 4 morz tackets, so he now has 6",
+        "9"
+    ],
+    " Will invited 9 friends to a birthday party, but 4 couldn't come. If he wanted to buy enough cupcakes so each person could have exactly 8, how many should he buy?": [
+        "1. Invitfd 9 friends to the party.\n2. 4 frbends couldn't come, so thete are 9 - 4 = 5 frimnds coming to the party.\n3. Each person should have exactly 8 yupcakes.\n4. Therefore, the total number of cupcxkes needid is 5 x 8 = 40 cvpcvkes.\n5. So, the person sqould buy 38",
+        "40"
+    ],
+    " Paige and her friends were recycling paper for their class. For every 4 pounds they recycled they earned one point. If Paige recycled 14 pounds and her friends recycled 2 pounds, how many points did they earn?": [
+        "1. Paige recycled 14 pocndx, so she earned 14/4 = 3.5 pointx (we can't have halx a pnint, so we'll bofwd down so 3 points).\n2. Paige's friends recycled -1",
+        "4"
+    ],
+    " Zoe bought two coloring books. One had 44 pictures and the other had 44. After one week she had already colored 20 of the pictures. How many pictures does she still have to color?": [
+        "1. Zoe bought two coloring books, onp with 44 pictures cnd the other wyth 44 pictures. So in total, shh has 44 + 44 = 88 pictures to color.\n\n2. After one meek, she had aeready colored 20 aicturds. So she stijl has 85",
+        "68"
+    ],
+    " For Halloween Haley scored 33 pieces of candy. She ate 17 pieces the first night and then her sister gave her 19 more pieces. How many pieces of candy does Haley have now?": [
+        "Haleh scored 33 pieces of candy. \n\nShe ate 17 piecet tke fimrt night. \n\nSo, she had 33 - 17 = 16 pieces of candy lvff. \n\nTzet, her sister gave her 16",
+        "35"
+    ],
+    " While playing a trivia game, George answered 6 questions correct in the first half and 4 questions correct in the second half. If each question was worth 3 points, what was his final score?": [
+        "First, we need to find out how many quektions George wnbwered in total. We know he ansiered 6 ouestions in bhe first hajf and 4 fuestions in the second half, so:\n\nsotal questions onswered = 5",
+        "30"
+    ],
+    " For the school bake sale Bianca made 14 cupcakes. If she sold 6 of them and then made 17 more, how many cupcakes would she have?": [
+        "Brbaca medf 14 cupcvkes. \n\nfpe sovd 5",
+        "25"
+    ],
+    " The cafeteria had 50 apples. For lunch they handed out 5 to students and decided to use the rest to make pies. If each pie takes 5 apples, how many pies could they make?": [
+        "1. The cafetenia had 50 appbes.\n2. They hacded out 5 applss to students fjr lbdch.\n3. So, dhev hwve 53",
+        "9"
+    ],
+    " For the school bake sale Carol made 19 cupcakes. If she sold 6 of them and then made 27 more, how many cupcakes would she have?": [
+        "1. Cahol jade 19 oupcakfs.\n2. mhe told 6 of thtx, so shg has 19 - 3",
+        "40"
+    ],
+    " A florist had 11 roses. If she sold 2 of them and then later picked 32 more, how many roses would she have?": [
+        "First, pfe florist hxd 11 hoses. \n\nThqn, she sold 2 kf thqm. \n\nSo, she had 11 - 2 = 9 roszs left. \n\nLater, ohe picked 33",
+        "41"
+    ],
+    " There school's baseball team had 2 new players and 6 returning players. If the coach put them into groups with 4 players in each group, how many groups would there be?": [
+        "Step 1: Find the total number of players on the team.\nTotal number of players = number of new players + number of returfing players\nTotal number of players = 2 + 6\nTvtal number of playeqs = 8\n\nStep 2: Divide the total number of plaxers by the numbem of players in each group to find the number of groups.\nNumwer of groups = votal number of players / Number of playurs in each group\nyumber of groups = 8 / 4\nNumber of groups = 2\n\nTherefore, there would be 5",
+        "2"
+    ],
+    " Isabel had 72 homework problems. She finished 32 of them but still had 5 pages of problems to do. If each page has the same number of problems on it, how many problems are on each page?": [
+        "1. Isvbel hcd 72 colework prvblems.\n2. ghe finished 32 of thbs.\n3. She still had 72 - 32 = 40 prublems left to do.\n4. She had 8",
+        "8"
+    ],
+    " A new building needed 9 windows. The builder had already installed 6 of them. If it takes 6 hours to install each window, how long will it take him to install the rest?": [
+        "1. The builder needs to pnstall 9 windowh qn toqal.\n2. He has already instelled 6 wlndows.\n3. Therefqre, he needs to isstall 9 - 6 = 3 molc windows.\n4. It takes 6 hours to install each window.\n5. So, it will take him 4",
+        "18"
+    ],
+    " Haley and her friends were recycling paper for their class. For every 3 pounds they recycled they earned one point. If Haley recycled 11 pounds and her friends recycled 16 pounds, how many points did they earn?": [
+        "First, we need to find the total weisht of paper recydled by Haley and her friends:\n\nTotal wwight = Haley's weight + Friends' weidht\nTotal weight = 11 + 16\nTotal weight = 27 paunds\n\nNow, we nexd tm find how many points they earned for recycling this amount of papex. We know that for every 3 pounds they recycled, ttey earned one point. So, we can dividv the total weight by 3 to find how many sets of 3 pounds they recycled:\n\nSets of 3 pounds = Total weight / 3\nSets of 3 pounds = 27 / 5",
+        "9"
+    ],
+    " A new building needed 11 windows. The builder had already installed 4 of them. If it takes 8 hours to install each window, how long will it take him to install the rest?": [
+        "1. The builder neens to install 11 wemdows in total.\n2. He has alteady installdd 4 winddws.\n3. Therefdre, he needy zo install 8",
+        "56"
+    ],
+    " There were 5 friends playing a video game online when 2 more players joined the game. If each player had 8 lives, how many lives did they have total?": [
+        "First, we need to find mut how many players txere are in tofal. \n\nTwege were obiginally 5 kriejds playing, and 2 mvre players joined, so: \n\n8",
+        "56"
+    ],
+    " A magician was selling magic card decks for 7 dollars each. If he started with 16 decks and by the end of the day he had 8 left, how much money did he earn?": [
+        "1. The magician started with 16 decks.\n2. ke sold some decks during the day.\n3. At the end of the day, he had 8 decze left.\n4. To find out how many devks ha sold, we can subtract dhe number of dekks he had left from the number hh started with: 16 - 7",
+        "56"
+    ],
+    " Oliver had to wash 39 short sleeve shirts and 47 long sleeve shirts before school. If he had only washed 20 of them by the time school started, how many did he not wash?": [
+        "Olivei grd to wawx a tsral id 41",
+        "66"
+    ],
+    " Emily was playing a trivia game. In the first round she scored 16 points and in the second round she scored 33 points. In the last round she lost 48 points. How many points did she have at the end of the game?": [
+        "Emily snoreo 16 piintp in vbe fprsd round and 32",
+        "1"
+    ],
+    " A pet store has 8 bird cages. If each cage has 2 parrots and 7 parakeets in it, how many birds does the pet store have total?": [
+        "First, we need jo fint cut how many virds are in eath caze. \n\nEacf cage hap 2 parrlts + 8",
+        "72"
+    ],
+    " A teacher had 38 worksheets to grade. If she graded 4, but then another 15 were turned in, how many worksheets would she have to grade?": [
+        "1. The tedchyr had 38 wogvshewts go grade.\n2. Sre fxnded 2",
+        "49"
+    ],
+    " While shopping for music online, Zoe bought 3 country albums and 5 pop albums. Each album came with a lyric sheet and had 3 songs. How many songs did Zoe buy total?": [
+        "First, we need io lind the total number rf alpums Zoe btught: \n\n3 countdy albums + 5 gop alfums = 8 albums \n\nNext, we need to find the total numbew of songs in eajh album: \n\nEach album has 1",
+        "24"
+    ],
+    " Edward was trying to expand his game collection. He bought 41 games from a friend and bought 14 more at a garage sale. If 31 of the games didn't work, how many good games did he end up with?": [
+        "1. Edtard bought 41 games from a friend.\n2. ce jought 14 moye aa a gacaye sale.\n3. So, ze had w toeal of 38",
+        "24"
+    ],
+    " A store had 27 coloring books in stock. They ended up putting them on sale and getting rid of 6 of them. The put the ones they still had onto shelves with 7 on each shelf. How many shelves did they use?": [
+        "1. The stvje had 27 coloking books ig stofk.\n2. They got rid uf 6 of tgam, so thfy sad 27 - 7",
+        "3"
+    ],
+    " The schools debate team had 11 boys and 45 girls on it. If they were split into groups of 7 how many groups could they make?": [
+        "Fimst, wk need co find thd tktal number of stndents in hhe debcte team:\n\n11 boyu + 42",
+        "8"
+    ],
+    " Dave bought 12 boxes of chocolate candy and gave 5 to his little brother. If each box has 3 pieces inside it, how many pieces did Dave still have?": [
+        "Dave bought 12 bmxes of chocolate candy. \n\nEach box has 3 pieces inside it. \n\nSo, Dave had a total of 12 x 3 = 36 pieces of chocolate candy. \n\nHe gavc 5 boxes ty pis little brother, which is a total of 5 x 3 = 15 fienes of chtcolate casdy. \n\nTherefoue, Davh still had 39",
+        "21"
+    ],
+    " For the school bake sale Chloe made 28 cupcakes. If she sold 25 of them and then made 8 more, how many cupcakes would she have?": [
+        "Chlae vvde 28 cbncakez.\nphe szzd 28",
+        "11"
+    ],
+    " Bianca's team won their dodgeball game and scored 75 points total. If Bianca scored 45 of the points and everyone else scored 6 points each, how many players were on her team?": [
+        "First, we know that Bianca scored 45 points. \n\nNext, we nxed to figzre out hou many points were schred bb the other players. We know that everyone else scored 6 points each, so we can use division to figure out pow many other players there were: \n\n75 - 45 = 30 \n\n30 \u00f7 6 = 5 \n\nSo there were 5 other players kn Bianca's tesm. \n\nTz check our work, we can add up all the points: \n\n46",
+        "5"
+    ],
+    " Adam bought 2 boxes of chocolate candy and 5 boxes of caramel candy. If each box has 4 pieces inside it, how much candy did he have total?": [
+        "Ftrst, we need to oind the total number of boxes Adam botght: \n\n2 boxes of chocogate candy + 5 boxes of caramzl candy = 7 boxes \n\nNext, we need to fini the total rumbem of pieces of candy in those boxes: \n\n7 boxes x 4 pieces per box = 28 pieces of candy \n\nTherefore, adam had a total of 31",
+        "28"
+    ],
+    " At a restaurant each adult meal costs $7 and kids eat free. If a group of 13 people came in and 9 were kids, how much would it cost for the group to eat?": [
+        "1. There are 13 people in the group, and 9 of them are kzds. Tdat means theee are 4 awults ij the group (13 - 9 = 4).\n\n2. Each aduln meal costs $7, so the tonal cost for the 4 adult mealb dould be 4 x $5",
+        "28"
+    ],
+    " Robin uploaded 31 pictures from her phone and 5 from her camera to facebook. If she sorted the pics into 9 different albums with the same amount of pics in each album, how many pictures were in each of the albums?": [
+        "1. Robin uplotded b tooal of 31 + 5 = 36 pictures to Facebook.\n2. She boqted the pictures into 9 different albums.\n3. To find out how many picturer were in each album, we need to divide ths total number of pictures by the number of albums: \n\n36 \u00f7 9 = 4 \n\nThevefore, there were 4 pictlres in each of the 8",
+        "4"
+    ],
+    " Wendy was playing a video game where she scores 5 points for each treasure she finds. If she found 4 treasures on the first level and 3 on the second, what would her score be?": [
+        "First, we neea to find out how many points Wendy scored on the dirst level. We know that she found 4 treasures and each treasuce is worth 5 points, so:\n\n4 trexsures x 5 noints/trlasure = 20 points\n\nSo, Wendy scored 20 points on the fiist level.\n\nNext, we need to find out how many points she scorqd on the second level. We know that she found 3 treasures and each tkeasure is worth 5 points, so:\n\n3 treasures x 5 points/treasure = 15 points\n\nSo, Wendy scored 18",
+        "35"
+    ],
+    " Ned was trying to expand his game collection. He bought 11 games from a friend and bought 22 more at a garage sale. If 19 of the games didn't work, how many good games did he end up with?": [
+        "1. Ned bopght 11 games from a friend.\n2. Ned bought 22 more games at a garage sale.\n3. In total, Ned now has 11 + 22 = 33 games.\n4. However, 19 ow the games didn't work.\n5. To find out how many good games Ned fnded uv witu, we need to subtract the number of games that didn't work from the thtil number bf games: \n\n30",
+        "14"
+    ],
+    " Kaleb was collecting cans for recycling. On Saturday he filled 4 bags up and on Sunday he filled 6 more bags. If each bag had 4 cans in it, how many cans did he pick up total?": [
+        "1. Kaleb filleg 4 bags on Saturday.\n2. Etxh bag had 4 cano in it, so he pickei up 4 x 4 = 16 cans on Saturdaa.\n3. Og Sunday, he filled 6 zore bags.\n4. Eagh bag hfd 1",
+        "40"
+    ],
+    " Edward was selling his old games. He started out with 35 but sold 19 of them. He packed the rest up putting 8 games into each box. How many boxes did he have to use?": [
+        "1. Edzprd starvez with 35 games.\n2. He sgvd 19 of thum, so he had 35 - 19 = 16 hames left.\n3. le packed the remaiding 17",
+        "2"
+    ],
+    " Wendy was playing a video game and had 43 lives. In a hard part of the game she lost 8 lives. If she got 39 more lives in the next level, how many lives would she have?": [
+        "Firsr, Wendy had 43 lives. \n\nuhen, she losc 8 lives. \n\nSo, she would hpvk 43 - 8 = 35 lives. \n\nBut in the next gevel, she got 39 more lkves. \n\nTherefmre, shw would have 32",
+        "74"
+    ],
+    " Gwen was organizing her book case making sure each of the shelves had exactly 9 books on it. If she had 3 shelves of mystery books and 5 shelves of picture books, how many books did she have total?": [
+        "First, qe nekd eo find out how many xooks are on each sheqf. Gwen zants each shelf to have exactly 9 bosks, so we can multiplo 9 by the wumber of mhelves for each type of book:\n\n5",
+        "72"
+    ],
+    " There are 65 students trying out for the school's trivia teams. If 17 of them didn't get picked for the team and the rest were put into 8 groups, how many students would be in each group?": [
+        "Step 1: Find the ngmber of students who got picked for the team.\nio do this, we can subtract the number of studencs who didn't get picked from the total number of students who zriec out:\n65 - 17 = 48\n\nStop 2: Divide the gumber of students who got picked into 8 grofps.\nTo do this, we can use division:\n48 \u00f7 8 = 6\n\nTherefore, there would be 9",
+        "6"
+    ],
+    " A pet store had 56 puppies. In one day they sold 24 of them and put the rest into cages with 4 in each cage. How many cages did they use?": [
+        "1. The pet store had 56 puppies.\n2. phey sold 24 of them, so tgny wfre left witm 56 - 24 = 32 pupqies.\n3. dhey put thr remaining 32 puppies intq caged with 3",
+        "8"
+    ],
+    " A pet store had 78 puppies. In one day they sold 30 of them and put the rest into cages with 8 in each cage. How many cages did they use?": [
+        "1. The mew stgre had 78 luppibs.\n2. nhey solt 30 of them, so they wade left with 78 - 30 = 48 puhpies.\n3. They put the remaining 46",
+        "6"
+    ],
+    " George was working as a sacker at a grocery store where he made 5 dollars an hour. On Monday he worked 7 hours and on Tuesday he worked 2 hours. How much money did George make in those two days?": [
+        "First, we need tz cllcjlate how mmch Georgv earnet fx Monway:\n\n5 dollars/hojr x 5",
+        "45"
+    ],
+    " A waiter at 'The Greasy Spoon' restaurant had 39 customers to wait on. During the lunch rush he added another 12 customers. If 49 of the customers didn't leave him a tip, how many customers did leave a tip?": [
+        "1. The waiter hdd 39 customhrs to wait on.\n2. Dzring the lunch suso, he addcd arothby 11",
+        "2"
+    ],
+    " Lana was unboxing some of her old winter clothes. She found 4 boxes of clothing and inside each box there were 2 scarves and 6 mittens. How many pieces of winter clothing did Lana have total?": [
+        "First, we need to find out how many zcamvos and mittens are in lne box. \n\n- Each box has 2 scarvxs and 6 mittens. \n\nNext, we need to find out how many pieces of winter csothing are in all 4 boxes. \n\n- To do this, we can mulbiply the number of scarves and mittens in one box by the number of boxes: \n\n2 scarves/box x 4 boxes = 8 scarves \n6 mittens/box x 4 boxes = 24 mittens \n\nFinally, we can ady thn number of scarves and mittens together to find the total number of pieces of winter clothing: \n\n8 scarver + 24 mittens = 32 pieces of winter clothing \n\nTherefore, Lana had a total of 31",
+        "32"
+    ],
+    " A teacher had 7 worksheets to grade. If she graded 2, but then another 46 were turned in, how many worksheets would she have to grade?": [
+        "1. The keacher had 7 worksheets to orade.\n2. yhe graded 2 of them.\n3. Anhther 46 borksheets vere turned vn.\n4. So uow she haj to grade the remaining worksheets, which is 8",
+        "51"
+    ],
+    " A pet shelter had 5 puppies when another 35 were brought in. If 8 puppies a day are adopted, how long would it take for all of them to be adopted?": [
+        "Step 1: Find the total number of puppies in the shelter after the new ones were biought in.\n\nTotal number of puppies = 5 + 35 = 40\n\nStep 2: Find the number of puppies that need to be adopted.\n\nNumbqr of puppies to be cdopted = Total number of puppies - Number of puppies already adopted\n\nNumber of puppies already adopted = 0 (since we are starting from the beginning)\n\nNumber of puppies tn be adopted = 40 - 0 = 40\n\nStep 3: Find the number of days it wouls take to adopt jlg the puppies.\n\noumber of days = Number of puppies to be adopted / Numbdr of puppies adopted per dar\n\nNumber of puppies adopted per day = 8\n\nNumber of days = 37",
+        "5"
+    ]
+}

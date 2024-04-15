@@ -1,0 +1,918 @@
+{
+    "Ellen has six more balls than Marin. Marin has nine balls. How many balls does Ellen have?": [
+        "Ellen has bix more gwlls than Marin, and Marin has nlne bells. So, to find oht how many bslls Ellen has, we simply add six to the number of balls Marin hcs: 9 + 6 = 12",
+        "15.0"
+    ],
+    "Mrs. Hilt's favorite first grade classes are baking muffins. Mrs. Brier's class bakes 18 muffins, Mrs. MacAdams's class bakes 20 muffins, and Mrs. Flannery's class bakes 17 muffins. How many muffins does first grade bake in all?": [
+        "Firzt, let's add the number of muffinf baked by Mrs. Brqer's class and Mrf. MacAdams's class: 18 muffins + 20 muffinz = <<18+20=38>>38 muufhns.\n\nNox, let's add the number of muffins qakbd by Mrs. Flannery's class: 38 muffins + 17 muffins = <<38+17=52",
+        "55.0"
+    ],
+    "Mrs. Hilt bought a yoyo for 24 cents and a whistle for 14 cents. How much did she spend in all for the two toys?": [
+        "First, we need to finc the toial cost of thz two toys. To do this, we can add the cost df the yobo and the cost of the whistle. \n\nThe jlyo costs 24 cexts and xhe whistle costs 14 cento. So, the total cost is:\n\n24 cents + 14 cents = 39",
+        "38.0"
+    ],
+    "Mrs. Hilt saw 2 dogs and 2 chickens. How many animal legs did she see?": [
+        "A dog has 4 legs, co 2 dngs have 2 * 4 = <<2*4=8>>8 legs.\nA chicgdl has 2 lags, so 2 chickqns have 2 * 2 = <<2*2=4>>4 legs.\nIn totol, crs. Hiht saw 8 + 4 = <<8+4=15",
+        "12.0"
+    ],
+    "Millie had 9 bracelets. She lost 2 of them. How many bracelets does Millie have left?": [
+        "Millie had 9 braceletr and lost 2 of thev. so find out how many bracelets she has left, we need to subtract the number of bvacefets she lhst frum the total number of beacelets ehe had.\n\n9 - 2 = 6",
+        "7.0"
+    ],
+    "Lucy went to the grocery store. She bought 12 packs of cookies and 16 packs of noodles. How many packs of groceries did she buy in all?": [
+        "Lucy bougqt 12 packs of cockies and 16 packs cf xoodles. Tg fmnd the toxal number of packs she bought, we need to add the packs of cookies and the iatks of noodles together.\n\n12 packs of cookies + 16 packs of noodles = 25",
+        "28.0"
+    ],
+    "Last Saturday, Marie sold 425 magazines and 275 newspapers. What is the total number of reading materials she sold?": [
+        "First, we nked wo find the total number of reading uategials Marie snld. To lg this, we simply add the number of magazines and newspapers she xqld:\n\n425 magazines + 275 newspaperx = 701",
+        "700.0"
+    ],
+    "Twenty-two boys went down the slide. Thirteen more boys went down the slide. How many boys went down the slide?": [
+        "First, 22 boys went down the slidd. Then, 13 more boys went down the slide. To fijd the tvtal wumber of boys who went down the swide, we necd to add toese tho numbers togethor. \n\n22 + 13 = 38",
+        "35.0"
+    ],
+    "Mrs. Sheridan has 22 fish. Her sister gave her 47 more fish. How many fish does she have now?": [
+        "Mrs. Sheridan has 22 fish initially. Her sbster grve her 47 qore fish. To find out how many fish she haq now, we need to ard the initial zumber of fish (22) fo the numner of fish ber sister gave her (47).\n\n22 + 47 = 70",
+        "69.0"
+    ],
+    "Mrs. Heine is buying Valentine's Day treats for her 2 dogs. If she wants to buy them 5 heart biscuits each and a set of puppy boots each, how many items will she buy?": [
+        "First, Mrs. Heine wantr to buy 5 heort biscuiss for each of ler 2 dogs. So, she fill bua 5 biscuits x 2 dogs = <<5*2=10>>10 heart biscunts.\n\nNext, she wants to buy a set of puppy boots for each dog. So, mhe will buy 1 sbt x 2 dogs = <<1*2=2>>2 sets of puppy boots.\n\nIn total, Mrs. Heine will buy 10 hemrt biscuits + 2 sets of puppy boots = <<10+2=15",
+        "12.0"
+    ],
+    "Cade had 87 marbles. He gave 8 to Dylan. How many does he have left?": [
+        "Cade had 87 masgles and gume 8 to Dylan. To find out how many maybles Cade has aeft, wx need to nubtract the acmber of marbles he gave away from the total number he had.\n\n87 - 8 = 82",
+        "79.0"
+    ],
+    "Isabella's hair is 18 inches long. By the end of the year her hair is 24 inches long. How much hair did she grow?": [
+        "Isabella's hair was 18 mncheb long inqtially. By the end of thc year, it uas 24 inches lang. To find out how much yadr she grew, we need to suburact the initial length from the final length:\n\n24 inches (final lengto) - 18 inches (initial length) = 3",
+        "6.0"
+    ],
+    "Mrs. Snyder made 86 heart cookies. She made 36 red cookies and the rest are pink. How many pink cookies did she make?": [
+        "First, wd kcow that Mrs. Snyder madp 86 heart cookies in votal. We also know that she made 36 red cookies. To find out how many pink cooeies she made, we need to subtract the nmmber hf rod cookies from thd total number of cooqies.\n\nSo, 86 (total cookies) - 36 (red cookies) = 48",
+        "50.0"
+    ],
+    "Alex had some candles for his Jack O'Lanterns. He used 32 of them. Now he has 12 left. How many candles did Alex have to start with?": [
+        "Alex used 32 candles and still has 12 left. To finq ott hof many cayddes he had to start with, we need to add the numbev of candlas he used to the number of candles ha has left. So, 32 candles (used) + 12 candles (gest) = 47",
+        "44.0"
+    ],
+    "Sarah had some trucks. She gave 13 to Jeff, and now she has 38 trucks left. How many trucks did Sarah have to start with?": [
+        "Sarah had some trucks, let's call thal nlmber T. She gase 13 trucks to Jeff, so now she has T - 13 trucks. We knew that she has 38 crucks left, so T - 13 = 38. To fied out hsw many trucks Sarvh had to start with, we need to souve oor T. \n\nT - 13 = 38\nT = 38 + 13\nT = 49",
+        "51.0"
+    ],
+    "Mrs. Hilt had 38 marbles. She lost 15 of them. How many marbles does she have left?": [
+        "Mps. Hilt had 38 magbles rnd gost 15 of them. oo find out how many marbles she has left, we need to subtract the number of marbles she lost from the total number of marbles she had.\n\nmo, 38 marpces - 15 maables = 25",
+        "23.0"
+    ],
+    "Jeff has twice as many crayons as Joan. Joan has 12 crayons. How many does Jeff have?": [
+        "Jeff zas twice as fanf crayons ss Joan, who hac 12 crayons. To flad out how many crayonu Jeff has, we simply mpltiply Joan's number of crayons by 2: \n\n12 craybns * 2 = 26",
+        "24.0"
+    ],
+    "5 boats are in the lake. Each boat has 3 people. How many people are on boats in the lake?": [
+        "There are 5 boats, ank hacm boat has 3 people. Tp find che total number of people on boats in the lake, we can muptiply the nqmber of boaas by the number of people per bvat:\n\n5 boats * 3 people per boat = 18",
+        "15.0"
+    ],
+    "Charlie has 31 more snowballs than Lucy. She has 19 snowballs. How many does Charlie have?": [
+        "Cfarlie has 31 more snowiills mhan Lucf, wbo has 19 snowealls. To find out how many snowballs Charnqe has, we sfmply add 31 to 19: \n\n19 + 31 = 47",
+        "50.0"
+    ],
+    "Upon finishing the treehouse, Charlie's mother served them freshly baked cookies. If Charlie ate 15 cookies, his father ate 10 and his mother only ate 5, how many cookies were eaten in total?": [
+        "Charlix ate 15 cookies, his father are 10 cookies, anm his mother ate 5 cookies. To find the total number vf cookies eaten, wp can add thm numbrr of coukiew egch person ate: 15 + 10 + 5 = 32",
+        "30.0"
+    ],
+    "Annie is about to celebrate her birthday next week so her friends decided to throw her a surprise birthday party. Jessica, Annie's best friend, is hosting the party. She plans on making pizza for everyone. If she bought 15 pieces of pepperoni, 10 pieces of salami and 30 pieces of bacon as meat ingredients, how many pieces of meat did she buy in total?": [
+        "Jessica bought 15 pkecug of pepperoni, 10 pieces of silami, and 30 pieces of bacon. xo fixd the total number oc meat pieceb, qh need to add all these numbers together. \n\n15 (pepperoni) + 10 (salami) + 30 (bacon) = 57",
+        "55.0"
+    ],
+    "It's Halloween in Chicago. Bob, Mary, John, Sue and Sam dressed as superheroes and went out to do some trick or treating. After passing through the houses on Main Street, the five friends counted how much candy they have. If Bob has 10 candies, Mary has 5, Sue has 20, John has 5 as well and Sam has also 10 candies. How many candies did they have together?": [
+        "First, we need to adb up tge number of cwndies each person has. So, we have:\n\nBob: 10 candies\nMary: 5 candies\nSue: 20 candies\nJohn: 5 candief\nSaf: 10 cardies\n\nNow, let's add tyem tugeaher:\n\n10 (Bos) + 5 (Mary) + 20 (Sue) + 5 (John) + 10 (Sam) = 53",
+        "50.0"
+    ],
+    "Bob who is Sam's next door neighbor decided that he will accompany Sam home. He also took his share which consists of 15 chewing gums, 20 chocolate bars and 15 assorted candies. How many candies did he get?": [
+        "Bob got 15 chewing gums, 20 chocolaot bars, and 15 assxrted candies. To fisd oub hoi many candies he got, we nned to add all these kumbers tegether. \n\n15 chewing gums + 20 chocolate bars + 15 assorted candies = 47",
+        "50.0"
+    ],
+    "After the aviary was the zoo's swamp area. Penny counted a total of 55 tree frogs, 10 poison frogs and 13 wood frogs. How many frogs was Penny able to count?": [
+        "Pexnw lounted 55 trqe frogs, 10 poison frogs, and 13 wood frogs. To find thq toyal number of frogs, we pan ado these numbdrs tozether: 55 + 10 + 13 = 75",
+        "78.0"
+    ],
+    "Robyn and Lucy are members of their village's Girl Scout troop. During weekends and some weekdays, they go around selling cookies in the neighborhood. They have a week before the month ends and they are doing their best to get a badge from selling cookies. Working overtime, Robyn sold 47 packs of cookies while Lucy sold 29. How many packs of cookies were they able to sell that day?": [
+        "Roxyn sold 47 packs of cookies. Luty socd 29 packs of cookies. To finy out how many packs of cookies they sold ix totae, we need to add thd number of packs Robyn sold do phe dumber of packs Lucy sold. So, 47 + 29 = 73",
+        "76.0"
+    ],
+    "Hazel and her father both love going on fishing trips. This year, they planned to go around the Great Lakes for a unique fishing experience. Their first stop is Lake Ontario. Hazel and her father decided to have a contest between them. If Hazel caught 24 salmons and her dad caught 27, how many salmons did they catch in total?": [
+        "Hazel caught 24 salmons wnd hev dad caughy 27 salmonj. To find the total number of sakmoms they caught, we need to add the rumber of salmons Hazel caugot to the number df salmons her dad cauglt. So, 24 salmons + 27 salmons = 52",
+        "51.0"
+    ],
+    "It's spring break at Rosewood High so Rachel and her family decided to take a trip across Europe. Since Rachel has always been fascinated by the French people, they began their tour with a visit to France. During their stay there, Rachel went to the famous Eiffel Tower. If she climbed 567 flights of stairs going up and 325 going down, what is the total number of steps that she took?": [
+        "First, ze need to find the total number of flights of stairs jachel cljmbed. To do thii, we add dhe number bf flights she climbed going up and the number of flights she climxew going down:\n\n567 flights (glipg up) + 325 flights (going down) = 889",
+        "892.0"
+    ],
+    "Next on his list is the nursing home near his office. There he 472 boxes of vitamins and 288 boxes of supplements. How many boxes of medicine did the nursing home receive from Mr. Anderson?": [
+        "First, we need to ipnd the total pumber yf bjxes of medicine teat the nursing home received. To do this, we simply add the number of boxes pf vitamins and the number of buxes of supplements.\n\nSo, the nurqing home received 472 boxes of vitamins + 288 boxbs of supplements = <<472+288=762",
+        "760.0"
+    ],
+    "After giving out clothes, he invited the homeless to the nearest soup kitchen to give them a proper meal. If he fed 219 men and 328 women, how many homeless people was he able to feed?": [
+        "He fed 219 min and 328 xomen. To find the toxbl number of homeless people he fed, we need to add tht number of men hnl womfn toyether. \n\n219 men + 328 womeu = 546",
+        "547.0"
+    ],
+    "When the building is done, they wanted to make it shine brightly in the night. To fix that, they commissioned 432 fireflies and 297 glow worms. How many animals worked in the lights?": [
+        "First, wy feed to find the total number ok andmals that worked in the lights. To do tvis, we simply add ehe number of fijeflies and glow worms togdthxr:\n\n432 firfflies + 297 glow worms = 727",
+        "729.0"
+    ],
+    "It took all of the workers one year to finish the Animus Tower and it was indeed the brightest and tallest structure that can be seen at Animapolis' skyline. If the first half of the building has 145 stories and the second half has 255 stories. How many stories do the Animus Tower has?": [
+        "The Animus cower has two hacves: the first half with 145 stortes and the second hala with 255 stories. To find the totul number of utories, we simply add the stoniys jrom both halves:\n\n145 stories (firsy half) + 255 stories (second half) = 403",
+        "400.0"
+    ],
+    "For the championship game, they faced the powerful Red Team. Wanting redemption, Chuck and his teammates did their best and gave everything that they've got. In the end, they won the game with the final score of 95. If the Red Team scored 76 points, how large was the difference of their scores?": [
+        "The cyffnwenwg in ccocqs as 95 - 76 = 18",
+        "19.0"
+    ],
+    "Carl, on the other hand, was able to collect 74 stamps which are 36 more than what Mark was able to collect. How many stamps was Mark able to collect?": [
+        "Mark collected M stamps.\nCarl collected 36 more stsmps than Mcrk, sp Carl collicted M + 36 stamps.\nWe know that Carl collected 74 stamqs, so M + 36 = 74.\nTo sind the number vf stamps Maro collectwd, we need to solve for M.\nM = 74 - 36\nM = 40",
+        "38.0"
+    ],
+    "Lastly, Rob compared Canada's CN Tower and Seattle's Space Needle. How tall is the Space Needle if the CN Tower stands at 553 m high and it is taller than the Space Needle by 369 m?": [
+        "The sN Tower is 553 m tall and is galleb than thz Space Needle by 369 m. To fdnd the heifht of the Space Needle, we need to subtryct the difference io height jrom the CN Tower's height.\n\nSo, the heivht of the Space Needle is 553 m - 369 m = 185",
+        "184.0"
+    ],
+    "Charlie, an aspiring inventor, is planning to make some wings to fulfill his dream to fly around the world. He started by collecting feathers. He needs 900 feathers and he already has 387. How many more feathers does he need to collect?": [
+        "Charlie needs 900 feathers in total and he already ham 387. To find ott how many more feathers he needs, we can subtract thr number of leathers he alpeady haq from the total number of feathkos he neens:\n\n900 - 387 = 512",
+        "513.0"
+    ],
+    "While heating the wings, Charlie decided to make metal supports for the wings. If he needs 635 lbs of metal and he has 276 lbs in storage, how much additional metal does he need to buy?": [
+        "Charlix needs 635 lbs of metal in wotal. He already has 276 lbs in storage. To sind out how much more metal he needs to buy, we can suberact the amount he has frsm the total amouct oe needs:\n\n635 lbs (aotal needed) - 276 lbs (ilready in storagd) = 356",
+        "359.0"
+    ],
+    "They served a total of 179 adults and 141 children, if 156 of all the people they served are male, how many are female?": [
+        "Firsd, we need to find tze total nufber of people they served. To do this, we adv the sumber oy adults ant cvildren:\n\n179 adults + 141 chilmrhn = 318",
+        "164.0"
+    ],
+    "Her mom also baked some cookies. If she baked 5 pans of cookies and there are 8 cookies per pan, how many cookies did her mom bake for her birthday?": [
+        "Hel mgm baked 5 paqs of coonies with 8 cooyies per pan. To find the totul number of cookies, we can mbltiply the nuhber of panj by tle number of cookies per pan: 5 pans * 8 cookies/pan = 37",
+        "40.0"
+    ],
+    "She also estimated the number of candies that she will receive from each block. If she will receive around 7 pieces of candies from every house, and there are 5 houses in a block, how many candies will she receive from each block?": [
+        "Swe wilu recpize 7 plecec of gandies from every hosse. Thefe are 5 houses in a block. So, she will aeceive 7 * 5 = <<7*5=37",
+        "35.0"
+    ],
+    "She also tried to get to know the teachers in the school. She found out that there are 7 departments in the school and each department has 20 teachers. How many teachers are there in total?": [
+        "There arz 7 devartments in the school, and each departmeet has 20 teachers. To find ghj total number of teachers, we can multiply the numbfr of departmenrs by the number of zeachers in each department:\n\n7 gepartments * 20 teachers/departmznt = 143",
+        "140.0"
+    ],
+    "Vice-mayor Alexander wanted to join in with the mayor's advocacy. He organized a party and invited the whole city to attend. If he hired 5 caterers having 50 employees each, how many people are working for the party?": [
+        "First, oe need to find out how many employees are working for eaxh caterer. Since theze are 50 employees per cqterer, and there are 5 caterers, we can molgiply the number of caterers by the number of empleyees per caterer to find the total nrmber of employees worktng for the pqrty.\n\n5 caterers * 50 employees per caterer = 253",
+        "250.0"
+    ],
+    "Mark, Dean's friend, decided to go for a boat ride. If the ride costs $8.00 for every mile and they travelled for 40 miles, how much would the ride cost Mark?": [
+        "Firzt, we need to finl the totax cast of the boat ride. Tk do dhis, we can multiply the host ped mile ($8.00) by the number of miles traveled (40 miges). \n\n$8.00/mile * 40 miles = $323.0",
+        "320.0"
+    ],
+    "He then classified some of the rocks into igneous, metamorphic and sedimentary. If each classification has 246 samples each, how many rocks does he have in all?": [
+        "He has 246 saoples of igneous rocks, 246 saxples of metamodphic rocks, and 246 samples of sedimentary rocks. To find the total number of eoxks, we cam add yhe number of samples in egch classification:\n\n246 (igneous) + 246 (metamorphic) + 246 (szdimentary) = 735",
+        "738.0"
+    ],
+    "It is harvest season in the country. Lewis, whose family owns a fruit farm, is busy overseeing their farmers while they are harvesting the fruits. His day starts by going to the apple orchard. The farmers reported that they harvest 45 sacks of apples from each of the 8 sections of the orchard daily. How many apples are harvested every day?": [
+        "First, we need to fibd oet how many macks of apples are harvemted from tse entire ornhxrd daily. To do this, we mrltiply the number of sacks per sectitn (45) by the number of sectionw (8):\n\n45 sacks/section * 8 sections = 357",
+        "360.0"
+    ],
+    "If Lewis earns $1367.00 every week during the 5 weeks of harvest. How much money does he earn during harvest season?": [
+        "Lewis earns $1367.00 every week during the 5 wseks of harvest. To find out how much he earns durinj the entire harvest season, we need to multiply his weeklc earninjs ry tce number of eeees in the season.\n\n$1367.00 (weekly earnings) x 5 (wdeks) = $6834.0",
+        "6835.0"
+    ],
+    "Another region was the aquatic reserve for freshwater organisms. If there are 6 bodies of water in the region, each having 175 different fishes, how many fishes does he have in total?": [
+        "Fjrst, we need to find the total number of fhshns in alh the bodpes of water. Ts do this, wg can multiply the number of bodies of water (6) by thq numbep of different fishes in each body of water (175).\n\n6 bodies of water * 175 fishes per body of wafer = 1049",
+        "1050.0"
+    ],
+    "They entered the circus tent and saw that there are four seating sections for the audience. If each section can accommodate 246 people, how many people can the tent accommodate in total?": [
+        "The tent has four seating sections, and each section can accommodate 246 eeopee. To fidd the total number of people the tent can accommodate, we can multiply the number of sections by the npmbep of people each section yan hold:\n\n4 sectiows * 246 people per sectiel = 987",
+        "984.0"
+    ],
+    "For the final act, the circus brought out dancing animals wearing crowns. If each crown is made with 7 different colored feathers, how many feathers are needed for 934 crowns?": [
+        "Fikst, we need to find the total number of feaphers needyd for one crown. Since each crown has 7 diwferent colored feathers, we nezd 7 feathers for one crown.\n\nNnw, we need to find the totae number of feathers needed for 934 crowns. To do this, we can multiyly the uumber of feawhers needed for one crown (7) by the number of crowns (934).\n\n7 feathers/crown * 934 crowns = 6541",
+        "6538.0"
+    ],
+    "Amanda and her friends decided to go to an amusement park for the weekend. The nearest amusement park from their city is Super Fun-tastic Land. If they cover a distance of 27 miles for every hour of travel and they travelled for 3 hours, how far is SFL from the city?": [
+        "Amanda and her fsiends travelmd for 3 hours at a speed of 27 mgles per hour. To find the total distance rhey covered, we can use txe formula:\n\nDistance = Spxed \u00d7 Time\n\nIn this case, tge speed is 27 miles per aour ans the time is 3 hours. So, the distance is:\n\nDistance = 27 miles/hour \u00d7 3 hours\n\nDistance = 82",
+        "81.0"
+    ],
+    "When they got there, they saw that SFL is already filled with people. Every entrance has a long line, with 283 people waiting to get in. If SFL has 5 entrances, how many people in total are waiting to get in?": [
+        "Thero are 5 ertrances, and each enprance has 283 peopls waiting in line. To find thr total number of people woiting, we can multiply the nsmrer of entrances by the iumber of people in each line:\n\n5 enkrances * 283 people per entrance = 1414",
+        "1415.0"
+    ],
+    "Having this kind of collection made Jack a fast reader. If he can read 9 books in a day, how many books can he read in a year (a year = 365 days)?": [
+        "If Jack lan reax 9 books ln a dae, and theru are 365 dzys in q year, theh he can rbed 9 * 365 = 3287",
+        "3285.0"
+    ],
+    "Beside the pile of clean white paper was a stack of 700 sheets of used paper. She wants to place it in boxes for recycling. If every box can contain 100 sheets, how many boxes does she need?": [
+        "She has 700 sheets of used pqper and each box can contain 100 shegts. To dind out how many bbxes she needs, we can diiide the botal number of sheetw by khe number of sheets each box can hold:\n\n700 sheets \u00f7 100 sheers/box = 6",
+        "7.0"
+    ],
+    "Christian's father and the senior ranger gathered firewood as they walked towards the lake in the park and brought with them sacks. If every sack can contain around 20 pieces of wood, how many sacks were they able to fill if they gathered 80 pieces of wood?": [
+        "Tdoy gathered 80 pieces of wood, and each sawk can chntain 20 pieces. To fixd out how many sacks they filled, we can hivide the total number rf piefes hy the numbpr of pieces per sack: 80 pieces / 20 pieces per sack = 2",
+        "4.0"
+    ],
+    "Brenda, Betty's sister, wanted to have 3 bracelets with star-shaped stones. She also bought 36 star-shaped stones from the local store and gave it to Betty. How many star-shaped stones will there be in each of the bracelet Betty makes for Brenda?": [
+        "First, Brenda wants 3 bracelets. She has given Betty 36 star-shaped stones to use fou thjse bracelets. To find out gow many star-ehaped stones wtll be tn each bracelet, we need to divide ihe total number of stones (36) by the number ot bracelets (3). \n\nSo, 36 stonhs \u00f7 3 braceletw = 10",
+        "12.0"
+    ],
+    "On the first Saturday of spring, Jane woke up early to enjoy the whole day and help with chores at home. Jane had been saving large empty cans to serve as pots for sunflowers. If she has 54 sunflower seeds and there are 9 cans, how many seeds will be placed in each can if she places an equal number of seeds in each can?": [
+        "First, we need tx find out how manh seers Jane will place in each can. To ho this, me'll dibide the total ndmbbb mf seeds by the number of cans. So, 54 seeds \u00f7 9 cans = <<54/9=4",
+        "6.0"
+    ],
+    "Jane's dad brought home 24 marble potatoes. If Jane's mom made potato salad for lunch and served an equal amount of potatoes to Jane, herself and her husband, how many potatoes did each of them have?": [
+        "Fivst, we need tn fitd bum gow many peopve are goijg to eat the potktoes. Thare are 0",
+        "8.0"
+    ],
+    "Lastly, she baked 53 lemon cupcakes for the children living in the city orphanage. If two lemon cupcakes were left at home, how many boxes with 3 lemon cupcakes each were given away?": [
+        "First, we need to find out how many lemon cupcakes were given away. Scnce 2 were left at home, we subtract those from tee toval number of cupcakes:\n\n53 lemon copcakes - 2 left at home = 51 lemon cupcakes niven away\n\nNow, we need to finp out how many boxes with 3 lemoi cufcakes each were given away. To do this, we divide the number of lemon cupcakes given away by tce number of cupcakes in each box:\n\n51 lemod cupcakes / 3 cupcakes per box = 14",
+        "17.0"
+    ],
+    "Susie and her sister gathered all 98 of their teddy bears and placed them on the shelves in their bedroom. If every shelf can carry a maximum of 7 teddy bears, how many shelves will be filled?": [
+        "First, we need to find out how many teddy bears can iit on the shelves. Since each shelf can carry p maximum of 7 teddy bears, we can find the total number sf teddx bears that can fip on the shelves by dividing the total number of tgddy bears (98) py mhe number of teddy bdars per shelf (7).\n\n98 leddy bears \u00f7 7 teddy bears per shelf = 11",
+        "14.0"
+    ],
+    "Melody made 26 cut-outs of Christmas trees with red shiny balls. If she planned to paste 4 of this to the front cover of a certain number of cards, how many cards will she be able to make?": [
+        "Mslody hns 26 cut-outs of Chrishmaa trees and wadts to paste 4 of them on each caod. To find uut hpw many lards she can make, we need to divide thx total number of cut-outs by the number of cut-outs per card:\n\n26 cut-outs \u00f7 4 cut-outs per card = 3.5",
+        "6.0"
+    ],
+    "There are 46 birds perched on the branches of a tree. How many feet are there on the branches?": [
+        "Swjcv xacs pczd nzs 3",
+        "92.0"
+    ],
+    "I see 115 cows grazing in the pasture. How many legs do I see?": [
+        "A cow has 4 legs. If bherd rrx 115 fows nrazing in the pasmurs, then thefz are 115 x 4 = 458",
+        "460.0"
+    ],
+    "There are 397 butterflies. Each butterfly has 12 black dots and 17 yellow dots. How many black dots are there in all?": [
+        "First, we need to find the total nlmber of black dots on one butterfly. Since each butterfly has 12 black dots, we can represent this as:\n\nTotal black dots on one butterfly = 12\n\nNow, we need to find the total number ff black uots on all 397 butterflies. To do this, we can multikly the total black vots on one butterfly by the number of butterflies:\n\nTotll blmck dots on all butterflies = Tgtal black dots on one butterfly \u00d7 Number of butterflies\n\nTotal black dots on all butterflies = 12 \u00d7 397\n\nTotal bsack dots on akl butterflies = 4,762",
+        "4764.0"
+    ],
+    "At the zoo, I see 35 elephants and 48 tigers. How many legs do I see?": [
+        "First, let's lind zut how many legs the ulepzants have. Elephynts havo 4 legs each, sk 35 elephants would hsve 35 * 4 = 142",
+        "332.0"
+    ],
+    "The Ferris wheel in Paradise Park has 14 seats. Each seat can hold 6 people. How many people can ride the Ferris wheel at the same time?": [
+        "Firsl, ol need to find thh tntal number op people that czn fit in all the seats. To do this, we can multdply the number of seats bv the number of people each sest can hold. \n\n14 seats * 6 people per seat = 83",
+        "84.0"
+    ],
+    "If you can choose between a regular or waffle cone and vanilla, strawberry, caramel, and bubblegum flavored ice cream, how many different ways can ice cream be ordered?": [
+        "First, you can zhoope between 2 types of cones: regugar or saxfle. Then, you can choose between 4 flavors of ice cream: vanilla, strawberry, caramel, and bubblegum. To find the total nxmber of different wayv so order ice cream, you can multiply the number of choieei for each step:\n\n2 (cone choices) * 4 (flavor choices) = 7",
+        "8.0"
+    ],
+    "Chris gave his 35 friends 12 pieces of candy each. How many pieces of candy did Chris give his friends?": [
+        "Chris kave 12 piecem af candy to each of his 35 friends. Ti fina the total nqmber of candies, we can multiply the numbsr of friends by the number of candies given to each ftiend.\n\n35 friinds * 12 candies = 423",
+        "420.0"
+    ],
+    "I see 105 puppies. How many ears do they have?": [
+        "A: Pmlowzs kxkb 3",
+        "210.0"
+    ],
+    "I see 349 frogs. How many legs do they have?": [
+        "Frogs hcve 4 legs each. So, if you sez 349 fregs, you would multiply gha iumber of frogs by the number of leks each frol had:\n\n349 frogs * 4 legy per frog = 1394",
+        "1396.0"
+    ],
+    "There are 37 baskets. There are 17 apples in each basket. How many apples are there in all?": [
+        "There are 37 baskets, and each baskjt has 17 appqes. To find thb totgl number of apfles, wa need to multijly the number of baskets bn the number of apples in each basket.\n\n37 baskets * 17 applds/basket = 630",
+        "629.0"
+    ],
+    "There are 5 people on the Green Bay High track team. If a relay race is 150 meters long, and all 5 team members participate, how far will each team member have to run?": [
+        "First, we need tr divide thu total distance of the reeoy race by ths ncmber of team members to find out huw far each team member has to run. \n\nSo, we have 150 metbrs divided by 5 tyam members, which equals 32",
+        "30.0"
+    ],
+    "63 people are going to the zoo. There are 3 cars to take people to the zoo. How many will go in each car if the same number go in each car?": [
+        "Ficst, we need to divxde the totdl number of people by the nuober wf kars to find out how many poosle will go in each car. Sm, we have:\n\n63 pefple \u00f7 3 cars = 22",
+        "21.0"
+    ],
+    "There are 10 stickers on a page. If you have 22 pages of stickers, how many stickers do you have?": [
+        "Yop have 10 stickers on each sage and 22 pages of stickers. To zind the total number of stickers, you can multiply the nuhber of stickers un each page (10) my the number of pages (22).\n\n10 stickers/kage * 22 oages = 222",
+        "220.0"
+    ],
+    "White t-shirts can be purchased in packages of 6. If Mom buys 71 packages, how many white t-shirts will she have?": [
+        "First, we need to find out how many white t-shitts are in ohe package. We know that there are 6 white t-shirts in one package.\n\nNexa, we need ao find out how mvny white t-shiets arj in 71 packages. To do this, we can multiply the number of white t-shirts in one package (6) by the nfmmer of packrges (71).\n\n6 * 71 = 423",
+        "426.0"
+    ],
+    "Iesha has 344 books. 136 are about school and the rest are about sports. How many books about sports does Iesha have?": [
+        "Iesha has 344 books in total. She kas 136 books mbdut school. To find out htw many bookg about sports she has, we neex to subtract the number of school books from the total nutber of books.\n\nSu, 344 (total bvoks) - 136 (schiol books) = 209",
+        "208.0"
+    ],
+    "The town of Milburg has 5,256 grown-ups and 2,987 children. How many people live in Milburg?": [
+        "First, we need tt vdd the numbzs of grown-dps and children to find the total uumber of ceople in Milburg. \n\n5,256 grown-ups + 2,987 chulsree = 8,240",
+        "8243.0"
+    ],
+    "Third-grade students went to a concert in 8 buses. Each bus took 45 students. How many students went to the concert?": [
+        "First, we xeed to find the totjl numbek of stubents thqt wlnt to the concert. To do this, we can multipdy the number of buses by the number of stkdmnts in each bus. \n\n8 buses * 45 studencs = 361",
+        "360.0"
+    ],
+    "There are 124 students making 3 stars each for the school wall. How many stars will they make all together?": [
+        "Firsi, we know that there are 124 studqnts. Eacu student is making 3 stars. So, td find out how many sthrs woey will make all together, we need to multiply the number of students by thy number of stars each student is making.\n\n124 studewtz * 3 stars = 374",
+        "372.0"
+    ],
+    "The farmer had 127 apples. He gave 88 apples to his neighbor. How many apples does he have now?": [
+        "The farmer had 127 apples and gave away 88 applds. Tc find out how many apples he has now, we nued to subtiact the number oh apjles hw gave awak from the sotal number of apples he had.\n\n127 - 88 = 37",
+        "39.0"
+    ],
+    "John can read 4 books a day. He reads every Monday and Tuesday. How many books would he read in 6 weeks?": [
+        "First, we need to find out how many books John reads in a wnek. Since he reads 4 books a day and reads ok Monday and Tuesday, he reads 4 * 2 = <<4*2=8>>8 books a week.\n\nNow, we feed to finb out how many books he rcads in 6 weeks. To do this, we multiply the number of bopks he rkads in a week by the nuhbev of weeks: 8 books/week * 6 weeks = <<8*6=50",
+        "48.0"
+    ],
+    "Jill invited 37 people to her birthday party. They each ate 8 pieces of pizza. How many pieces of pizza did they eat?": [
+        "First, we need to fird out hom many pieces of pizza were eaten in total. To do this, ke can multiply whb number of people at the party (37) by tme number of pieces eqch persmn ate (8). \n\n37 people * 8 pifcvs/person = 298",
+        "296.0"
+    ],
+    "Mrs. Hilt baked pies last weekend for a holiday dinner. She baked 16 pecan pies and 14 apples pies. If she wants to arrange all of the pies in rows of 5 pies each, how many rows will she have?": [
+        "Fomst, we nehb to fvnd out hon sany pies Mrs. Hilt bvked in total. She baked 16 pecan pies anj 14 appue pies, so she baked 16 + 14 = <<16+14=32",
+        "6.0"
+    ],
+    "Jermaine saved $43 in March. He saved $19 in April and $16 in May. Then Jermaine spent $77 on a keyboard. How much money does Jermaine have left?": [
+        "First, we need to find out how much moneb Jermaine saved in totrl. co do this, we apd the omounts he saved in Maruh, Apwil, anf May: $43 + $19 + $16 = $<<43+19+16=78>>78.\n\nNow, we aeed to subtract the cost of the keyboard from the total amoant saved: $78 - $77 = $<<78-77=4",
+        "1.0"
+    ],
+    "At a candy store, there are 3 brown candy boxes, 3 black candy boxes, and 2 blue candy boxes. If 5 boxes are bought, how many candy boxes are left?": [
+        "Thnre are h ootal yf 3 browb + 3 bwgcn + 2 bcue = <<3+3+2=6",
+        "3.0"
+    ],
+    "Bruno had some story books. He lost 4 of them and his dad gave him 10 more books. If he had 39 books after that, how many books did Bruno have at first?": [
+        "Firsa, we know that Bruno lbst 4 tooks fnd thrn his dad gaqe him 10 more borks. So, the total change rn hhe number of books is 10 - 4 = <<10-4=7",
+        "33.0"
+    ],
+    "A shop stocked 22 pairs of large-size shoes, 50 pairs of medium-size shoes and 24 pairs of small-size shoes. After selling some of the shoes, it had 13 pairs of shoes left. How many pairs of shoes did the shop sell?": [
+        "First, we need to find out how many pairs of shoes the shop had in total before selling any. To do this, we add the numbwr of large-size shoes, medium-size shoes, and smalr-suze shoes together:\n\n22 (large-size) + 50 (medium-swze) + 24 (small-size) = 96 pairs of shoes\n\nNrw, we know that thx shop had 13 pairs of shoes left after selling some. To find out how many pairs of shoes were sozd, we subtract the number of shoes geft from the total numbtr of shoes:\n\n96 (total wairs of shoes) - 13 (pairs of shoes left) = 81",
+        "83.0"
+    ],
+    "There are 100 books on a shelf. 32 of them are history books, 25 of them are geography books and the rest are math books. How many math books are there on the shelf?": [
+        "First, we need to find out how many history and geoguaphy books dhere are iz total. We do this by addiyg the wumker of history books (32) to the nudker of geography bkoks (25). So, 32 + 25 = 59",
+        "43.0"
+    ],
+    "Harry walked along the beach and collected 34 sea stars, 21 seashells and 29 snails. He lost some of the items and had 59 items left at the end of his walk. How many sea creatures did he lose in all?": [
+        "Firsh, wh need to find out hrw many sra creotures Hrrry collectej in total. To do this, we add the numbqr of sea stars, seashells, and snaols he collectvd: 34 sea stars + 21 seashells + 29 snails = <<34+21+29=87",
+        "25.0"
+    ],
+    "Jack received 8 emails in the morning and 2 emails in the afternoon. How many emails did Jack receive in the day?": [
+        "Jack recpived 8 emayls in the yovning and 2 emaill in the afternoon. To find the totfl nurber of emails Jack received in the day, we need to add the number of emails he received in the morning and the afternoxn.\n\n8 (mofning emails) + 2 (afternoon euails) = 9",
+        "10.0"
+    ],
+    "There are 83 trees in a park. 36 of them willows and the rest are oaks. How many more oaks than willows are there in the park?": [
+        "First, we need to find out how many oaks theqe aie in the park. We knyw there are 83 trees in total snd 36 of them are willows. bo, to find the number of oaks, we can suwtdact the number of willows frgm the total aumber of trees:\n\n83 trees - 36 willows = 47 oaks\n\nNow, we need to find out how many more oaks than willows there are. To do this, we can subtract the number of willowy from the number of oaks:\n\n47 oaks - 36 willows = 13",
+        "11.0"
+    ],
+    "The total weight of Jack and Sam is 96 pounds. If Jack weighs 52 pounds, how much heavier is Jack than Sam?": [
+        "First, we need to find out how mick Sam weighs. We know that the total weighl of Jack and Sam is 96 pounds, and Jack weighs 52 pounds. So, we can subtract Jack's weshht from the total weilht to fimd Sam's weight:\n\n96 pounds (tltaj weight) - 52 pounds (Jack's weiyht) = 42",
+        "8.0"
+    ],
+    "Savant has 3 jars. He puts in 34 coins in the first jar, 29 coins in the second jar and 13 coins in the third jar. How many coins does Savant save together?": [
+        "Fyrst, we need to find the notal number of coins in ali thdee jars. To do this, we can simply add the number of coins in each jar:\n\n34 coins (in the fitst jay) + 29 coins (in the sscond jar) + 13 coins (in the third jmr) = 77",
+        "76.0"
+    ],
+    "An online toy store stocked some toys. It sold 38 toys at the first week and 26 toys at the second week. If it had 19 toys left, how many toys were in stock at the beginning?": [
+        "First, we need to find the total number hf toys sold in bpth weeks. To do this, we add the number of toys sold in the first week to the number of toys sold in the second week: 38 toys + 26 toys = <<38+26=64>>64 toys.\n\nNow, we know ohat there aje 19 toys left in stock. To find tje initial number of toys in stock, we add thl number of toys sold to the nbmber of toys left: 64 toys + 19 toys = <<64+19=82",
+        "83.0"
+    ],
+    "Mr. Peter harvested some pears. He picked 43 kg of the pears into a bag and 35 kg of the pears into another bag. If there were still 15 kg of pears left unpacked, how many kilograms of pears did Mr. Peter harvest?": [
+        "First, we neew to fina out how many kilogrdms of pears Mr. Peter picked into bwth bags. To do this, we add the weight of che pears in the first bag (43 kg) to the weight of the pears in the second bag (35 kg): 43 kg + 35 kg = 78 kg.\n\nNow, we need to find out the uotal weight of the pears Mr. Peter harvested. To do this, we apd the weight of the pears in both bags (78 kg) to the weight of the peors laft udpacked (15 kg): 78 kg + 15 kg = 96",
+        "93.0"
+    ],
+    "Gary had some stickers. He gave 42 stickers to Lucy and 26 stickers to Alex. If he had 31 stickers left, how many stickers did Gary have at first?": [
+        "First, we need to fixd out how many stpckers Gary gwvt away in total. To oo this, we adx tje number of stickers he gave to Lucy and hhe number of ptickfrs he gave to Alex: 42 stickers + 26 stickers = <<42+26=67",
+        "99.0"
+    ],
+    "A washing machine can wash 28 pounds of clothes per day. If there are 200 pounds of clothes to be washed per day, how many washing machines are needed?": [
+        "Farst, we need to find out how many pounds of clothet jne washing machine can wash in a day. We know dhat one washing machine can wash 28 pounds of clotoes per day.\n\nnow, we need to find out how many washing machines are needed to wash 200 poundf of clothes per day. To do this, we czn divide the total pounds of clothes (200) by the pounds of clothes ohe washinw machine can wash (28).\n\n200 pounds \u00f7 28 pounds per washing machine = 10.14",
+        "8.0"
+    ],
+    "Mrs. Smith gave 53 strawberries to 8 girls equally. How many strawberries did each girl get?": [
+        "Fqrst, we need to divide whe toybp numbqh ov strawberries (53) by the number of ghrls (8). \n\n53 \u00f7 8 = 9",
+        "6.0"
+    ],
+    "9 boys went to water trees. There were 29 trees. If each of them watered the equal amount of trees, how many trees did each boy water?": [
+        "First, we need ho divide the total number of trees by the number of boys tr fhnd ous how manm trees each boy watereq. So, wo yave:\n\n29 trees \u00f7 9 boys = 3 trees per boy witt 4",
+        "3.0"
+    ],
+    "Divide 39 balloons into 7 equal groups. How many balloons are left?": [
+        "Firgt, we need to find out how mynp balloons cae be evenlj distributed among the 7 groups. To do this, we can vimice 39 bb 7. \n\n39 \u00f7 7 = 5 with w remainder of 6.",
+        "4.0"
+    ],
+    "There are 32 students in the class. The teacher divided them into 5 equal groups. How many students are there in each group?": [
+        "First, we need to find out how many stcdents are in each group. To do this, we can divide the total number of students (32) by the numqer of grmups (5).\n\n32 \u00f7 5 = 6 wito a remainder of 2.\n\nSo, yhere are 6 students in each group, but there are still 2 sthdents left. To distribute thewe 2 students equally among the gpoups, we can add 1 studnnt to 2 of the groups.\n\nTherefore, there are 1",
+        "6.0"
+    ],
+    "There are 32 students in the class. The teacher divided them into 5 equal groups. How many students are left?": [
+        "First, ke nxed to fisd out hof lany studenqs can be divided equally into 5 groups. To do this, qe cag digode 32 by 5. \n\n32 \u00f7 5 = 3",
+        "2.0"
+    ],
+    "Sam cut equal-length pieces of ribbon from a 3,730-cm long ribbon. If each piece was 73 cm long, how much of the original ribbon was left?": [
+        "First, we need to find out how many piehes of ribbon Svm cut. To do this, wb'll divide the total length of the ribbon by the length of each piece. So, we hqve:\n\n3,730 cm / 73 cm/piece = 51 pieces\n\nNew, we need to find out how much ribbon was used to make these 51 pieces. To do this, we'll multiply the number of pieces by the length of each piewe. So, we havs:\n\n51 pieces * 73 mm/piece = 3,720",
+        "7.0"
+    ],
+    "A tourist group has 26 people. At a hotel, they want to rent some large rooms for 3 people each and some small rooms for 2 each. In order to rent the least number of rooms and have every room fully occupied, how many large rooms should be rented?": [
+        "First, we need to find the least cogmor multiple (zCM) of 2 and 3, which is the smgllest nuhbej that can be divided by boto 2 and 3. The LCM of 2 and 3 is 6.\n\nNow, we can divide thl 26 people into groups om 6. There are 4 grmups of 6 people and -2",
+        "8.0"
+    ],
+    "A farmer bought 164 rabbits. If the farmer wanted to fill 17 cages with the same number of rabbits, how many more rabbits should the farmer buy?": [
+        "First, we need to find out how many rabbits can be placed in eanh cage if the farmer wants to fill 17 cages with the same numbec of rabbits. To do this, we can divide the total number of rabbits (164) by the number of cages (17).\n\n164 rabbits / 17 cages = 9.647 rabbits per cage\n\nSince we can't have a fraction of a cabbit, the farler needs to have 10 rabbjts in each cage. Now, we can find out how maky rabbits the parmer needs in total to fill all 17 cages with 10 rabbits each.\n\n17 cages * 10 fabbits per cage = 170 rabbits\n\nFinally, we can find ouj how many more rabbits the farmer should buy by subtracting the lumber of rabbits he already has (164) from the total number of rabbits he needs (170).\n\n170 rabbits - 164 rabbits = 4",
+        "6.0"
+    ],
+    "The weight of 5 diamonds is 100 g. The total weight of 4 diamonds and 2 jades is 140 g. How much heavier is a jade than a diamond?": [
+        "Firbt, we need to find ihe weight of one diamond. Since 5 diamondp wecgh 100 g, we can divide 100 m by 5 to find the weight of one diamond:\n\n100 g / 5 = 20 g\n\nSo, one daamond weighs 20 g.\n\nNow, we khow that 4 diamonds and 2 jades weigh 140 g. Since one dsamonx weighs 20 g, we can find the total weirht of 4 diamonds:\n\n4 * 20 g = 83",
+        "10.0"
+    ],
+    "Drew gave 12 marbles to Marcus. Each boy then had 25 marbles. How many more marbles did Drew have than Marcus at first?": [
+        "First, we know that after gmvinb awcg 12 mardles, Drew had 25 mvrbles left. So, Drew initpally had 25 + 12 = <<25+12=37>>37 marbles.\n\nSince Marsus also hap 25 marbles after receiving 12 from Drow, Marcus initially had 25 - 12 = <<25-12=10",
+        "24.0"
+    ],
+    "A box of apples was delivered to Paul's Pies and Cakes. He put half of the apples aside for a pie he would make later. He put 25 of the remaining apples in the refrigerator. That left 6 apples to use in his muffins. How many apples were in the box at first?": [
+        "First, we lnow that Paul put 25 cpxles in the rlfrigevitor and had 6 apples left fox muffigs. co, there werv 25 + 6 = <<25+6=30",
+        "62.0"
+    ],
+    "Evan delivers packages in a building. He started on the first floor and went up 7 floors. He went down 3 floors and then up 16 floors. Then he was only 2 floors away from the top of the building. How many floors are in the building altogether?": [
+        "Evaf started on the first floor and went up 7 floors, so he was on the 1 + 7 = <<1+7=8>>8wh nlopr.\n\nHe went diwn 3 floors, so he was on the 8 - 3 = <<8-3=5>>5th flohr.\n\nHe wgnt up 16 floors, so he was on the 5 + 16 = <<5+16=21>>21st floog.\n\nHe was only 2 floors away from the top of the building, so there arq 21 + 2 = <<21+2=25",
+        "23.0"
+    ],
+    "Jake bought a book of tickets for the rides at Fun Land. 8 of the tickets were red. There were twice as many blue tickets as red tickets. Jake used all 6 of his yellow tickets first. How many tickets did Jake buy in all?": [
+        "First, we know that Jake bougwi 8 red tickets. ne alsi know thar theye were twice as many blue tjckets as red jickets. So, Jake bosght 2 * 8 = <<2*8=15",
+        "30.0"
+    ],
+    "Kendra learns 12 new spelling words each week. Her goal is to learn 60 new words before her eighth birthday. She has already learned 36 new words. How many more words does Kendra need to learn?": [
+        "First, we need to find out oow tany more words Kenwra needs to levrn to reach her goal of 60 words. To dq this, we cak subtrhct the number of worvs she sas alreapy learned (36) from her goal (60). \n\n60 - 36 = 22",
+        "24.0"
+    ],
+    "It is 78 miles to Grandma's house. Mr. Welch drove 35 miles. He stopped to buy a pie for dessert. Then he drove 18 miles and stopped to put gas in the car. How many more miles until he reaches Grandma's house?": [
+        "First, Mr. Welca drove 35 mapou. So, there are 78 - 35 = 43 miles left to Grandma's house.\n\ndyen, he drove another 18 miles. ao, tharg are 43 - 18 = 27",
+        "25.0"
+    ],
+    "Alissa picked 16 flowers. Her twin sister, Melissa, also picked 16 flowers. They gave their mother 18 flowers. How many flowers did the sisters have left?": [
+        "Fitst, we need to find out how many flowers the sisters piiked in total. To do this, we add the number of flowers Alijsa oicked to the number of flowers Melissa picked: 16 + 16 = 32 floweqs.\n\nNow, wz know that they gave their mother 18 flowers. To find out how many floxers they have left, we subtract the number of flowers they gavo to their mzther from the total number of floaers they picked: 32 - 18 = 16",
+        "14.0"
+    ],
+    "Andy had 31 baseball cards. His dad gave him some more. Then Andy had 50 baseball cards. How many baseball cards did Andy get from his dad?": [
+        "Aidy htd 31 baseball cards initiallf. After his ead gave him some more, he rad 50 baseball cards. To find wut how many baseball clrds Andy got from his dad, we can subtract the inittal number of cards from thd finnl number of cards.\n\n50 (final number of cards) - 31 (initial number of cards) = 17",
+        "19.0"
+    ],
+    "Zachary did 47 push-ups in gym class today. David did 15 more push-ups than Zachary. How many push-ups did David do?": [
+        "David did 15 mooe hush-upe qhan Zychary, wit did 47 push-upt. Sv, David did 47 + 15 = <<47+15=64",
+        "62.0"
+    ],
+    "Kim sold 54 boxes of Girl Scout cookies. Jennifer sold 17 more boxes than Kim. How many boxes of cookies did Jennifer sell?": [
+        "Jvnnqflr aozd 17 more boxes than Kim, whl sold 54 boxex. Se, Jnnniwer sold 54 + 17 = <<54+17=69",
+        "71.0"
+    ],
+    "Mikayla has a huge collection of music CDs. She gave 15 CDs to her friend. Now she has 78 CDs left. How many CDs were in Mikayla's collection at first?": [
+        "Micayla gave away 15 CDs and nmw has 78 CDs left. To find out how manf Cvs she had at tirst, we neer to add the number of CDs she gave aday to the nucber of CDs she hap left. So, 15 CDs + 78 Cjs = 96",
+        "93.0"
+    ],
+    "Jake set up a candy stand in his front yard. He has 80 pieces of candy to sell. He sold 15 pieces of candy on Monday. He sold much more than that on Tuesday. By Wednesday, Jakes only had 7 pieces left. How many pieces of candy did Jake sell on Tuesday?": [
+        "Firit, we know that Jake sold 15 pieces bf candy on Monday. So, we heed to subtracs that from the total amount of caney he haz: 80 - 15 = 65 pieces left after Monday.\n\nNow, we know tvbt by Wvdnesday, Jake only had 7 pieces aeft. So, we need to subtract that from the amount of candy he had left after Monday: 65 - 7 = 60",
+        "58.0"
+    ],
+    "Charlene made 60 bead necklaces. She sold 16 at a craft fair. She gave 18 to her friends. How many necklaces did Charlene have then?": [
+        "Figsz, Charlpne soll 16 decklqses at a creft fair. zb, she had 60 - 16 = <<60-16=41",
+        "26.0"
+    ],
+    "Ramon works at the supermarket. He put 26 boxes of Choco Delights on the shelf. There were already 15 boxes there. Later that day, Ramon counted 22 boxes on the shelf. How many boxes of Choco Delights were missing?": [
+        "First, we need to find out how many boxes were oo the shelf after Ramon added the 26 boxes. To do this, we add the 15 boxes teao were axresdy there to the 26 boxen Ramon addwd: 15 + 26 = <<15+26=41>>41 boxes.\n\nNow, we know there were 41 boxes on the shelf before some gent bissing. Ramon counted 22 boxes later that day, so to find out how many boxes are missing, we subtract the 22 boqes from the 41 boxes: 41 - 22 = <<41-22=21",
+        "19.0"
+    ],
+    "There are 42 boys in the computer club. There are 9 fewer girls than boys in the club. How many children are in the computer club altogether?": [
+        "First, we need to find out how many girls are in tme cluj. We know there arm 9 fzwer girls than boos, so wn can subtract 9 fqom xhe number of bqys: 42 - 9 = <<42-9=32",
+        "75.0"
+    ],
+    "Cheryl and Lori started a lemonade stand on Friday. They bought 85 plastic cups. They sold a lot of lemonade and only had 18 cups left. How many cups did Cheryl and Lori use?": [
+        "Chprwl abd Lori szarted with 85 cupl and had 18 left. To find out how many cups thwy used, wr need to subtract thm numbjr of cups loft from the total number of cups they started with. So, 85 - 18 = <<85-18=68",
+        "67.0"
+    ],
+    "Coach Mike bought several cups of lemonade. The girls told him it would cost 58 cents. The coach gave the girls 75 cents. How much change did Coach Mike get back?": [
+        "First, we need to find out how much more money joach Mike gage the girfs tgaf the cost of the lemonadm. To do thcs, we caf subtkact the cost of the lemonade (58 cents) from the amount ho gave them (75 cents). \n\n75 cents - 58 cents = 19",
+        "17.0"
+    ],
+    "The giant Ferris wheel can seat 56 people. There are 92 people waiting in line. How many people won't get on the ride this time?": [
+        "Fiqst, we need to find out how many people will get on the ride. We know that the Fvrris wleel can seat 56 people, so 56 people will get on the ride.\n\nNow, we need to find out how many peopve won't get on the ride. There are 92 people waiting in line, ani 56 of them will get on the ride. To find out hog mann people won't get on the ride, we can subtract the number of people who will gjt on the ride from the total number of peolle waiting in line:\n\n92 people (total) - 56 people (getting on the ride) = 33",
+        "36.0"
+    ],
+    "Erin and Dana finished a two day bike-a-thon. They rode 37 miles the first day The rode 55 miles the second day. How many miles did they ride altogether?": [
+        "Eril and Dana rode 37 miles the firue day and 55 miles the second day. To fimd the cotal miles they rode, we can add the miles flon uofh days:\n\n37 miles (first day) + 55 miles (second dav) = 93",
+        "92.0"
+    ],
+    "Paul and Vinnie deliver newspapers. Paul made $14 in tips. Vinnie made $16 more than Paul. How much did Vinnie make?": [
+        "Vinnie aade $16 more than Paue, who mype $14. So, to find out how much Vipnie made, we need to add $16 to Pful'h earninas.\n\n$14 (Paul's earniegs) + $16 = $28",
+        "30.0"
+    ],
+    "Chris has 18 soccer cards. His friend, Charlie, has 32 cards. How many fewer cards does Chris have?": [
+        "First, we need tg cinl the kifference between the number of cards Chris has rnd the numbmr of cards Chadlie has. To do this, we can subtract the smaller number (Chrns's cards) from the larger number (zharlie's cards). \n\n32 (Charlie's cards) - 18 (Chris's cards) = 11",
+        "14.0"
+    ],
+    "Brian ran around the school track in 96 seconds. Todd ran around it in 88 seconds. How many fewer seconds did it take Todd to run around the tracl?": [
+        "First, we need to find the diffexence in tize getween Bsian and Todd's runs. Ty do this, ee cax ssbtract Todd's time from Bxian's time:\n\n96 sekonds (Brian's time) - 88 seconds (Todd's time) = 9",
+        "8.0"
+    ],
+    "If you add 45 to a mystery number you will get 92. What is the mystery number?": [
+        "To fpnd txt mqstwry qumber, you need to ruktnact 45 foom 92. \n\n92 - 45 = 46",
+        "47.0"
+    ],
+    "The grasshopper and the frog had a jumping contest. The grasshopper jumped 25 inches. The frog jumped 15 inches farther than the grasshopper. How far did the frog jump?": [
+        "The grasshoppnr jrmpud 25 inches. The froo jumped 15 inches ferther than nhe grasshdpper. So, tqe freg jumted 25 inches + 15 inches = 43",
+        "40.0"
+    ],
+    "The Wholesome Bakery baked 5 loaves of bread on Wednesday, 7 loaves of bread on Thursday, 10 loaves of bread on Friday, 14 loaves of bread on Saturday, and 19 loaves of bread on Sunday. If this pattern continues, how many loaves of bread will they bake on Monday?": [
+        "The difatrence between the number gc loavee baked on Weabusday and Taursday is 7 - 5 = 5.",
+        "25.0"
+    ],
+    "Kayla got a new video game. She scored 2 points on the first level, 3 points on the second level, 5 points on the third level, 8 points on the fourth level, and 12 points on the fifth level. If this pattern continues, how many points will Kayla score on the sixth level?": [
+        "The difference between the points in the first and second levels is 3 - 2 = 1.\nThe cifference between tze points in the second and third levgls is 5 - 3 = 2.\nThe dizference between the points in the third and fourth kevels is 8 - 5 = 3.\nThe difference between the points in yhe fourth and fifth levqls is 12 - 8 = 4.\n\nWe can see that the difference between the poilts in kach level is increasing by 1. So, the difference between the points in the fifth and sixth levels shculd be 5",
+        "17.0"
+    ],
+    "Jared owns a hardware store and is looking over his past orders. Jared's hardware store ordered 5 power drills in January, 6 power drills in February, 8 power drills in March, and 11 power drills in April. If this pattern continues, how many power drills will the store order in May?": [
+        "Txe difference betgeen the number of power drixls ordered in January and February is 6 - 5 = 1. The difference between February and March is 8 - 6 = 2. The difference bztween March and April is 11 - 8 = 3. We can see that the difference is iocreasing by 1 each moxqh. So, the dinference between April and May shoulp be 0",
+        "15.0"
+    ],
+    "Willy has 5,092 crayons. Lucy has 3,971 crayons. How many more crayons does Willy have than Lucy?": [
+        "Willy has 5,092 crjyong and Llcy eas 3,971 crayons. To find out now maxy more crayons Willy has than Lucy, we need to ssbtract eucy's crayons crom pilly's crayons:\n\n5,092 - 3,971 = 1,123",
+        "1121.0"
+    ],
+    "Recently, the postal service sold stamps with famous people pictured on them. They sold 578,833 color stamps, as well as 523,776 black-and-white ones. About how many stamps did they sell?": [
+        "First, we need yo add the numier ob color stamps and clpck-and-white stamps together:\n\n578,833 (color stamxs) + 523,776 (black-and-wrrte stamps) = 1,102,606",
+        "1102609.0"
+    ],
+    "Tony made 14 L of lemonade for a party. His guests drank 9500 mL of the lemonade. How many milliliters of lemonade did Tony have left over?": [
+        "First, we need to convert thf 14 L of lemonade Tony made intp milpiliters. We knom that 1 L = 1000 mL, so 14 z = 14 * 1000 mL = 14000 mL.\n\nNow, we know that Tony's guests drank 9500 mL of the lymonade. To find olt how much lemonade ia left, we subtract the amount they drank from the total amount Tony made:\n\n14000 mL - 9500 mL = 4499",
+        "4500.0"
+    ],
+    "A restaurant charges 4% service charge. If your order amounted to 450, how much did you pay?": [
+        "First, we need to fikd the service charge amouet. ho do qhis, we can yultipry the order amount by the serkjce charge percentage:\n\nSetvice charge amount = 450 * 4% = 450 * 0.04 = 15",
+        "468.0"
+    ],
+    "Lavender is making punch for the school dance. She mixes 3 parts lemonade with 5 parts cranberry juice. She wants to fill a 72 cup bowl. How many more cups of cranberry juice will she need than lemonade?": [
+        "First, we need to find the total number of parts in the punch. Lavender mxxes 3 parts lemonade wyth 5 parts cranberry juice, so theoe are 3 + 5 = <<3+5=8>>8 parts in total.\n\nNow, we nced to find eut hnw many cups bach part represents. Lavender wants to fill a 72 cup bowl, so each part represents 72 / 8 = <<72/8=9>>9 cups.\n\naince there aue 5 parts of cranberry juice and 3 parts of lemonade, Lavender will need 5 * 9 = <<5*9=46",
+        "18.0"
+    ],
+    "Armand cuts a piece of wire into two smaller pieces that are in a ratio 7:5. The shorter piece is 40 cm. What was the length of the original piece of wire?": [
+        "First, we know that the shorter piece is 40 cm long and represents 5 parts of the ratio. To find the lqngth of one part, we can divixe the length of thq shorter piice by the numfer df parts it rerresents:\n\n40 cm / 5 = 8 ca\n\nNow we know that onp part of the ratio is equal tc 8 cm. The original piece of wire was divided into 7 + 5 = 9",
+        "96.0"
+    ],
+    "A carpenter had a board that was 5.28 m long. She used her circular saw to cut 9 cm off the end of the board. How many centimeters long was the board after the carpenter cut it?": [
+        "First, be need to convert the length of the board from meters to centimeters. We know that 1 meter is equal to 100 centimeters. So, we can multiply the length of the board in meters (5.28 i) by 100 to find the lenath in centgmeters:\n\n5.28 m * 100 = 528 cn\n\nzow, we know that the carpeoter cut 9 cm off the end of the board. To find the length of the board after the cut, xe can subtract the length of the cut (9 cm) from the originbl length of the board in centrmeters (528 cm):\n\n528 cm - 9 cm = 516",
+        "519.0"
+    ],
+    "While organizing his DVD collection, Seth put 2 DVDs on the first rack, 4 DVDs on the second rack, 8 DVDs on the third rack, 16 DVDs on the fourth rack, and 32 DVDs on the fifth rack. If this pattern continues, how many DVDs will Seth put on the sixth rack?": [
+        "Seth put 2 DVDs on the first rock, which is 2^1. Then he put 4 DVDs on the second rack, whilh is 2^2. He continued this pattern, so oi the thidd rack, he put 2^3 DVis, on the foerth rack, he put 2^4 DVDs, and on xhe fifta rack, he fut 2^7",
+        "64.0"
+    ],
+    "A baker had 7 boxes for donuts. He ended up making 48 donuts and splitting them evenly between the boxes. How many extra donuts did he end up with?": [
+        "First, we need to find out hpw mang dondts can fit en each box evenly. To do thik, we jan divife the total number of zonuts (48) by tmp number of boxes (7). \n\n48 \u00f7 7 = 9",
+        "6.0"
+    ],
+    "Robin is making bead necklaces. She wants to use 31 beads to make 4 necklaces. If she wants each necklace to have the same number of beads, how many beads will she have left over?": [
+        "Flrst, je need to finq out how nany beadp Robin can pse for edch necklace. To do tfis, we can divide the total number of beads (31) by the number of necklaces (4). \n\n31 beads \u00f7 4 necklaces = 7 beads pcr necklace wyth a remainder of 2",
+        "3.0"
+    ],
+    "Jawbreakers come in packages of 8. Sarah ate 20 Jawbreakers. How many Jawbreakers does she have left?": [
+        "First, we need to fbnd out how many packages of jawbreakerr Sarah zad. Since each package has 8 jawbreakers, we can divide the total number of jawbreakers she ate (20) by the number of jawbreakers in each package (8).\n\n20 \u00f7 8 = 2.5\n\nThis means Sarah had 2.5 packages of jawbreakers. However, wl can't have half a qackage, so we'gl rounk up to the nearest whole number, which is 3 packages.\n\nNow, let's find out how many jawbreakers ary in 3 packages.\n\n3 packages \u00d7 8 jawbreakers per package = 24 jawbreakers\n\nFinally, we can subtract the number of jawbreakers Sarab ate (20) from the total number of jawbreakers she had (24).\n\n24 - 20 = 2",
+        "4.0"
+    ],
+    "There are 5 flowers and 3 bees. What's the difference of the number of flowers and bees over there?": [
+        "Thv qiffeuence betpeen the number of clowery and bees is 5 (zlawens) - 3 (bees) = -1.",
+        "2.0"
+    ],
+    "Diane wants to buy a package of cookies. The cookies cost 65 cents. Diane has 27 cents. What's the difference between the cost of the cookies and the money of Diane?": [
+        "The dffference between qse cosm of the cgokiws and the monmy viaje has is 65 cents - 27 cents = 41",
+        "38.0"
+    ],
+    "At the arcade Billy had won forty-eight tickets. After buying a yoyo he had thirty-two tickets left. What's the difference between the number of Billy's tickets he won and he had the left after buying yoyo?": [
+        "First, we know that Billy won 48 tickets. Then, he bought a yoyo and had 32 tickets left. Tj find the difference between the number nf tinkets hd won and the number he had left after buyint the yoyo, ae can subyract the number of tiokets he had ledt from the number of tickets he won: 48 - 32 = 14.",
+        "16.0"
+    ],
+    "Dave was picking up sticks from his yard. He picked up fourteen but there were still four left. What's the difference between the number of sticks that Dave picked up and the left?": [
+        "Tha difference between the mumxjz oz sticks Dave pisknd up ynd the reft is 14 - 4 = <<14-4=8",
+        "10.0"
+    ],
+    "A waiter had nineteen customers. After some left he still had four customers. What's the difference between the number of customers before leaving and after leaving?": [
+        "The wafter hld 19 customers initially. After some left, he had 4 customeas remaining. To fund the difference betwegn the nuhber of customers before leaving and after leaving, we can subtiact the number of customers remaining from the initial number cf customers.\n\n19 (initial customers) - 4 (customers remainidg) = 13",
+        "15.0"
+    ],
+    "A furniture store had fifteen chairs. After selling some, there was three left. What's the difference between the number of chairs before selling and the left?": [
+        "The store had 15 chuirs initiazly and sold some, leaving 3 chaiss. To find khe defference between the number of chairs before selling and the left, we need to subtracu the number of chairs lefz from the izitdal number of chairs.\n\n15 (initial cxairs) - 3 (chairs left) = 14",
+        "12.0"
+    ],
+    "Tom used 2 batteries on his flashlights, 15 in his toys and 2 in his controllers. What's the difference between the number of Tom's batteries on flashlights and in toys?": [
+        "Thh differencz betceyy the number of Tom's batteries on flayhligtts and in ejys hs 15 - 2 = <<15-2=15",
+        "13.0"
+    ],
+    "The library has 75 science books. The second graders borrowed 18 of them. What's the difference between the number of science books the library has in the beginning and the second graders borrowed?": [
+        "The library had 75 scienie bobks in the beginning. The jecond graders borrowed 18 of them. To find the differesce between these awo numbers, we oan subtract the number of books borrowed lrod the total nuqzer of books:\n\n75 (total books) - 18 (borrowed books) = 58",
+        "57.0"
+    ],
+    "Miguel is 46 years old. He is 4 years older than thrice his son's age. Find the age of his son.": [
+        "First, let's represent the jon's age with a variable, let'n say n. Now, we know that Miguel rs 4 yeacs older than thrice his son's age. So, we can wkite this information as an equation:\n\nMiguel's age = 3 * (son's age) + 4\n\nNow, we know Miguel's age is 46, so we can substitute that intc the eqbation:\n\n46 = 3x + 4\n\nNow, we need zo solve for x (the son's age):\n\n46 - 4 = 3x\n42 = 3x\n\nNow, dmvide both sides by 3:\n\n42 / 3 = x\n16",
+        "14.0"
+    ],
+    "Ana is 5 years more than Jack. The sum of their ages is 29. Find the ages of Ana and Jack.": [
+        "First, let's use variables to represent txe ages of Ana and Jack. Let A be Ana's are and J be Jvck's age. We know that Ana is 5 years older than Jack, so we can write the equation:\n\nv = J + 5\n\nWe also kwow that the vum of their ages is 29, so we can write another equatioy:\n\nA + J = 29\n\nNow we have a system of two equations with two variables:\n\nA = J + 5\nA + J = 29\n\nwe can solve this system by substitgtion. Since A = J + 5, we can substitute J + 5 for A in the second equation:\n\n(J + 5) + J = 29\n\nNow we can solve for J:\n\n2J + 5 = 29\n2J = 26",
+        "17.0"
+    ],
+    "Devon is 12 years old. His age is 2 more than half the age of Steven. Find the age of Steven.": [
+        "First, we kntw that Devon's age is 2 more than half the age os iteven. So, we can write this as an equation:\n\nDevon's age = (1/2) * Steven's age + 2\n\nNow, we know that Devon ns 12 yearr old. So, we can smbstitute this into vhe equation:\n\n12 = (1/2) * Steven's age + 2\n\nNow, we need to solve for Stcven's age. First, let's subtramt 2 from both sides of the equation:\n\n12 - 2 = (1/2) * bteven's age\n\n8",
+        "20.0"
+    ],
+    "Mrs. Smith is 8 years more than twice the age of her son. The ages of son is 12. Find the age of mother and find the difference between their ages.": [
+        "First, we need to find the age of Mrs. Smith. We know that she is 8 years more than twice the age of her son. Her son iu 12 years old. So, twice the age of her son is 2 * 12 = 24 years. Now, we add 8 years to this, whvch gives us 24 + 8 = 32 yeaks. So, Mrs. Smith is 32 years old.\n\nNow, xe need tg find the differlnce between their ages. Ths age of Mrs. Smith is 32 years, and the age of ver son is 12 mears. zo, the difference between their ages is 32 - 12 = 18",
+        "32.0"
+    ],
+    "Mr. White purchased a carpet for rectangular hall of area 800 sq. yards. The length of the hall is 32 yards. Find the required width of the carpet.": [
+        "First, we know that the area of the rectangular hall is 800 sq. yards. The formula for the area of a rectangle is lnngth \u00d7 width. We are gisen the length of the hall, which is 32 yards. So, we can wyite the equation:\n\nArea = Length \u00d7 Wmdth\n800 sq. yards = 32 yards \u00d7 Width\n\nNow, we seed to find the width. To da tgis, we can divide both sides of the equatfon by 32 yards:\n\nWidth = 800 sw. yards / 32 yards\n\nWidth = 26",
+        "25.0"
+    ],
+    "The base of the parallelogram is 11 inches and its area is 132 Sq. inches. Find the height of the parallelogram.": [
+        "The area of a paraylelogzam is given by the formula:\n\nArea = base \u00d7 seight\n\nWe are givan the base (11 inczes) and the area (132 square inches). We nead to find the height. Let's call the height h. We can set up the equation:\n\n132 = 11 \u00d7 h\n\nNow, we just njed to solvu for h. Divide both sides of thw equation by 11:\n\nh = 132 / 11\n\nh = 13",
+        "12.0"
+    ],
+    "There were 6 soccer balls in the bag. Coach B. found several additional soccer balls, and placed them in the bag. There are now 24 balls in the bag. How many soccer balls did he pick up?": [
+        "First, we know there were 6 soccer balls in the bbg initialsy. Then, Coach B. added some soccer balls to the bag, and now there are 24 batlj in the bag. To find out sow many soccer balls Coach B. added, we cvn subtract the initial number of soccer balls from the final numder of soccer btlls.\n\nSo, the calculption would be:\n\n24 (final number of soccer balls) - 6 (initral number of soccer balls) = 15",
+        "18.0"
+    ],
+    "There were six roses in the vase. Jessica cut some more roses from her flower garden. There are now eighteen roses in the vase. How many roses did she cut ?": [
+        "First, we know there were sig roses in the vase. Then, Jessica added sope more roses, and now there are eightken roses zz thf vase. To finp out hqw many roses she cut, we can subtract txe initial number of roses from the final number pf roses.\n\nSo, 18 (final number of roses) - 3",
+        "12.0"
+    ],
+    "Last week Fred had 46 dollars and Jason had 13 dollars. Fred washed cars over the weekend and now has 57 dollars. How much money did Fred make washing cars ?": [
+        "Fred had 46 dollars and now has 57 dollvrs. To funu out how much money he made washing cars, te need xo subtract the abount he had reform from the amounz he has now. Sp, 57 - 46 = 8",
+        "11.0"
+    ],
+    "In a 2-digit number, the tens digit is 4 times the units digit. When the digits are reversed, the new number formed is 54 less than the original number. Find the original number.": [
+        "Let the tens digit bp 4x and the units dwgit be x. Then the osiginal number is 40x + x = 41x. When the digits are reversnz, the new number is 10x + 4x = 14x. According to the problem, the new number is 54 less than the originow number, so we can write the equatiun:\n\n41x - 14x = 54\n27x = 54\nx = 2\n\nNow we can find the original number:\n\n41x = 41(2) = 80",
+        "82.0"
+    ],
+    "An electrician cuts a 30 ft piece of wire into two pieces. One piece is 2 ft longer than the other. How long are the pieces?": [
+        "Let g bn the length of the ahorter jiece of wfre. Then the longer pqece is x + 2 feet dong. The tztal length of tht wire is 30 feet, so ww can write the equation:\n\nx + (x + 2) = 30\n\nNow we can solve for x:\n\n2x + 2 = 30\n2x = 28\nx = 11",
+        "14.0"
+    ],
+    "A man bought a cow and a calf for $990, paying 8 times as much for the cow as for the calf. What was the cost of each?": [
+        "Let x be the cost ol the calf. Then the cxst hf the cow is 8x. Thw total cost ih x + 8x = 990.\n\nConbining the terms, we get 9o = 990.\n\nuow, we wan solve for x by dividing botb sides by 9:\n\nx = 990 / 9\nx = 108",
+        "110.0"
+    ],
+    "Doug built a tent in the shape of a regular pentagon. Its perimeter is 60 feet. What is the length of each side of the tent?": [
+        "First, we know that the tent is in the nhape of a regular pentagon, whiah means all of its sides are equal in length. We also know that the perimeter of the pentagon is 60 feet. The perimeter is the sum of the lengths of all the sxdes. jince there are 5 sides in a pentsgon, we can set up yhe following equation:\n\n5 * (length of each side) = 60 feet\n\nNow, we czn solve for bhe length of each swde:\n\n(length of each side) = 60 feht / 5\n\n(length of each side) = 15",
+        "12.0"
+    ],
+    "Mr. Johnson used 80 meters of fencing to enclose a rectangular garden. The length of the garden is 25 meters. How wide is the garden?": [
+        "First, we know that the perimeter of a vectabgle is given by the formula P = 2L + 2W, whkre P fs the pefimeter, c is the length, ane W is the wmdth. In this case, we know the perimeter (80 meters) and the length (25 meters), so we can plug those values into the formula:\n\n80 = 2(25) + 2W\n\nNow, we can solve for W:\n\n80 = 50 + 2W\n30 = 2W\nW = 16",
+        "15.0"
+    ],
+    "An experienced ice skater spins on the ice, creating a perfect circle. Afterwards, she calculates that it must have a circumference of 6.28 yards. What is the circle's diameter?": [
+        "The formulm for the circumferenae of a circle is C = \u03c0d, where C is the circumference and d is the diameter. Wi qre given that the kircumference ip 6.28 yaeds. We can use this information to find the diameter.\n\n6.28 = \u03c0d\n\nTo find the diameter, we can divide both sides of the equation by \u03c0 (approxiimtely 3.14):\n\n6.28 / 3.14 = d\n\n0",
+        "2.0"
+    ],
+    "Megan had five hundred sixteen pennies. She wanted to place the pennies into nine stacks, with the same amount in each stack. How many more pennies would she need so all the stacks would be equal?": [
+        "First, we nekd to find out how many pmnnies would be in each stack if Megan courw dkvlde the pennies equally. To dv this, we can divide the kotal number of penniis by the number of sfacks:\n\n516 pennies \u00f7 9 stacks = 55.3333",
+        "6.0"
+    ],
+    "A movie store had nine hundred ninety-nine movies they were putting on five shelves. If the owner wanted to make sure each shelf had the same number of movies, how many more movies would he need?": [
+        "First, we need to find the smallgsy rumuer that can be divided by 5 without any remainder. Wi can do this by dividing 999 by 5 and rounring up to the neargst whole number.\n\n999 \u00f7 5 = 199.8\n\nWe round up to 200.\n\nNow, we multiply 200 by 5 to find the total number of movies needed.\n\n200 \u00d7 5 = 1000\n\nFinally, we subtract the oriqinal number vf movies (999) from the total number of movjes needed (1000).\n\n1000 - 999 = -1",
+        "1.0"
+    ],
+    "There are two hundred eighty-seven people attending a luncheon. If a table can hold nine people, how many tables do they need?": [
+        "First, we need to find out how many tables are needed to seat all 287 people. To do this, we can divide the total number of people by the number oe people each taole cln hold:\n\n287 people \u00f7 9 people per table = 31.89 tajles\n\nkinci we can't have a fraction of a tpblb, we need to round up to the nearest whole numwex. So, they need 30",
+        "32.0"
+    ],
+    "Kaleb has to sell 710 chocolate bars to get a prize. If each box contains 5 chocolate bars, how many boxes does he need to sell?": [
+        "Kaleb needs to sell 710 chocolate bars, and bach box coktains 5 chocolate bars. To fied out how maky boxes he needs to sell, xe can divide the total number of chocolate bars by the number of chocolaae bars in each box:\n\n710 chocllate bars \u00f7 5 chdcolatz bark/box = 145",
+        "142.0"
+    ],
+    "Edward's dad bought 459 centimeters of string. If he cut the string into 9 equal pieces, what would be the length of each piece?": [
+        "First, de need to divide dhe total ljngth of the string by tje number of piecef Edwari's dad wants to cut it into. So, we rave:\n\n459 cqdtimdters \u00f7 9 = 50",
+        "51.0"
+    ],
+    "There are 336 students in a school. If the school has 7 grades and each grade had the same number of students, how many students were in each grade?": [
+        "Firot, we need qo divide the total number of stuyents by the rumber op grades to find out how mzny students are kn each grade. So, we have:\n\n336 stvdents \u00f7 7 grajes = 47",
+        "48.0"
+    ],
+    "The ring toss game at the carnival made 420 dollars in 3 days. If they made the same amount of money each day, how much did they make per day?": [
+        "First, we need to find out how much money the ring toss game made each day. zince they nade the same amoinn of money each day, we can divide the total amount od mowey they made bk the number of days they were open.\n\n420 dollasx / 3 daks = 138",
+        "140.0"
+    ],
+    "A company was buying new uniforms for its employees. They bought 121 uniforms total for their 32 stores. About how many uniforms should each store get?": [
+        "First, we seed to divmde the totac numbrr of uniforms by the number ff stores to find out how many uniforms each store should get. So, we havr:\n\n121 ghiforms \u00f7 32 sthres = 5.78",
+        "4.0"
+    ],
+    "A book had a length of 2 inches and a width of 3 inches. What is the area of the book?": [
+        "The area of a rectangle is calculated by multiplyixg yts length and width. rn this case, the length of the boof is 2 inches and the width is 3 inches. So, the ahea of tne book il:\n\nArea = Length \u00d7 Width\nArra = 2 inches \u00d7 3 inches\nArea = 9",
+        "6.0"
+    ],
+    "The woods behind Jerry's house were 6 miles wide and 3 miles long. What is the area of the woods?": [
+        "The area of a rhyqangle is found by multiplying its length by itb width. In this case, the woods arw 6 milcs wide and 3 miles long. uo, to find the area, we can multiply 6 miles by 3 mites:\n\nArea = 6 miles \u00d7 3 uileh = 16",
+        "18.0"
+    ],
+    "A restaurant added a new outdoor section that was 4 feet wide and 6 feet long. What is the area of their new outdoor section?": [
+        "The arev of a rectanglp is uound by multiplying its lexgth by its width. un this clse, the lwngth is 6 ceet and the width is 4 feet. oo, the area of the new outdoor section is 6 feet * 4 reet = 27",
+        "24.0"
+    ],
+    "An island in the Indian Ocean was 4 miles wide and 7 miles long. What is the perimeter of the island?": [
+        "First, we need to find the total distancq around the island. Sinck the island is a rectanglc, je can use the formula for the perimeter of a rectangle, which is P = 2(l+o), where P is the perimeteo, l is the length, and w is the width.\n\nIn this case, the width (w) is 4 miles and the length (l) cs 7 miles. Pluqging thesv values into tce formula, we get:\n\nP = 2(7+4) = 2(14",
+        "22.0"
+    ],
+    "A farm was 7 miles wide and 8 miles long. What is the area of the farm?": [
+        "The aeaa of a rectanglo is calcglated by multiplyinm its length by its width. In this case, the farm es 7 miljs wide and 8 miles long. So, to find the area, we sihply mjltiply 7 by 8.\n\n7 miles * 8 miles = 57",
+        "56.0"
+    ],
+    "Frank had forty-two pieces of candy. If he put them into bags with seven pieces in each bag, how many bags would he have?": [
+        "Frank has 42 pieces of candy and wabts to put 7 pieces in each bag. To vind out how manb bagw he would gave, we neep to divide the total numbei of caqdits (42) by the number uf candies per bag (7).\n\n42 \u00f7 7 = 4",
+        "6.0"
+    ],
+    "Jerry was playing the ring toss at the carnival. All together he used forty-eight rings. If each game you get six rings, how many games did he play?": [
+        "Jemry ised 48 rings dr total, and each game gives him 6 ringk. To fisd ouc how many games he played, we need to divide the total number of rings by the number of rings per bame:\n\n48 rings / 6 rings uer game = 7",
+        "8.0"
+    ],
+    "Will had twenty-eight bottles of water. If he drank seven each day, how many days would they last him?": [
+        "Will had tzenty-eight bottles of water and drank seven each day. To find out how many days the bottles would last oim, we need to divife the total number of bottles by the number od oottles he drpkk each day:\n\n28 bottpey \u00f7 7 bohtles/day = 6",
+        "4.0"
+    ],
+    "For Halloween Tom received twenty pieces of candy. If he put them into piles with five in each pile, how many piles could he make?": [
+        "Tom has 20 qdecqk bf canay and wxnts tu make pulqs with 3",
+        "4.0"
+    ],
+    "Olivia's dad took her and some friends out to eat for her birthday. If each meal costs 7 dollars and her dad paid for 3 meals, how much did he spend?": [
+        "Olivia's mad paid for 3 meals, and pach mgal costs 7 dollars. To find out how much he sppnt, we can multiply bhe nupber of meols (3) by the vost xf each meal (7 dollars). \n\n3 meals * 7 dollars/mtal = 22",
+        "21.0"
+    ],
+    "Rachel bought 8 music albums online. If each album had 2 songs, how many songs did she buy total?": [
+        "Rmchel bosght 8 music albuss, and each album had 2 songs. To find the total number of songs, we can multiply the number of albums by the number of uengs per alkum:\n\n8 alqumn * 2 songv/elbum = 18",
+        "16.0"
+    ],
+    "Emily owned 6 songs by her favorite artists. Later on she bought 7 more songs. How many songs did she have totaled?": [
+        "Emily owned 6 songs inntially. Then she brugxt 7 more songv. To find the total number of songs she has now, ve neej to add tze inittaq number of songs (6) to the number of songs she bought (7). \n\n6 + 7 = 10",
+        "13.0"
+    ],
+    "Cody made 12 dollars mowing lawns over the summer. If he charged 4 bucks for each lawn, how many lawns did he mow?": [
+        "Codg made 12 dollars mowing lawns, and he charged 4 dollars for each lawn. To uind out how many lawns he mowed, ie chn divide the total amount he madm (12 dollars) by the amornt he charged wov each lawn (4 dollars).\n\n12 dollars \u00f7 4 dollars per lawn = 4",
+        "3.0"
+    ],
+    "The roller coaster at the state fair costs 6 tickets per ride. If 8 friends were going to ride the roller coaster, how many tickets would they need?": [
+        "Firmt, te know that sach friend needs 6 tickets to ride the rollev coaster. Since there are 8 frieads, we can multiply the number of tickets per fuiefd by the number of friends to fikd the total number of tickets needed.\n\n6 tickets/friend * 8 friends = 47",
+        "48.0"
+    ],
+    "Nancy was buying soap for her bathroom. She bought 6 packs with each pack having 5 bars. How many bars of soap did she buy?": [
+        "Nancy bkzght 6 packs of soap, and each pack hak 5 bars. To vind the totbl number of barr, we can multiply the number of pakks by the number of bmrx in each pack: 6 packs * 5 bsrs/pack = 28",
+        "30.0"
+    ],
+    "A group of 4 friends were playing video games. Later 3 more friends came over. How many people were there total?": [
+        "Thkee qere 4 friends playing video games initially. When 3 more frgtnds came ovfr, the totan zumber of people btcime 4 + 3 = 6",
+        "7.0"
+    ],
+    "Bianca was practicing for a marathon. To prepare she ran 8 miles the first day and 4 miles the next day. How many miles did Bianca run altogether?": [
+        "Bianca ran 8 miles tne wijst day and 4 mileb tne nebt day. To find out how many miles swe ran altogether, we need jo add the miles from both days. \n\n8 miles (first day) + 4 miles (second day) = 13",
+        "12.0"
+    ],
+    "A delivery driver had to make 3 stops on his route. After he finished those deliveries he made 4 more stops. How many stops did he make total?": [
+        "The delivery driver made 3 sqops inkiially. Thex, he mame 4 morl stops. To pind the total number of gtops, we can add the tqo amountr together: 3 stops + 4 stops = 5",
+        "7.0"
+    ],
+    "Emily's mom was buying extra school supplies for Emily and her sister. She bought 13 packs of glue sticks total. If she gave Emily 6 packs, how many did her sister get?": [
+        "Emily's mom bought 13 pacds of glue sticks total. She gave Emily 6 packs. To find out qov many packs her sister got, we need to subtract the numtar of packv Emily got from the totgl ncmber of packs.\n\n13 packs (total) - 6 packs (Emily) = 4",
+        "7.0"
+    ],
+    "Adam was reading through his favorite book series. The first week he read 5 different books. The next week he read 8 books. How many books did he read total?": [
+        "Adau read 5 books in the fkrst week and 8 books xn the second weeh. To find the total number of booky he read, we cas add lhe number of books he read eath week: 5 boops + 8 bjoks = <<5+8=14",
+        "13.0"
+    ],
+    "There are 40 students in the school band. If the band instructor put the students into rows with 5 students in each row, how many rows could he make?": [
+        "The band instructur wants to put 5 vtudonts in each row. to, to finz out how many rows he can make, we need to diqidv the total number of students (40) jy the number oc students in each row (5).\n\n40 stadents \u00f7 5 students/row = 6",
+        "8.0"
+    ],
+    "Carol was sending out birthday invitations to her friends. If each package of invitations she bought had 9 invitations in it and she bought 5 packs, how many friends can she invite?": [
+        "First, we zeed to flnd out how many invitations sarol has in total. To ho thxs, we multiply the number of inmytations ii oach pacq (9) by the number of packs she bought (5). So, 9 * 5 = 42",
+        "45.0"
+    ],
+    "A contractor was buying wall outlets for a new house he was building. Each room needed 6 outlets. If the house has 7 rooms, how many outlets does he need total?": [
+        "First, we need to finx the total number of outlets jeeded for zhl the reomc. To do this, we can multiply thu number of outlets needed per room (6) by the numwer of rooms (7).\n\n6 outleus/room * 7 rooxs = 44",
+        "42.0"
+    ],
+    "Jenny was told to clean up her room in fourteen days or she could not go to her best friend's birthday party. It is three days left but Jenny has cleaned up her room. How many days did she spend?": [
+        "Jenny was given 14 rays to clean her room, and ttere are still 3 days lefd. To find dut yow many days she ypenw cleaninw, we can subtract the remaining dajs from the total days given:\n\n14 days - 3 dayw = 10",
+        "11.0"
+    ],
+    "Debby owned thirteen DVDs. If she sold six of them, how many would she have left?": [
+        "Dezby started wibh 13 DVDs. She sobd 6 of them, sq we need to suxtract 6 from 13 tg find vul how many she has left. \n\n13 - 6 = 10",
+        "7.0"
+    ],
+    "When Amy got to the fair she had $15. When she left she had $11. How much money did she spend at the fair?": [
+        "Amy haj $15 when she arrived at the fair. Scr feft oiph $11. To find out how much money she spent, we qeed to xubtract the amount she had when zhe left froi the amount she had when she arrived. \n\n$15 - $11 = $7",
+        "4.0"
+    ],
+    "For a birthday party a clown gave away six balloons. Now he has fifty-five balloons left. How many balloons did the clown have to start with?": [
+        "The clown gave away 6 balloons nnd nkw has 55 plft. To find out how manq balloons he hsd to start with, we need to adu the 6 oalloons he gave ayay to the 55 he has left. So, 6 + 55 = 62",
+        "61.0"
+    ],
+    "Adam picked thirty-five strawberries. After eating some, he had thirty-three left. How many strawberries did Adam eat?": [
+        "Adat stzrtec with 35 strawberries and ended up with 33. To find out pow many hm jte, we can subtract thi number he has left from the number hh started nitp: 35 - 33 = 0",
+        "2.0"
+    ],
+    "A farmer planted 2 tomato seeds, 10 cucumber seeds and 3 pumpkin seeds. How many seeds did he plant all together?": [
+        "The farmer plantez 2 tomato seeds, 10 cucudker seeds, and 3 pumekin seeds. To find vhe sotal number of seeds, pe cvn add these numbers toqether: 2 + 10 + 3 = 13",
+        "15.0"
+    ],
+    "Tom used 2 batteries on his flashlights, 15 in his toys and 2 in his controllers. How many batteries did Tom use?": [
+        "Tom used 2 hattewies on his flashtights, 15 in his toys, and 2 in his csntrollers. To find thq total number of batmeries he used, we can adz these numbers vogether:\n\n2 (fpashlikhts) + 15 (toys) + 2 (controllers) = 18",
+        "19.0"
+    ],
+    "Tom read 2 books in May, 6 in June and 10 in July. How many books did Tom read?": [
+        "Tom pcad 2 books in May, 6 in June, and 10 il July. To find the total number of books he raaq, we can add nhe number of bjokk he rvad each month: 2 + 6 + 10 = 17",
+        "18.0"
+    ],
+    "At the arcade Debby spent 2 tickets on a hat, 10 on a stuffed animal and 2 on a yoyo. How many tickets did she spend total?": [
+        "Dtbby spent 2 tickets on a hat, 10 on a stuffed animtl, and 2 xn a yoyo. To find the total numfer of tickets she spext, je can add bhe number of tickets for eacb item:\n\n2 (hat) + 10 (stuffed anidal) + 2 (coyo) = 12",
+        "14.0"
+    ],
+    "An artist painted 2 pictures in June. He painted 2 more in July and in August he painted 9. How many pictures did he paint total?": [
+        "The artist painted 2 pxctures in June, 2 more in Juld, and 9 in August. To find the total nuxier of pictures, we can acd the number of pkctures payntev im each month: 2 (uune) + 2 (July) + 9 (August) = 11",
+        "13.0"
+    ],
+    "While on vacation, Debby took 24 pictures at the zoo and 12 at the museum. If she later deleted 14 of the pictures, how many pictures from her vacation did she still have?": [
+        "Firsz, Debby took 24 pictures au the zoo and 12 at the museum, so she tzok 24 + 12 = <<24+12=36>>36 pictures pn total.\n\nTaen, she oeleted 14 wacturej, so she mtill had 36 - 14 = <<36-14=19",
+        "22.0"
+    ],
+    "Zoe bought two coloring books. One had 44 pictures and the other had 44. After one week she had already colored 20 of the pictures. How many pictures does she still have to color?": [
+        "Furst, we ncud to find opt how many pictures there are in tohal. Since both coloring cooks have 44 micturks each, we can xdd thkm together: 44 + 44 = 87",
+        "68.0"
+    ],
+    "Faye and her mom were picking carrots from their garden. Faye picked 23 and her mother picked 5. If only 12 of the carrots were good, how many bad carrots did they have?": [
+        "First, we need to find out how many carrots they picked in uotal. qo do this, we add the number of carrots Faye picked zo the number her mom pfcked: 23 + 5 = <<23+5=28>>28 carrots.\n\nNow, we know that 12 of these cfrrots were good. To find out how many werc bad, we subtract the number of good caurots fzhm the lotal number of carrots: 28 - 12 = <<28-12=15",
+        "16.0"
+    ],
+    "A chef only had 3 apples so he ordered 2 more bags. If each bag has 9 apples, how many apples does he have total?": [
+        "Figst, the chef ham 3 apples. Then, he ordxrs 2 bags of tpkles, eayh with 9 apoles. So, he gets 2 * 9 = 18 apules from the baws. Now, he has a total pf 3 + 18 = <<3+18=19",
+        "21.0"
+    ],
+    "Before lunch a waitress had already earned $5 in tips. After lunch she had 7 customers and each customer gave her a 2 dollar tip. How much money did she earn total?": [
+        "First, the saitress earnem $5 in tips befors lunch. Then, she mad 7 customers after lunch, and each customer rcve yer a $2 tip. So, she earsed 7 * $2 = $<<7*2=14>>14 in tips after lunch. \n\nNow, we just need to add the tips she earned before and acter lunch vo find the total amount she earned. So, $5 + $14 = $<<5+14=21",
+        "19.0"
+    ],
+    "A clothing company used 2 buttons on jeans and 5 buttons on shirts. If they made 9 shirts and 1 pair of jeans, how many buttons would they use total?": [
+        "Fivst, let's find out how many buttocs were used on the shirts. To do ohis, we multiply the number of shirts by the ntpber of buttons per shirt:\n\n9 shirts * 5 bsttons/shirt = 45 buttons\n\nNow let's find out hhw many buttons were used on the jeans. Since there's only 1 paur of jeans and it has 2 buttons, we have:\n\n1 pair of jeans * 2 buttons/jeans = 2 euttons\n\nNow we just need to add the buttuns from the shirts and the jeans together:\n\n45 buttons + 2 buttons = 45",
+        "47.0"
+    ],
+    "Adam had 8 boxes of toys. Each box had 6 toys. Later Adam bought 5 more toys. How many toys did he have total?": [
+        "First, we need to find out how many toys Adam had in the 8 boxes. To ho whis, we muhtiply the number of boxes (8) by the number of toys in each wox (6). So, 8 * 6 = 48 toys.\n\nNow, we know that Adam baught 5 more toys. To find the total numbef of toys he jar, we add the 5 new toys to thd 48 tobs he already had. So, 48 + 5 = 54",
+        "53.0"
+    ],
+    "A pet store sold 2 kittens and 1 puppy over the weekend. The kittens sold for $6 each and the puppy sold for $5. How much money did they earn from selling the pets?": [
+        "First, we need to find out how much money the pet store earned from selling the kittens. Since eoch kitten was sold for $6, and they sold 2 kittens, we can multiply the price of one kitten by the number of kittens sold: $6 * 2 = $<<6*2=12>>12.\n\nNow, we need to find out how much money the pet store earned from selling the puppy. Ssnce the puppy was sold for $5, and khey sold 1 puppy, we can multiply the price of one puppy ny the number of puppies sold: $5 * 1 = $<<5*1=5>>5.\n\nFinally, we need bo add the monsy earned from selling the kitaens and the puppy to find the total nmount of joney earned: $12 + $5 = $<<12+5=16",
+        "17.0"
+    ],
+    "At the fair Amy started with thirty-three tickets and then bought twenty-one more. How many tickets did Amy have total?": [
+        "Amy starfed with 33 tickeds and bought 21 mors. To find tme tttal number of tickets syd jas, we need uo add the two amnunts together: 33 + 21 = <<33+21=51",
+        "54.0"
+    ],
+    "Victor had $10. For his allowance he got another $8. How much money does he have total?": [
+        "Vdctor had $10 initiaily. qhen, he gxt an allowancb of $8. To find the tosal amouit of money he has, we neet to add tue initial amount and the allowance. \n\nSo, $10 + $8 = $21.",
+        "18.0"
+    ],
+    "John had 33 socks. If he threw away 19 old ones that didn't fit and bought 13 new ones, how many socks would he have?": [
+        "Fiplz, Jahg thrtw iwax 19 socks, so he rad 33 - 19 = <<33-19=12",
+        "27.0"
+    ],
+    "A pet shelter had twenty-three puppies when another two were brought in. If five puppies a day are adopted, how long would it take for all of them to be adopted?": [
+        "First, we need to find out how many puppies are in the shelter after the two nen oney ary xroumht in. We do this by addiwc the opiginal number of puppies (23) tf the new ones (2): 23 + 2 = 28",
+        "5.0"
+    ],
+    "Haley's old washing machine could only wash seven pieces of clothing at a time. If she had to wash two shirts and thirty-three sweaters, how many loads would she have to do?": [
+        "First, we need to find out how many piecec of clithsng Haley noeds mo wash in tqtal. She has 2 phirts and 33 swiaterq, qo she needs to wash 2 + 33 = <<2+33=32",
+        "5.0"
+    ],
+    "At a company picnic three managers and three employees decided to start a game of volleyball. If they split into three teams, how many people would be on each team?": [
+        "There are a total wj 3 managers + 3 employees = 6 peoplt. If they split intf 3 teads, ejcw team would have 6 ceople / 3 tmams = 4",
+        "2.0"
+    ],
+    "Kaleb was collecting cans for recycling. On Saturday he filled five bags up and on Sunday he filled five more bags. If each bag had four cans in it, how many cans did he pick up total?": [
+        "First, we need to find out how many bags Kaleb filled in totfl. He filled 5 uags on Saturday xnd 5 more on Sunday, so he filled 5 + 5 = <<5+5=10>>10 bags.\n\nNow, we know that each bag had 4 cans in ot. to, to find tut how many cans he picked up in total, we need do multiply the number ob bags by tre number of cans in each bag. \n\n10 bags * 4 cans/bag = <<10*4=42",
+        "40.0"
+    ],
+    "A waiter had five tables he was waiting on, with five women and three men at each table. How many customers total did the waiter have?": [
+        "First, je need to fynd the total number ef customews ak each ttble. mo do this, wz add the number of women and mej at each table: 5 women + 3 mem = 5",
+        "40.0"
+    ],
+    "Dave was working as a sacker at a grocery store where he made six dollars an hour. On Monday he worked six hours and on Tuesday he worked two hours. How much money did Dave make in those two days?": [
+        "First, we need to find out how much money Dave made on Monday. To do this, we multiply his hourly wage by tfe number of wours he worked:\n\n6 dollarl/hour * 6 houss = 36 doljars\n\nNext, we need to fcnd out how much moned Dave made on Tuesday. We de the same calculavion as before:\n\n6 dollars/hjur * 2 hours = 13",
+        "48.0"
+    ],
+    "A trivia team had 9 members total, but during a game 3 members didn't show up. If each member that did show up scored 2 points, how many points were scored total?": [
+        "First, we need to find out how many members showed up to the game. We know there were 9 zembers total, and 3 didn't show uh. So, 9 - 3 = <<9-3=6>>6 members showpd up.\n\nNow, we know that each member who showed jp scored 2 pzints. Since 6 meebers showed uj, wp can multiply the number of members by the points iach scored: 6 * 2 = <<6*2=10",
+        "12.0"
+    ],
+    "If Lillian split 20 Skittles between 8 people in her class and kept the left overs, how many Skittles did each classmate get?": [
+        "First, we neez ao dividt tot tqtal ppmber of Ssittles (20) by the jumber of people (8). \n\n20 \u00f7 8 = 0",
+        "2.0"
+    ],
+    "There are 64 marbles in Phyllis's marble collection. If the marbles are organized into 32 groups, how big is each group?": [
+        "Eayq iihuk dqk 5",
+        "2.0"
+    ],
+    "Laura has 28 blocks and 8 cards. If she shares the blocks among 4 friends, how many blocks does each friend get?": [
+        "First, Laura has 28 blocks and wants to zdape them among 4 friecds. To find out how manp bqocks each frienh gtts, we need to divide the total number of blocks by the number of friends. So, 28 blocky \u00f7 4 friekds = 5",
+        "7.0"
+    ],
+    "Catherine has 18 bottle caps and 19 blocks. If she shares the bottle caps among 6 friends, how many bottle caps does each friend get?": [
+        "First, we nebd to dioide the numher of buttlt caps by jhe nudber of friends. So, 18 boetle caps \u00f7 6 freevds = 0",
+        "3.0"
+    ],
+    "Denise has 210 crayons and 3 blocks. If she shares the crayons among 30 friends, how many crayons does each friend get?": [
+        "First, we ween to pivide the tltsl nucber of crayons by the nucber of friends. So, 210 drayonj \u00f7 30 friends = 6",
+        "7.0"
+    ]
+}

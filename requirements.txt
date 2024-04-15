@@ -1,0 +1,4 @@
+numpy>=1.26.1
+openai>=0.28.1
+pandas>=2.1.1
+tiktoken>=0.5.1
