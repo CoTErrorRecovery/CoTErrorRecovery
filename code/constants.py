@@ -1,16 +1,9 @@
 """
 Constants and common utilities for use across the code.
 """
-import argparse
-import json
-import os
-import pandas as pd
 import re
-import signal
-import sys
-import time
+from pathlib import Path
 
-from typing import Callable
 
 # default tasksets for each dataset
 DEFAULT_TASKSETS = {
@@ -21,13 +14,15 @@ DEFAULT_TASKSETS = {
 }
 
 # path to results directory
-RESULTS_PATH = os.path.abspath(os.path.join('..','results'))
+RESULTS_PATH = (Path(__file__).parent / 'results').abspath()
 
 # file suffix to error type annotation
-ERROR_TYPE={'any':'copying',
-            'copy':'copying',
-            'calc':'calculation',
-            'propcalc':'calculation'}
+ERROR_TYPE = {
+    'any': 'copying',
+    'copy': 'copying',
+    'calc': 'calculation',
+    'propcalc': 'calculation'
+}
 
 # chain of thought prompt. From Kojima et al 2022 (https://arxiv.org/abs/2205.11916).
 COT_PROMPT = " Let's think step by step."
@@ -40,10 +35,10 @@ DIRECT_SUFFIX = "The answer (arabic numerals) is"
 # verbose output flag
 VERBOSE = True
 
-# prompt generation script
-def generate_prompt (question:str, style:str = ""):
+
+def generate_prompt(question: str, style: str = ""):
     """
-    Create the full prompt text, given a question.
+    Generate a full prompt string, given a question.
 
     Args:
     - question: the question to be incorporated in the prompt
@@ -56,21 +51,23 @@ def generate_prompt (question:str, style:str = ""):
     """
     if "qa" in style or 'sbs' in style:
         if ('Q:' not in question) and ('Question:' not in question):
-            question = 'Q: '+ question
+            question = 'Q: ' + question
         if ('\nA:' not in question) and ('\nAnswer:' not in question):
-            question = question +'\n\nA:'
-        question = question.replace("Q: Q:", "Q:") # replace extra "Q:"
-    if 'sbs' in style and COT_PROMPT not in question and RECOVERY_PROMPT not in question: # zero-shot chain of thought
-        if 'recovery' in style: # error recovery CoT prompt
+            question = question + '\n\nA:'
+        question = question.replace("Q: Q:", "Q:")  # replace extra "Q:"
+    if 'sbs' in style and COT_PROMPT not in question and RECOVERY_PROMPT not in question:  # zero-shot chain of thought
+        if 'recovery' in style:  # error recovery CoT prompt
             question = question + RECOVERY_PROMPT
         else:
             question = question + COT_PROMPT
-    if "zeroshot" in style: # zero-shot direct
-        question = question+' '+DIRECT_SUFFIX
-    return question # if style not identified, return question as-is
+    if "zeroshot" in style:  # zero-shot direct
+        question = question + ' ' + DIRECT_SUFFIX
+    return question  # if style not identified, return question as-is
 
 # answer scoring function
-def number_scorer (generation:[str,int,float], target:[str,int,float]):
+
+
+def number_scorer(generation: [str, int, float], target: [str, int, float]):
     """
     Check if the generation contains the target value.
     - Very similar to answer scoring from Kojima et al 2022 (https://arxiv.org/abs/2205.11916)
@@ -89,11 +86,11 @@ def number_scorer (generation:[str,int,float], target:[str,int,float]):
         generation = generation.split(GSM8K_SUFFIX)[-1]
     elif DIRECT_SUFFIX in generation:
         generation = generation.split(DIRECT_SUFFIX)[-1]
-    generation = generation.replace(',','') # remove commas from number representations, e.g. $1,000 -> $1000
-    number = re.search(r'-?\d+\.?\d*' , generation) # get first number (negative or positive, can include decimal)
+    generation = generation.replace(',', '')  # remove commas from number representations, e.g. $1,000 -> $1000
+    number = re.search(r'-?\d+\.?\d*', generation)  # get first number (negative or positive, can include decimal)
 
     if not isinstance(target, (int, float)):
         target = eval(target)
     if number:
-        return target == eval(str(number[0])) # check if the identified number evaluates to the same value as the target.
-    return False # if no numerical match found, return False
+        return target == eval(str(number[0]))  # check if the identified number evaluates to the same value as the target.
+    return False  # if no numerical match found, return False
