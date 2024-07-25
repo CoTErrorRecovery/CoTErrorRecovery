@@ -4,6 +4,7 @@ Functions to process inputs, make calls to the Open AI API, and process outputs 
 import openai
 import threading
 from tiktoken import encoding_for_model
+from transformers import AutoTokenizer
 
 from constants import *
 
@@ -16,14 +17,20 @@ LOGPROBS = 1 # number of tokens to return logprobability for. maximum 5. (not cu
 WAIT = 2 # seconds to wait between each call to the api, to avoid rate limit
 TIMEOUT = 40 # seconds to wait (per question) before timeout (mostly handled in threads, not in API calls)
 
+# set Huggingface auth token. You should request for Meta's llama-3-70b on Huggingface and use the auth token here after you are granted access
+hf_auth_token = os.getenv("HUGGINGFACE_AUTH_TOKEN")
+
 # set api key. You can manually paste it in here or set it as an environmental variable
 API_KEY = os.getenv("OPENAI_API_KEY")
+BASE_URL = os.getenv("OPENAI_BASE_URL")
 openai.api_key = API_KEY
+if BASE_URL:
+    openai.base_url = BASE_URL
 
 
 CHAT_MODELS = ['gpt-4', 'gpt-4-0314', 'gpt-4-0613', 'gpt-4-32k', 'gpt-4-32k-0314', 'gpt-4-32k-0613', 'gpt-3.5-turbo',
                'gpt-3.5-turbo-0301', 'gpt-3.5-turbo-0613', 'gpt-3.5-turbo-16k', 'gpt-3.5-turbo-16k-0613',
-               'gpt-4-1106-preview']
+               'gpt-4-1106-preview', 'meta-llama/Meta-Llama-3-70B-Instruct']
 RATE_LIMITS = {'gpt-4': (200, 40000),
                'chat': (3500, 90000),
                'text': (3500, 350000)} # rate limits for different models, in requests and tokens per minute
@@ -57,7 +64,10 @@ def batch_inputs (questions:list, model:str, verbose:bool, thread_num:int=1):
     batches = []
     token_limit = 0
     base = parse_base_model_name(model)
-    tokenizer = encoding_for_model(base)
+    if base == 'meta-llama/Meta-Llama-3-70B-Instruct':
+        tokenizer = AutoTokenizer.from_pretrained(base, use_auth_token=hf_auth_token)
+    else:    
+        tokenizer = encoding_for_model(base)
     chat = True
     if 'gpt-4' in model:
         request_limit, token_limit = RATE_LIMITS['gpt-4']
