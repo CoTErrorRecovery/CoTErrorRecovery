@@ -132,12 +132,12 @@
   N_06: 16
   question: Alexis is applying for a new job and bought a new set of business clothes to wear to the interview. She went to a department store with a budget of $200 and spent $30 on a button-up shirt, $46 on suit pants, $38 on a suit coat, $11 on socks, and $18 on a belt. She also purchased a pair of shoes, but lost the receipt for them. She has $16 left from her budget. How much did Alexis pay for the shoes?
   question_template: Alexis is applying for a new job and bought a new set of business clothes to wear to the interview. She went to a department store with a budget of ${N_00} and spent ${N_01} on a button-up shirt, ${N_02} on suit pants, ${N_03} on a suit coat, ${N_04} on socks, and ${N_05} on a belt. She also purchased a pair of shoes, but lost the receipt for them. She has ${N_06} left from her budget. How much did Alexis pay for the shoes?
-  N_02_formula: 3*2=6
-  N_02: 6
-  N_03_formula: 6*2=12
-  N_03: 12
-  N_04_formula: 12*52=624
-  N_04: 624
+  N_07_formula: N_01 + N_02 + N_03 + N_04 + N_05
+  N_07: 143
+  N_08_formula: N_00-N_06
+  N_08: 184
+  N_09_formula: N_08-N_07
+  N_09: 41
   answer: Let S be the amount Alexis paid for the shoes.\nShe spent S + 30 + 46 + 38 + 11 + 18 = S + <<+30+46+38+11+18=143>>143.\nShe used all but $16 of her budget, so S + 143 = 200 - 16 = 184.\nThus, Alexis paid S = 184 - 143 = $<<184-143=41>>41 for the shoes.\n#### 41
   answer_template: Let S be the amount Alexis paid for the shoes.\nShe spent S + {N_01} + {N_02} + {N_03} + {N_04} + {N_05} = S + <<N_07_formula>>{N_07}.\nShe used all but ${N_06} of her budget, so S + {N_07} = <<N_08_formula>> {N_08}.\nThus, Alexis paid S = $<<N_09_formula>>{N_09} for the shoes.\n#### {N_09}
   answer_numerical: N_09
@@ -149,13 +149,23 @@
   N_03: 5
   question: Tina makes $18.00 an hour.  If she works more than 8 hours per shift, she is eligible for overtime, which is paid by your hourly wage + 1/2 your hourly wage.  If she works 10 hours every day for 5 days, how much money does she make?
   question_template: Tina makes ${N_00} an hour.  If she works more than {N_01} hours per shift, she is eligible for overtime, which is paid by your hourly wage + 1/2 your hourly wage.  If she works {N_02} hours every day for {N_03} days, how much money does she make?
-  N_02_formula: 3*2=6
-  N_02: 6
-  N_03_formula: 6*2=12
-  N_03: 12
-  N_04_formula: 12*52=624
-  N_04: 624
+  N_04_formula: N_01*N_00
+  N_02: 144
+  N_05_formula: N_02-N_01
+  N_05: 2
+  N_06_formula: N_00*0.5
+  N_06: 9
+  N_07_formula: N_00+N_06
+  N_07: 27
+  N_08_formula: N_03 * N_04
+  N_08: 720
+  N_09_formula: N_07*N_05
+  N_09: 54
+  N_10_formula: N_09*N_03
+  N_10: 270
+  N_11_formula: N_08 + N_10
+  N_11: 990
   answer: She works 8 hours a day for $18 per hour so she makes 8*18 = $<<8*18=144.00>>144.00 per 8-hour shift\nShe works 10 hours a day and anything over 8 hours is eligible for overtime, so she gets 10-8 = <<10-8=2>>2 hours of overtime\nOvertime is calculated as time and a half so and she makes $18/hour so her overtime pay is 18*.5 = $<<18*.5=9.00>>9.00\nHer overtime pay is 18+9 = $<<18+9=27.00>>27.00\nHer base pay is $144.00 per 8-hour shift and she works 5 days and makes 5 * $144 = $<<144*5=720.00>>720.00\nHer overtime pay is $27.00 per hour and she works 2 hours of overtime per day and makes 27*2 = $<<27*2=54.00>>54.00 in overtime pay\n2 hours of overtime pay for 5 days means she makes 54*5 = $270.00\nIn 5 days her base pay is $720.00 and she makes $270.00 in overtime pay so she makes $720 + $270 = $<<720+270=990.00>>990.00\n#### 990
-  answer_template: She works {N_01} hours a day for ${N_00} per hour so she makes {N_01}*{N_00} = $<<N_04_formula>>{N_04} per {N_01}-hour shift\nShe works {N_02} hours a day and anything over {N_01} hours is eligible for overtime, so she gets {N_02}-{N_01} = <<N_05_formula>>{N_05} hours of overtime\nOvertime is calculated as time and a half so and she makes ${N_00}/hour so her overtime pay is {N-00}*.5 = $<<N_06_formula>>{N_06}\nHer overtime pay is {N_00}+{N_06} = $<<N_07_formula>>={N_07}\nHer base pay is ${N_05} per {N_01}-hour shift and she works {N_03} days and makes {N_03} * ${N_04} = $<<N_08_formula>>{N_08}\nHer overtime pay is ${N_07} per hour and she works {N_02} hours of overtime per day and makes {N_07}*{N_02} = $<<N_09_formula>>{N_09} in overtime pay\n{N_05} hours of overtime pay for {N_04} days means she makes <<N_10_formula>> = ${N_10}\nIn {N_} days her base pay is $720.00 and she makes $270.00 in overtime pay so she makes $720 + $270 = $<<720+270=990.00>>990.00\n#### 990
-  answer_numerical: 990
+  answer_template: She works {N_01} hours a day for ${N_00} per hour so she makes {N_01}*{N_00} = $<<N_04_formula>>{N_04} per {N_01}-hour shift\nShe works {N_02} hours a day and anything over {N_01} hours is eligible for overtime, so she gets {N_02}-{N_01} = <<N_05_formula>>{N_05} hours of overtime\nOvertime is calculated as time and a half so and she makes ${N_00}/hour so her overtime pay is {N_00}*.5 = $<<N_06_formula>>{N_06}\nHer overtime pay is {N_00}+{N_06} = $<<N_07_formula>>={N_07}\nHer base pay is ${N_05} per {N_01}-hour shift and she works {N_03} days and makes {N_03} * ${N_04} = $<<N_08_formula>>{N_08}\nHer overtime pay is ${N_07} per hour and she works {N_05} hours of overtime per day and makes {N_07}*{N_05} = $<<N_09_formula>>{N_09} in overtime pay\n{N_05} hours of overtime pay for {N_04} days means she makes <<N_10_formula>> = ${N_10}\nIn {N_03} days her base pay is ${N_08} and she makes {N_10} in overtime pay so she makes ${N_08} + {N_10} = $<<N_11_formula>>{N_11}\n#### {N_11}
+  answer_numerical: N_11
 
