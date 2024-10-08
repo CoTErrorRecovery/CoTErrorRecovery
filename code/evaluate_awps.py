@@ -55,7 +55,7 @@ def run_AWPS (model:PromptModel, skip:int = 0, limit:int = 1, scorer:Callable[[s
                        for i in inputs]
         else: # custom tasks (from perturbations) are stored in json files
             task_path = os.path.abspath(os.path.join(AWPS_RESULTS_PATH,
-                                                     taskset+'_'+model_name.split(" ")[-1].replace('.','-').replace(':','-')+'.json'))
+                                                     taskset+'_'+clean_model_name(model_name)+'.json'))
             with open(task_path, 'r', encoding='utf-8') as json_file:
                 inputs = json.load(json_file)
             questions = inputs.keys()
@@ -274,17 +274,7 @@ if __name__ == "__main__": # run evaluation
         anno_path = results_path.replace('.csv','_annotated.csv') # check for annotated version
         if os.path.isfile(anno_path):
             results_path = anno_path
-        def not_model (row):
-            if isinstance(row['Model Name'], float) or isinstance(row['Prompt Style'], float): # skip blank rows
-                return True
-            error_type = ERROR_TYPE[TASKSET.split('position-')[-1].split('_')[0]]
-            if 'Error Type' in row and row['Error Type']!=error_type: # incorrect error type
-                return True
-            if 'Model Name' in row and row['Model Name']!=MODEL_NAME: # incorrect model
-                return True
-            if 'Prompt Style' in row and row['Prompt Style']!=STYLE: # incorrect prompt style
-                return True
-            return False # passed all tests
+        skip_row = create_skip_condition(TASKSET, MODEL_NAME, STYLE)
         if VERBOSE:
             print(evaluate_results(results_path, summary_path, skip=SKIP, limit=LIMIT,
-                                           taskset=TASKSET, scorer=SCORER, skip_condition=not_model))
+                                           taskset=TASKSET, scorer=SCORER, skip_condition=skip_row))

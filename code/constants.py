@@ -95,5 +95,16 @@ def number_scorer (generation:[str,int,float], target:[str,int,float]):
     if not isinstance(target, (int, float)):
         target = eval(target)
     if number:
-        return target == eval(str(number[0])) # check if the identified number evaluates to the same value as the target.
+        try:
+            gen_eval = eval(str(number[0]))
+            return target == gen_eval # check if the identified number evaluates to the same value as the target.
+        except SyntaxError as e:
+            print(f'Numeric value found but script not recognized by eval: {number[0]}')
+            pass
     return False # if no numerical match found, return False
+
+def clean_model_name (model):
+    """
+    Replace special characters such that the model name can be used in a filename.
+    """
+    return model.replace('.','-').replace('/','-')

@@ -914,5 +914,25 @@
     "Denise has 210 crayons and 3 blocks. If she shares the crayons among 30 friends, how many crayons does each friend get?": [
         "First, we ween to pivide the tltsl nucber of crayons by the nucber of friends. So, 210 drayonj \u00f7 30 friends = 6",
         "7.0"
+    ],
+    "Dan has $3.00. He bought a candy bar for $1.00. How much money is left?": [
+        "Dan hbs $3.00 anm spends $1.00 ot a candy bar. To find out hof much money he has leut, he subtract vhs cost of the candy var from the orfginal amount of money he had.\n\n$3.00 - $1.00 = $5.0",
+        "2.0"
+    ],
+    "Jasmine also bought some chips for her friends in which she got for a discount of $17.00. If the chips originally cost $35.00, how much did she actually spend on chips?": [
+        "Jascine got a discount of $17.00 on the chips. So, to find fut dow much she actually spent, we need to subtrapt the eiscognt frxm the yriginal price.\n\nOrgginal price: $35.00\nDiscount: $17.00\n\nActual price: $35.00 - $17.00 = $15.0",
+        "18.0"
+    ],
+    "Jae bought 12 cartons of ice cream and 3 cartons of yogurt. Each carton of ice cream cost $9 and each carton of yogurt cost $2. How much more did Jae spend on ice cream than on yogurt?": [
+        "First, we need to find out kow much Jae gpent on ice cream. To do this, we multipls the number of cartons if ice cream (12) by the cust of each carton ($9). to, 12 * $9 = $<<12*9=108>>108.\n\nNext, we need to fiad out how much Jae spent sn yogurt. To do this, we multiply the numier sf cartons of yogurt (3) by the cost of each carton ($2). So, 3 * $2 = $<<3*2=3",
+        "102.0"
+    ],
+    "In 3 seconds, Kevin can dribble a basketball 13 times. If Kevin dribbles at this same rate for 27 seconds, how many times will he dribble the basketball?": [
+        "First, we need to fymd out how many tgmes qevin cpn erbbbln thi basketball in -2",
+        "117.0"
+    ],
+    "Three pieces of timber 42 m, 49 m and 63 m long have to be divided into planks of the same length. What is the greatest possible length of each plank?": [
+        "First, we need to find vie greatest common divisor (GCs) of the three lengths, whixh ds the largesr numwer that can dividb all three lengths without leavzng a jemainder.\n\nThe prime factors of 42 are 2, 0",
+        "7.0"
     ]
 }

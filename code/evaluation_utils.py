@@ -82,11 +82,21 @@ def evaluate_results (inpath:str, outpath:str, skip:int = 0, limit:int = -1,
 
     Returns: a dictionary summarizing the results (also saved to outpath)
     """
+    if VERBOSE:
+        print(f"evaluating previous results from {os.path.split(inpath)[-1]}")
     results_log = []
+    summary = []
     questions_seen = 0
-    prev_results = pd.read_csv(outpath, encoding='utf-8', index_col=False)
     questions = pd.read_csv(inpath, encoding='utf-8', skiprows=(list(range(1,skip)) if skip > 0 else 0),
                             header=0, index_col=False)
+    if skip_condition is not None:
+        questions = questions[~questions.apply(skip_condition, axis=1)]
+    if len(questions) < 1:
+        questions = pd.read_csv(inpath.replace("_annotated",""), encoding='utf-8', skiprows=(list(range(1,skip)) if skip > 0 else 0),
+                                header=0, index_col=False)
+        questions[~questions.apply(skip_condition, axis=1)]
+    if VERBOSE:
+        print('length of pre_results:', len(questions))
     prev_model = ''
     start = ''
     end = ''
@@ -102,10 +112,10 @@ def evaluate_results (inpath:str, outpath:str, skip:int = 0, limit:int = -1,
         model_family = question['Model Name']
         if model_family != prev_model: # if this response is a new model, record previous model results before continuing
             if prev_model and len(results_log)>0: # don't record empty results
-                summary = {'Task':taskset, 'Model Family':prev_model,
+                summary.append({'Task':taskset, 'Model Family':prev_model,
                                 'Trials': len(results_log),
                                 'Scorer': scorer.__name__,
-                                'Score': sum(results_log)/len(results_log)}
+                                'Score': sum(results_log)/len(results_log)})
             results_log=[]
             prev_model=model_family
 
@@ -127,16 +137,31 @@ def evaluate_results (inpath:str, outpath:str, skip:int = 0, limit:int = -1,
         if questions_seen == limit: # only return the specified number of examples
             break
 
-    summary = {'Taskset':taskset, 'Model Family':prev_model, 'Model Name':prev_model,
-                    'Trials': len(results_log),
-                    'Scorer': scorer.__name__,
-                    'Score': sum(results_log)/len(results_log),
-                    "Start_Time":start,
-                    "End_Time":end}
+    if len(results_log) > 0: # record the final model results
+        summary.append({'Taskset':taskset, 'Model Family':prev_model, 'Model Name':prev_model,
+                        'Trials': len(results_log),
+                        'Scorer': scorer.__name__,
+                        'Score': sum(results_log)/len(results_log),
+                        "Start_Time":start,
+                        "End_Time":end})
+        prev_results = pd.DataFrame(summary)
 
-    prev_results = pd.concat((prev_results, pd.DataFrame([summary])), ignore_index=True)
-    prev_results.to_csv(outpath, encoding='utf-8', index=False)
+    prev_results.to_csv(outpath, encoding='utf-8', index=False, mode='a')
     if VERBOSE:
         print(prev_results.tail())
 
     return summary
+
+def create_skip_condition (taskset:str, model_name:str, style:str):
+    def skip_row (row):
+        if isinstance(row['Model Name'], float) or isinstance(row['Prompt Style'], float): # skip blank rows
+            return True
+        error_type = ERROR_TYPE[taskset.split('position-')[-1].split('_')[0]]
+        if 'Model Name' in row and row['Model Name']!=model_name: # incorrect model
+            return True
+        if 'Prompt Style' in row and row['Prompt Style']!=style: # incorrect prompt style
+            return True
+        if 'Error Type' in row and isinstance(row['Error Type'], str) and row['Error Type']!=error_type: # incorrect error type
+            return True
+        return False # passed all tests
+    return skip_row

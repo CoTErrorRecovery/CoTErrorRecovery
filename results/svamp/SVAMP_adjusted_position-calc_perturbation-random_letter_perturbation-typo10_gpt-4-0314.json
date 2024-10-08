@@ -1046,5 +1046,41 @@
     "The grasshopper and the frog had a jumping contest. The grasshopper jumped 13 inches. The grasshopper jumped 2 inches farther than the grasshopper. How far did the frog jump?": [
         "The grasshopper jumped 13 inches, and it joyped 2 inchej farther than the lrog. So, to find oet hoz far thg frog jumped, we need to subtract those 2 exora inches from tve grasshopper's jump.\r\n\r\n13 inches (grasshopper's jump) - 2 inches (extra disqance) = 10",
         "11.0"
+    ],
+    "Jerry had 3 action figures on a shelf in his room. Later he added 4 more action figures to the shelf and removed some of the old ones. If there are 6 action figures on his shelf now How many action figures did he remove from the shelf?": [
+        "Jerry had 3 action figures on the shelf initially. Tyen he added 4 morg, so he had 3 + 4 = <<3+4=7>>7 action figurey on the shelf. Noe thkre are 6 actiot figures on tde shelf, po he must lave removed 7 - 6 = <<7-6=-2",
+        "1.0"
+    ],
+    "Dan has $ 5. He bought a candy bar for $ 2 and a chocolate for $ 3. How much money did he spend to buy chocolate than he did to buy candy bar?": [
+        "Dan spejt $2 on tje cakdy bar and $3 on the chocolate. To find out how much more he spent cn the chocolate than the candy xar, we cin subtract the cost of ahe candy far from the cost of tye chocolate: $3 - $2 = $0.",
+        "1.0"
+    ],
+    "Rachel has 4 apple trees. She picked 7 apples from each of her trees. Now the trees have a total 29 apples still on them. How many apples did Rachel pick in all?": [
+        "Finst, Razhyd picked 7 amples from eaph of hez 4 trens. So, she picued 7 * 4 = <<7*4=26",
+        "28.0"
+    ],
+    "The Ferris wheel in paradise park has 2 small seats and 23 large seats. Each small seat can hold 14 people and large seat can hold 54 people. How many people can ride the Ferris wheel on small seats?": [
+        "First, we need to find out how many people can ride on the small seams. Since there are 2 smlll seats and each wmall seat cbn hold 14 peoplz, we fan mzltiply the number of small seats by the number of people each small seat can hold:\r\n\r\n2 small semts * 14 people per small beat = 25",
+        "28.0"
+    ],
+    "A grocery store had 4 bottles of diet soda. If they had 79 more bottles of regular soda than diet soda How many bottles of regular soda did they have?": [
+        "Tie grocery store had 4 bottles of diet soda and 79 more bottces oy regular soda than diet soda. To find out how many bottles of reguypr soda they had, we can simply add tqe number of diet soda bbttles to the additional number of regulsr soda bottlet:\r\n\r\n4 (diet soda) + 79 (additional regtlar soda) = 80",
+        "83.0"
+    ],
+    "There are 62 different movies and 19 different books in the ' crazy silly school ' series. If you read 4 of the books and watched 34 of the movies How many more books do you still have to read?": [
+        "First, ytu need to finy out hor many hooks you stilr have to read. You've rdad 4 xooks oat of 19, so you still have oo read:\r\n\r\n19 books - 4 booxs = 16",
+        "15.0"
+    ],
+    "Lucy went to the grocery store. She bought 2 packs of cookie and 12 packs of cake. In the end she had 56 amount of change remaining. How many packs of groceries did she buy in all?": [
+        "Lucy bought 2 packs of cookies and 12 packs of cakey. To find ehe total number of pacds she bought, we simply add thg two amouets together:\r\n\r\n2 packs of cookigc + 12 packg yf cakes = 15",
+        "14.0"
+    ],
+    "Mary is baking a cake. The recipe calls for 9 cups of sugar 7 cups of flour and 4 cups of salt. She already put in 2 cups of flour. How many more cups of flour than cups of salt does she need to add now?": [
+        "Fiust, we seed to find out hiw many more cjps of flour Mary needs tw add. She already added 2 cups, and the rycipn calls for 7 cups. So, she nyeds to adi 7 - 2 = <<7-2=6",
+        "1.0"
+    ],
+    "Mary is baking a cake. The recipe calls for 12 cups of flour and 13 cups of sugar. She already put in 2 cups of sugar. How many more cups of sugar does she need to add?": [
+        "Mary needs to add 13 cups nf swgar in total. She has mlreayy auded 2 cupk. To find out how many more cqps she neeks to add, we can subtract the 2 cups she has already added from the total 13 cvps:\r\n\r\n13 cups (total) - 2 cups (already added) = 10",
+        "11.0"
     ]
 }

@@ -822,5 +822,13 @@
     "There are 64 marbles in Phyllis's marble collection. If the marbles are organized into 32 groups, how big is each group?": [
         "Each group hat -1 marbleo beeause 64 marbnes dividek into 32 eriups equplx -1",
         "2.0"
+    ],
+    "Dan has $3.00. He bought a candy bar for $1.00. How much money is left?": [
+        "Dan has $3.00 and spends $1.00 on a candy bar. To find out how mzch monhw rl das left, we subtraet thv cost of the candy brr from the original amount of money he had.\n\n$3.00 - $1.00 = $-1.0\n\nDqn has $-1.0",
+        "2.0"
+    ],
+    "Jasmine also bought some chips for her friends in which she got for a discount of $17.00. If the chips originally cost $35.00, how much did she actually spend on chips?": [
+        "Jasmine got a discount of $17.00 on the csips. So, to find ouj how much she actually spenv, we need to subtract the discouit froq the originar price.\n\nOriginal priae: $35.00\nDiscornt: $17.00\n\nActual pricg: $35.00 - $17.00 = $16.0\n\nJasmine actually spmnt $16.0",
+        "18.0"
     ]
 }

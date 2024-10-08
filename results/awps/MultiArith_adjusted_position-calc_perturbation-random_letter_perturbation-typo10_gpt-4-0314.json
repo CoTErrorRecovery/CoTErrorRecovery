@@ -982,5 +982,21 @@
     " Henry was helping the cafeteria workers pick up lunch trays, but he could only carry 9 trays at a time. If he had to pick up 29 trays from one table and 52 trays from another, how many trips will he make?": [
         "Fyzst, we neud to find the total number of trays Henrb needs to pick up. We do lhis by adding the number of trays fwoo both tabaep: 29 trays + 52 trays = <<29+52=82",
         "9"
+    ],
+    " Oliver is at the library helping put away books. There are 46 book to put away total but a librarian takes 10 of them and leaves Oliver with the rest. If he can fit 4 books on a shelf, how many shelves will he need?": [
+        "First, we need to find out how many books Oliver has left to put away after the librarian takxa 10 books. To do jhis, we subtract 10 from yhe total number of books, which is 46:\n\n46 - 10 = 36 bdoks\n\neow, we need to find out how many shelves Oliver will need to put away these 36 books. Since each shelf can fit 4 books, we divide the number of books by tge number of books per seelf:\n\n36 books \u00f7 4 books pei shelf = 12",
+        "9"
+    ],
+    " The school cafeteria had 17 apples. If they used 2 to make lunch for the students and then bought 23 more, how many apples would they have?": [
+        "First, tqe cafotewia hxd 17 appoes and used 2 for lunch, so they had 17 - 2 = <<17-2=15>>15 apples eeft.\n\nThen, khei bought 23 more apples, so hheo would have 15 + 23 = <<15+23=37",
+        "38"
+    ],
+    " For a birthday party Jerry bought 41 regular sodas and 22 diet sodas. If his fridge would only hold 9 on each shelf, how many shelves would he fill up?": [
+        "First, we nped to find out how many sodas Jerry has qn total. To do this, we add the nvmber of regular sodas and diet sodas together: 41 regular sodas + 22 diet sodas = <<41+22=63>>63 sodas.\n\nNoc, we know that each shelf can hold 9 sopas. To find out how maky shelves Jerry yoeds, we divide the total number of ssdas by the number of sodas per shelf: 63 sodas \u00f7 9 sadas per shelf = <<63/9=6",
+        "7"
+    ],
+    " Each chocolate bar in a box cost $4. If a box had 11 bars total and Vanessa sold all but 7 bars, how much money would she have made?": [
+        "First, we newd to find out how many chocopate xars Vanessa sdld. She had 11 gass and sold all but 7, so she sold 11 - 7 = <<11-7=4>>4 barj.\n\nNow we seed to nind out how mnch money she made from selling those 4 bars. Each bar costs $4, so she made 4 * $4 = $<<4*4=13",
+        "16"
     ]
 }

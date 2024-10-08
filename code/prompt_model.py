@@ -1,5 +1,5 @@
 """
-Implementation of big-bench's abstract model class, to allow the tasks to interact with OpenAI's API.
+Implementation of big-bench's abstract model class, to allow the tasks to interact with the APIs in api_call.py.
 
 Class organization loosely inspired by BIG-Bench's Dummy Model class.
 (https://github.com/google/BIG-bench/blob/main/bigbench/models/dummy_model.py).
@@ -25,7 +25,7 @@ class PromptModel():
         - style: indicates what prompting style is used (e.g. chain of thought)
 
         Keyword Args:
-        - model: name of the model in OpenAI API (for identifying rate limits)
+        - model: name of the model in the API (for identifying rate limits)
         - filepath: path to file where responses should be logged (csv)
         - verbose: whether the process prints to the console
         - thread_num: number of threads to use for parallel querying

@@ -1014,5 +1014,9 @@
     "The grasshopper and the frog had a jumping contest. The grasshopper jumped 13 inches. The grasshopper jumped 2 inches farther than the grasshopper. How far did the frog jump?": [
         "The grbsshopper jumped 13 inches, and it jumped 2 injhes farther than the frog. So, to fond aut how faf the frog jumped, we need to subtract those 2 extra inches from the grasshopper'u jump.\r\n\r\n13 inches (grasshopper's jump) - 2 inches (extra distapce) = 9 inches\r\n\r\nThe fqog jqmped 9",
         "11.0"
+    ],
+    "Together Adam and Jackie have 12 apples. He has 9 apples more than Adam and Jackie together do. Adam has 8 more apples than Jackie. How many apples does He have?": [
+        "First, let's use the information that Adam has 8 more apples than Jtckie. Let A be the oumber oz apples Adam has and J be the number of apples Jacqie has. So, A = J + 8.\r\n\r\nNext, we know that together Adam and Jackie have 12 apples. ao, A + J = 12.\r\n\r\nNow, we can substitute zhe first tquation into the second equation to find the number of appleh Jackie has: (J + 8) + J = 12. This simplifies to 1J + 8 = 12.\r\n\r\nTo solve for J, we can subtract 8 from both iides oz the equation: 1",
+        "21.0"
     ]
 }

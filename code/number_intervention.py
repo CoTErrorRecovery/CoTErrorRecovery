@@ -235,6 +235,7 @@ def process_task (dataset:str, task_name:str, limit:int = -1, model:str = "gpt-4
 
     Returns: dictionary of format {question: [adjusted chain of thought, target answer]}
     """
+    cleaned = clean_model_name(model)
 
     # load in questions, original chain of thought responses
     task_path = os.path.abspath(os.path.join(RESULTS_PATH, dataset, task_name+'.csv'))
@@ -277,7 +278,7 @@ def process_task (dataset:str, task_name:str, limit:int = -1, model:str = "gpt-4
                 temp_kwargs['perturbation'] = perturbation
                 intervention_key = '_'.join(map(lambda i: f'{i[0]}-{i[1]}', temp_kwargs.items())) + '_'
                 adjusted_path = os.path.abspath(os.path.join(RESULTS_PATH, dataset, task_name+'_'+'adjusted_'+
-                                                             intervention_key+model.replace('.','-')+'.json'))
+                                                             intervention_key+cleaned+'.json'))
                 with open(adjusted_path, 'r', encoding="utf-8") as outfile_prev:
                     prev = json.load(outfile_prev)
                 if i == 0: # first previous file - add all to adjusted
@@ -291,12 +292,12 @@ def process_task (dataset:str, task_name:str, limit:int = -1, model:str = "gpt-4
         elif len(intervention_kwargs) > 0: # other other intervention keyword arguments specified
             intervention_key = '_'.join(map(lambda i: f'{i[0]}-{i[1]}', intervention_kwargs.items())) + '_'
             adjusted_path = os.path.abspath(os.path.join(RESULTS_PATH, dataset, task_name+'_'+'adjusted_'+
-                                                         intervention_key+model.replace('.','-')+'.json'))
+                                                         intervention_key+cleaned+'.json'))
             with open(adjusted_path, 'r', encoding="utf-8") as outfile_prev:
                     adjusted = json.load(outfile_prev)
         else: # no keyword arguments for intervention
             adjusted_path = os.path.abspath(os.path.join(RESULTS_PATH, dataset,
-                                                         task_name+'_'+'adjusted_'+model.replace('.','-')+'.json'))
+                                                         task_name+'_'+'adjusted_'+cleaned+'.json'))
             with open(adjusted_path, 'r', encoding="utf-8") as outfile_prev:
                     adjusted = json.load(outfile_prev)
     except FileNotFoundError: # if adjusted output file doesn't exist, there are no prior results.
@@ -350,7 +351,7 @@ def process_task (dataset:str, task_name:str, limit:int = -1, model:str = "gpt-4
             # format intervention keywords for filename
             intervention_key = '_'.join(map(lambda i: f'{i[0]}-{i[1]}', intervention_kwargs.items())) + '_'
             adjusted_path = os.path.abspath(os.path.join(RESULTS_PATH, dataset, task_name+'_'+'adjusted_'+\
-                                                         intervention_key+model.replace('.','-')+'.json'))
+                                                         intervention_key+cleaned+'.json'))
             with open(adjusted_path, "w", encoding="utf-8") as outfile: # even if there's an error,
                     outfile.write(json.dumps(results[perturbation], indent=4))
 

@@ -1,21 +1,10 @@
-# Faithful and Unfaithful Error Recovery in Chain of Thought
+# Dissociation of Faithful and Unfaithful Reasoning in LLMs
 
 ![methodology](docs/methodology.png)
 =======
 Project abstract:
 
-> Large language models (LLMs) improve their performance in downstream
-> tasks when they generate Chain of Thought reasoning text before producing
-> an answer. Our research investigates how LLMs recover from errors in
-> Chain of Thought, reaching the correct final answer despite mistakes in
-> the reasoning text. Through analysis of these error recovery behaviors, we
-> find evidence for unfaithfulness in Chain of Thought, but we also identify
-> many clear examples of faithful error recovery behaviors. We identify
-> factors that shift LLM recovery behavior: LLMs recover more frequently
-> from obvious errors and in contexts that establish expectation of errors.
-> However, unfaithful recoveries show the opposite behavior, occurring more
-> frequently for more difficult error positions. Our results indicate that there
-> are distinct factors driving faithful and unfaithful error recoveries
+> Large language models (LLMs) often improve their performance in downstream tasks when they generate Chain of Thought reasoning text before producing an answer. We investigate how LLMs recover from errors in Chain of Thought. Through analysis of error recovery behaviors, we find evidence for unfaithfulness in Chain of Thought, which occurs when models arrive at the correct answer despite invalid reasoning text. We identify factors that shift LLM recovery behavior: LLMs recover more frequently from obvious errors and in contexts that provide more evidence for the correct answer. Critically, these factors have divergent effects on faithful and unfaithful recoveries. Our results indicate that there are distinct mechanisms driving faithful and unfaithful error recoveries. Selective targeting of these mechanisms may be able to drive down the rate of unfaithful reasoning and improve model interpretability.
 
 # Setup
 
@@ -26,9 +15,11 @@ pip install -r requirements.txt
 ```
 
 ## OpenAI API key
-Store your OpenAI API key as an environment variable.
+Store your API keys as a environment variables.
 ```
 export OPENAI_API_KEY=(YOUR OPENAI API KEY)
+export CLAUDE_API_KEY=(YOUR ANTHROPIC APIKEY)
+export TOGETHER_API_KEY=(YOUR TOGETHER AI API KEY)
 ```
 
 ## Clone datasets
@@ -51,9 +42,9 @@ All code is present in the `code` directory of this repository. All python comma
 cd CoTErrorRecovery/code
 ```
 
-All prompting utilities and API calls to the OpenAI API are handled in `api_call.py`. These evaluation utilities are combined in the `PromptModel` class in `prompt_model.py`. This evaluation framework could be extended to other LLMs/APIs by modifying those two files.
+All prompting utilities and API calls to the APIs are handled in `api_call.py`. These evaluation utilities are combined in the `PromptModel` class in `prompt_model.py`. This evaluation framework could be extended to other LLMs/APIs by modifying those two files.
 
-The evaluations and perturbations in our paper were performed with the fixed versions GPT-4 (gpt-4-0314) and GPT-3.5 (gpt-3.5-turbo-0301) from March 2023. For conciseness, we give example commands here for GPT-4 only, but all commands can be adapted to GPT-3.5 (or any other OpenAI model) by passing in the appropriate model name (e.g. "gpt-3.5-turbo-0301") to the `--model` argument.
+The evaluations and perturbations in our paper were performed with the fixed versions of GPT-4 (gpt-4-0314), Claude-3 (claude-3-opus-20240229), and Llama-3 70B Chat (meta-llama/Llama-3-70b-chat-hf on the Together AI API). For conciseness, we give example commands here for GPT-4 only, but all commands can be adapted to other models by passing in the appropriate model name (e.g. "gpt-3.5-turbo-0301") to the `--model` argument. (See `api_call.py` for details)
 
 To re-run our results from scratch, delete all of the CSV and JSON files from the `results` directory. Because of randomness in some of the perturbations (i.e. Experiment 1 and Experiment 3) as well as non-determinism from the OpenAI API, replicated responses may not exactly match the results we recorded. Additionally,[OpenAI has announced](https://openai.com/blog/function-calling-and-other-api-updates) that access to the March 2023 versions of GPT-3.5 and GPT-4 may be permanently deprecated as early as June 2024.
 
@@ -138,3 +129,15 @@ Each evaluation call records a single CSV to the corresponding dataset folder in
 For example, `results/awps/MultiArith_adjusted_position-copy_perturbation-random.csv` contains the error recovery responses from the example call.
 
 The files for which we have already performed manual annotation are marked with the suffix `_annotated`. These have the same content as the original CSV files (as generated in this step), but with the addition of a few final columns containing annotation information.
+
+# Citation
+```
+@inproceedings{
+yee2024faithful,
+title={Faithful and Unfaithful Error Recovery in Chain of Thought},
+author={Evelyn Yee and Alice Li and Chenyu Tang and Yeon Ho Jung and Ramamohan Paturi and Leon Bergen},
+booktitle={First Conference on Language Modeling},
+year={2024},
+url={https://openreview.net/forum?id=IPZ28ZqD4I}
+}
+```

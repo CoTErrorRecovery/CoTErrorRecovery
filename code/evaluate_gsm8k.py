@@ -49,7 +49,7 @@ def run_GSM8K (model:PromptModel, skip:int = 0, limit:int = 1, scorer:Callable[[
         if taskset in built_in: # built-in tasks from GSM8K are stored in jsonl files
             task_path = os.path.join(GSM8K_PATH, 'data', taskset+'.jsonl')
             with open(task_path, 'r', encoding='utf-8') as jsonl_file:
-                inputs.extend(list(jsonl_file))
+                inputs = list(jsonl_file)
             inputs = [json.loads(i) for i in inputs]
             questions = [i['question'] for i in inputs]
             answers = [i['answer'].split('####')[-1].strip().replace(',','')
@@ -58,7 +58,7 @@ def run_GSM8K (model:PromptModel, skip:int = 0, limit:int = 1, scorer:Callable[[
                         for i in inputs]
         else: # custom tasks (from perturbations) are stored in json files
             task_path = os.path.abspath(os.path.join(GSM8K_RESULTS_PATH,
-                                                     taskset+'_'+model_name.split(" ")[-1].replace('.','-').replace(':','-')+'.json'))
+                                                     taskset+'_'+clean_model_name(model_name)+'.json'))
             with open(task_path, 'r', encoding='utf-8') as json_file:
                 inputs = json.load(json_file)
             questions = inputs.keys()
@@ -224,7 +224,7 @@ if __name__ == "__main__": # run evaluation
                 if VERBOSE:
                     print(f'Evaluating GSM8K {TASKSET} on model: {model.name+" "+model.style}. Start time: {start}')
                 task_result_dict = {'Start_Time':start}
-                results, errors = run_GSM8K(model, limit=LIMIT, skip=SKIP, taskset=TASKSET,
+                results, errors = run_GSM8K(model, limit=skip_interval, skip=SKIP, taskset=TASKSET,
                                             scorer=SCORER, batch=(THREADS>1), skip_condition=skip_condition)
                 task_result_dict.update(results)
                 end = time.asctime(time.localtime())
@@ -267,17 +267,7 @@ if __name__ == "__main__": # run evaluation
         anno_path = results_path.replace('.csv','_annotated.csv') # check for annotated version
         if os.path.isfile(anno_path):
             results_path = anno_path
-        def not_model (row):
-            if isinstance(row['Model Name'], float) or isinstance(row['Prompt Style'], float): # skip blank rows
-                return True
-            error_type = ERROR_TYPE[TASKSET.split('position-')[-1].split('_')[0]]
-            if 'Error Type' in row and row['Error Type']!=error_type: # incorrect error type
-                return True
-            if 'Model Name' in row and row['Model Name']!=MODEL_NAME: # incorrect model
-                return True
-            if 'Prompt Style' in row and row['Prompt Style']!=STYLE: # incorrect prompt style
-                return True
-            return False # passed all tests
+        skip_row = create_skip_condition(TASKSET, MODEL_NAME, STYLE)
         if VERBOSE:
             print(evaluate_results(results_path, summary_path, skip=SKIP, limit=LIMIT,
-                                           taskset=TASKSET, scorer=SCORER, skip_condition=not_model))
+                                           taskset=TASKSET, scorer=SCORER, skip_condition=skip_row))
